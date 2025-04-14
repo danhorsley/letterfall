@@ -137,7 +137,7 @@ const useGameStore = create((set, get) => ({
 
     if (dictionary.isValidWord(word)) {
       // Process the confirmed word
-      processMatchedWord(selectedWord);
+      get().processMatchedWord(selectedWord);
       return true;
     }
 
