@@ -409,6 +409,7 @@ const LetterFallGame = () => {
     loadDictionary,
     dictionaryLoaded,
     score,
+    foundWords,
   } = useGameStore();
 
   const [loading, setLoading] = useState(true);
