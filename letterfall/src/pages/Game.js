@@ -39,7 +39,7 @@ const useGameStore = create((set, get) => ({
   // Load dictionary
   loadDictionary: async () => {
     try {
-      await dictionary.loadFromJSON("/dictionary.optimized.json");
+      await dictionary.loadFromJSON("/dictionary.json");
       set({ dictionaryLoaded: true });
       get().findWords();
     } catch (error) {
