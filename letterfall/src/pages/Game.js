@@ -13,7 +13,26 @@ const calculateWordPoints = (length) => {
 
   return pointValues[length] || length * 20; // Fallback calculation
 };
-
+// Add a component to display the word history
+const WordHistory = ({ words }) => {
+  return (
+    <div className="w-48 ml-4 p-2 bg-gray-100 rounded-lg">
+      <h3 className="font-bold mb-2">Words Found</h3>
+      {words.length === 0 ? (
+        <p className="text-gray-500 text-sm">No words found yet</p>
+      ) : (
+        <ul className="max-h-64 overflow-y-auto">
+          {words.map((item, index) => (
+            <li key={index} className="flex justify-between text-sm mb-1">
+              <span className="font-medium">{item.word}</span>
+              <span className="text-green-600">+{item.points}</span>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  );
+};
 // Create the game store with Zustand
 const useGameStore = create((set, get) => ({
   // The 10-length strips that form our letter loops - now with better letter distribution
@@ -107,73 +126,100 @@ const useGameStore = create((set, get) => ({
 
   // Confirm word selection and process it
   confirmWordSelection: () => {
-    const { selectedWord, letterStrips, rowPositions } = get();
+    const { selectedWord, letterStrips, rowPositions, score } = get();
     if (selectedWord.length < 3) {
       // Clear selection if fewer than 3 letters
       set({ selectedWord: [] });
       return false;
     }
 
-    const word = selectedWord
-      .map((cell) => cell.letter)
-      .join("")
-      .toLowerCase();
+    const word = selectedWord.map(cell => cell.letter).join('').toLowerCase();
 
     if (dictionary.isValidWord(word)) {
-      // Add points based on word length
-      const points = calculateWordPoints(word.length);
-
-      // Clone the strips to update
-      const newStrips = JSON.parse(JSON.stringify(letterStrips));
-
-      // Group selected cells by row to handle replacements
-      const cellsByRow = {};
-      selectedWord.forEach((cell) => {
-        if (!cellsByRow[cell.row]) cellsByRow[cell.row] = [];
-        cellsByRow[cell.row].push(cell);
-      });
-
-      // Process each row with selected cells
-      Object.entries(cellsByRow).forEach(([rowIdx, cells]) => {
-        const row = parseInt(rowIdx);
-
-        // Sort cells by actual position in the strip
-        cells.sort((a, b) => {
-          const posA = (rowPositions[row] + a.col) % 10;
-          const posB = (rowPositions[row] + b.col) % 10;
-          return posA - posB;
-        });
-
-        // Remove letters and replace with new ones
-        cells.forEach((cell) => {
-          const stripPos = (rowPositions[row] + cell.col) % 10;
-
-          // Shift all letters after this position one position forward
-          for (let i = stripPos; i < 9; i++) {
-            newStrips[row][i] = newStrips[row][i + 1];
-          }
-
-          // Add new random letter at the end using our weighted distribution
-          newStrips[row][9] = getRandomLetter();
-        });
-      });
-
-      // Update state with new strips and score
-      set((state) => ({
-        letterStrips: newStrips,
-        score: state.score + points,
-        selectedWord: [],
-      }));
-
-      // Check for new words that might have formed
-      setTimeout(() => get().findWords(), 100);
-
+      // Process the confirmed word
+      processMatchedWord(selectedWord);
       return true;
     }
 
     // If not a valid word, just clear selection
     set({ selectedWord: [] });
     return false;
+  },
+
+  // New helper function to process matched words and check for cascades
+  processMatchedWord: (matchedWord) => {
+    const { letterStrips, rowPositions, score } = get();
+
+    // Calculate points based on word length
+    const points = calculateWordPoints(matchedWord.length);
+
+    // Clone the strips to update
+    const newStrips = JSON.parse(JSON.stringify(letterStrips));
+
+    // Group selected cells by row to handle replacements
+    const cellsByRow = {};
+    matchedWord.forEach(cell => {
+      if (!cellsByRow[cell.row]) cellsByRow[cell.row] = [];
+      cellsByRow[cell.row].push(cell);
+    });
+
+    // Process each row with selected cells
+    Object.entries(cellsByRow).forEach(([rowIdx, cells]) => {
+      const row = parseInt(rowIdx);
+
+      // Sort cells by actual position in the strip
+      cells.sort((a, b) => {
+        const posA = (rowPositions[row] + a.col) % 10;
+        const posB = (rowPositions[row] + b.col) % 10;
+        return posA - posB;
+      });
+
+      // Remove letters and replace with new ones
+      cells.forEach(cell => {
+        const stripPos = (rowPositions[row] + cell.col) % 10;
+
+        // Shift all letters after this position one position forward
+        for (let i = stripPos; i < 9; i++) {
+          newStrips[row][i] = newStrips[row][i + 1];
+        }
+
+        // Add new random letter at the end
+        newStrips[row][9] = String.fromCharCode(65 + Math.floor(Math.random() * 26));
+      });
+    });
+
+    // Update state with new strips and score
+    set(state => ({
+      letterStrips: newStrips,
+      score: state.score + points,
+      selectedWord: [],
+    }));
+
+    // Check for new words that might have formed after a short delay
+    setTimeout(() => {
+      // Find new words with the updated grid
+      get().findWords();
+
+      // Get the new highlighted words
+      const newHighlightedWords = get().highlightedWords;
+
+      // If new words were found, trigger cascade effect
+      if (newHighlightedWords.length > 0) {
+        // Sort words by length (descending) to prioritize longer words
+        newHighlightedWords.sort((a, b) => b.word.length - a.word.length);
+
+        // Select the longest word for automatic processing
+        const bestWord = newHighlightedWords[0];
+
+        // Visual feedback - briefly highlight the word before processing it
+        set({ selectedWord: bestWord.cells });
+
+        // Process this word after a short delay for visual feedback
+        setTimeout(() => {
+          get().processMatchedWord(bestWord.cells);
+        }, 500);
+      }
+    }, 300);
   },
 
   // Find possible words in the current grid
@@ -373,16 +419,18 @@ const LetterFallGame = () => {
     );
   };
 
-  // Handle clicking on a cell to select a word
   const handleCellClick = (row, col) => {
     if (selectedWord.length === 0) {
-      // Start new selection with the clicked cell
-      const highlightedCellsAtPosition = highlightedWords.filter((wordObj) =>
-        wordObj.cells.some((cell) => cell.row === row && cell.col === col),
+      // Find all highlighted words that contain this cell
+      const highlightedCellsAtPosition = highlightedWords.filter(wordObj => 
+        wordObj.cells.some(cell => cell.row === row && cell.col === col)
       );
 
       if (highlightedCellsAtPosition.length > 0) {
-        // If there's a highlighted word, select all its cells
+        // Sort by word length (descending) to prioritize longer words
+        highlightedCellsAtPosition.sort((a, b) => b.word.length - a.word.length);
+
+        // Select the longest word at this position
         selectWord(highlightedCellsAtPosition[0].cells);
       }
     } else {
