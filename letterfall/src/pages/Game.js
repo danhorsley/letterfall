@@ -103,7 +103,11 @@ const useGameStore = create((set, get) => ({
   // Confirm word selection and process it
   confirmWordSelection: () => {
     const { selectedWord, letterStrips, rowPositions } = get();
-    if (selectedWord.length < 2) return;
+    if (selectedWord.length < 3) {
+      // Clear selection if fewer than 3 letters
+      set({ selectedWord: [] });
+      return false;
+    }
 
     const word = selectedWord
       .map((cell) => cell.letter)
@@ -112,11 +116,20 @@ const useGameStore = create((set, get) => ({
 
     if (dictionary.isValidWord(word)) {
       // Add points based on word length
-      const points = word.length * 10;
+      const points = calculateWordPoints(word.length);
 
       // Clone the strips to update
       const newStrips = JSON.parse(JSON.stringify(letterStrips));
+      // Helper function to calculate points based on word length
+      const calculateWordPoints = (length) => {
+        const pointValues = {
+          3: 30, // 3-letter words: 30 points
+          4: 60, // 4-letter words: 60 points
+          5: 100, // 5-letter words: 100 points
+        };
 
+        return pointValues[length] || length * 20; // Fallback calculation
+      };
       // Group selected cells by row to handle replacements
       const cellsByRow = {};
       selectedWord.forEach((cell) => {
@@ -176,10 +189,10 @@ const useGameStore = create((set, get) => ({
     const grid = get().getActiveGrid();
     const words = [];
 
-    // Check horizontal words
+    // Check horizontal words - now starting at length 3
     for (let r = 0; r < 5; r++) {
-      // For each possible word length (2-5)
-      for (let len = 2; len <= 5; len++) {
+      // For each possible word length (3-5)
+      for (let len = 3; len <= 5; len++) {
         // Check each possible starting position
         for (let start = 0; start <= 5 - len; start++) {
           const wordCells = Array.from({ length: len }, (_, i) => ({
@@ -203,10 +216,10 @@ const useGameStore = create((set, get) => ({
       }
     }
 
-    // Check vertical words
+    // Check vertical words - now starting at length 3
     for (let c = 0; c < 5; c++) {
-      // For each possible word length (2-5)
-      for (let len = 2; len <= 5; len++) {
+      // For each possible word length (3-5)
+      for (let len = 3; len <= 5; len++) {
         // Check each possible starting position
         for (let start = 0; start <= 5 - len; start++) {
           const wordCells = Array.from({ length: len }, (_, i) => ({
@@ -476,10 +489,19 @@ const LetterFallGame = () => {
         <ul className="list-disc pl-5">
           <li>Shift rows and columns using the arrow buttons</li>
           <li>Look for words that form horizontally or vertically</li>
+          <li>Words must be at least 3 letters long</li>
           <li>Click on a highlighted word to select it</li>
           <li>Confirm selection to remove letters and score points</li>
           <li>
             Removed letters are replaced with new ones at the end of each row
+          </li>
+          <li>
+            Longer words are worth more points:
+            <ul className="list-disc pl-5 mt-1">
+              <li>3-letter words: 30 points</li>
+              <li>4-letter words: 60 points</li>
+              <li>5-letter words: 100 points</li>
+            </ul>
           </li>
         </ul>
       </div>

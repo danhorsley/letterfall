@@ -1,51 +1,28 @@
 // Import Papa Parse if you're loading from CSV
 import Papa from "papaparse";
 
+// wordDictionary.js with minimum word length
+
 class WordDictionary {
-  constructor() {
+  constructor(minLength = 3, maxLength = 5) {
     this.words = new Set();
     this.isLoading = false;
     this.isLoaded = false;
+    this.minLength = minLength;
+    this.maxLength = maxLength;
   }
 
-  // Check if a word exists in our dictionary
+  // Check if a word exists in our dictionary and meets length requirements
   isValidWord(word) {
-    return this.words.has(word.toLowerCase());
+    const normalizedWord = word.toLowerCase();
+    return (
+      normalizedWord.length >= this.minLength &&
+      normalizedWord.length <= this.maxLength &&
+      this.words.has(normalizedWord)
+    );
   }
 
-  // Load dictionary from a CSV file
-  async loadFromCSV(csvPath) {
-    if (this.isLoading || this.isLoaded) return;
-
-    this.isLoading = true;
-    try {
-      const response = await fetch(csvPath);
-      const csvText = await response.text();
-
-      Papa.parse(csvText, {
-        complete: (results) => {
-          // Assuming CSV has one word per row in the first column
-          results.data.forEach((row) => {
-            if (row[0] && typeof row[0] === "string") {
-              this.words.add(row[0].toLowerCase());
-            }
-          });
-
-          this.isLoaded = true;
-          this.isLoading = false;
-        },
-        error: (error) => {
-          console.error("Error parsing CSV:", error);
-          this.isLoading = false;
-        },
-      });
-    } catch (error) {
-      console.error("Error loading dictionary:", error);
-      this.isLoading = false;
-    }
-  }
-
-  // Alternative: Load dictionary from a plain text file (one word per line)
+  // Load dictionary from a text file
   async loadFromTxt(txtPath) {
     if (this.isLoading || this.isLoaded) return;
 
@@ -55,112 +32,130 @@ class WordDictionary {
       const text = await response.text();
 
       // Split by newlines and add each word to the Set
+      // Only include words that meet our length criteria
       text.split("\n").forEach((word) => {
-        const trimmed = word.trim();
-        if (trimmed) {
-          this.words.add(trimmed.toLowerCase());
+        const trimmed = word.trim().toLowerCase();
+        if (
+          trimmed &&
+          trimmed.length >= this.minLength &&
+          trimmed.length <= this.maxLength
+        ) {
+          this.words.add(trimmed);
         }
       });
 
       this.isLoaded = true;
       this.isLoading = false;
+
+      console.log(
+        `Dictionary loaded with ${this.words.size} words (${this.minLength}-${this.maxLength} letters)`,
+      );
     } catch (error) {
       console.error("Error loading dictionary:", error);
       this.isLoading = false;
     }
   }
 
-  // Load dictionary from a JSON array
-  async loadFromJSON(jsonPath) {
-    if (this.isLoading || this.isLoaded) return;
+  // Other loading methods would also need the length filter...
 
+  // For testing/development, we can add a sample dictionary directly
+  loadSampleWords() {
     this.isLoading = true;
-    try {
-      const response = await fetch(jsonPath);
-      const data = await response.json();
 
-      // Handle optimized dictionary format
-      Object.values(data).forEach(letterGroups => {
-        Object.values(letterGroups).forEach(words => {
-          words.forEach(word => {
-            if (typeof word === "string") {
-              this.words.add(word.toLowerCase());
-            }
-          });
-        });
-      });
+    // Sample 3-5 letter words
+    const sampleWords = [
+      // 3-letter words
+      "cat",
+      "dog",
+      "hat",
+      "bat",
+      "rat",
+      "sat",
+      "mat",
+      "fat",
+      "pat",
+      "run",
+      "sun",
+      "fun",
+      "bun",
+      "gun",
+      "hut",
+      "cut",
+      "nut",
+      "but",
+      "rip",
+      "sip",
+      "tip",
+      "lip",
+      "hip",
+      "dip",
+      "nip",
+      "zip",
+      "pip",
 
-      this.isLoaded = true;
-      this.isLoading = false;
-    } catch (error) {
-      console.error("Error loading dictionary:", error);
-      this.isLoading = false;
-    }
-  }
+      // 4-letter words
+      "cake",
+      "make",
+      "take",
+      "lake",
+      "fake",
+      "sake",
+      "wake",
+      "bake",
+      "time",
+      "lime",
+      "dime",
+      "mime",
+      "rime",
+      "chime",
+      "grime",
+      "prime",
+      "fish",
+      "dish",
+      "wish",
+      "risk",
+      "disk",
+      "mask",
+      "task",
+      "dusk",
 
-  // For very large dictionaries, you might want to chunk the processing
-  // to avoid blocking the UI thread
-  async loadFromLargeText(txtPath) {
-    if (this.isLoading || this.isLoaded) return;
+      // 5-letter words
+      "stare",
+      "flare",
+      "snare",
+      "spare",
+      "share",
+      "scare",
+      "glare",
+      "place",
+      "trace",
+      "grace",
+      "brace",
+      "space",
+      "plane",
+      "flame",
+      "house",
+      "mouse",
+      "louse",
+      "greet",
+      "sheet",
+      "sweet",
+      "fleet",
+    ];
 
-    this.isLoading = true;
-    try {
-      const response = await fetch(txtPath);
-      const text = await response.text();
-      const words = text.split("\n");
-
-      // Process in chunks of 1000 words
-      const chunkSize = 1000;
-      const totalChunks = Math.ceil(words.length / chunkSize);
-
-      for (let i = 0; i < totalChunks; i++) {
-        // Use setTimeout to yield to the browser between chunks
-        await new Promise((resolve) => {
-          setTimeout(() => {
-            const startIdx = i * chunkSize;
-            const endIdx = Math.min(startIdx + chunkSize, words.length);
-
-            for (let j = startIdx; j < endIdx; j++) {
-              const trimmed = words[j].trim();
-              if (trimmed) {
-                this.words.add(trimmed.toLowerCase());
-              }
-            }
-
-            resolve();
-          }, 0);
-        });
+    sampleWords.forEach((word) => {
+      if (word.length >= this.minLength && word.length <= this.maxLength) {
+        this.words.add(word.toLowerCase());
       }
+    });
 
-      this.isLoaded = true;
-      this.isLoading = false;
-    } catch (error) {
-      console.error("Error loading dictionary:", error);
-      this.isLoading = false;
-    }
-  }
+    this.isLoaded = true;
+    this.isLoading = false;
 
-  // For really huge dictionaries, consider using a Web Worker
-  // This is a simplified example - you'd need to implement the worker separately
-  loadWithWorker(path) {
-    if (this.isLoading || this.isLoaded) return;
-
-    this.isLoading = true;
-
-    const worker = new Worker("/dictionaryWorker.js");
-
-    worker.onmessage = (e) => {
-      if (e.data.type === "loaded") {
-        this.words = new Set(e.data.words);
-        this.isLoaded = true;
-        this.isLoading = false;
-      }
-    };
-
-    worker.postMessage({ type: "load", path });
+    console.log(`Sample dictionary loaded with ${this.words.size} words`);
   }
 }
 
-// Create and export a singleton instance
-const dictionary = new WordDictionary();
+// Create and export a singleton instance with minimum length of 3
+const dictionary = new WordDictionary(3, 5);
 export default dictionary;
