@@ -3,6 +3,8 @@ import Papa from "papaparse";
 
 // wordDictionary.js with minimum word length
 
+// wordDictionary.js with JSON loading and minimum word length
+
 class WordDictionary {
   constructor(minLength = 3, maxLength = 5) {
     this.words = new Set();
@@ -22,33 +24,38 @@ class WordDictionary {
     );
   }
 
-  // Load dictionary from JSON
+  // Load dictionary from a JSON file (array format)
   async loadFromJSON(jsonPath) {
     if (this.isLoading || this.isLoaded) return;
 
     this.isLoading = true;
     try {
       const response = await fetch(jsonPath);
-      const data = await response.json();
+      const wordArray = await response.json();
 
-      // Handle optimized dictionary format
-      Object.values(data).forEach(letterGroups => {
-        Object.values(letterGroups).forEach(words => {
-          words.forEach(word => {
-            if (typeof word === "string") {
-              this.words.add(word.toLowerCase());
-            }
-          });
-        });
+      // Add each word to the Set if it meets length requirements
+      wordArray.forEach((word) => {
+        if (typeof word === "string") {
+          const normalizedWord = word.toLowerCase().trim();
+          if (
+            normalizedWord &&
+            normalizedWord.length >= this.minLength &&
+            normalizedWord.length <= this.maxLength
+          ) {
+            this.words.add(normalizedWord);
+          }
+        }
       });
 
       this.isLoaded = true;
       this.isLoading = false;
-      console.log(`Dictionary loaded with ${this.words.size} words`);
+
+      console.log(
+        `Dictionary loaded with ${this.words.size} words (${this.minLength}-${this.maxLength} letters)`,
+      );
     } catch (error) {
       console.error("Error loading dictionary:", error);
       this.isLoading = false;
-      throw error;
     }
   }
 
@@ -86,7 +93,39 @@ class WordDictionary {
     }
   }
 
-  // Other loading methods would also need the length filter...
+  // Load from optimized JSON format (grouped by length and first letter)
+  async loadFromOptimizedJSON(jsonPath) {
+    if (this.isLoading || this.isLoaded) return;
+
+    this.isLoading = true;
+    try {
+      const response = await fetch(jsonPath);
+      const optimizedDict = await response.json();
+
+      // Process each word length group that meets our criteria
+      Object.keys(optimizedDict).forEach((length) => {
+        const len = parseInt(length);
+        if (len >= this.minLength && len <= this.maxLength) {
+          // Process each first-letter group
+          Object.values(optimizedDict[length]).forEach((wordGroup) => {
+            wordGroup.forEach((word) => {
+              this.words.add(word.toLowerCase());
+            });
+          });
+        }
+      });
+
+      this.isLoaded = true;
+      this.isLoading = false;
+
+      console.log(
+        `Optimized dictionary loaded with ${this.words.size} words (${this.minLength}-${this.maxLength} letters)`,
+      );
+    } catch (error) {
+      console.error("Error loading optimized dictionary:", error);
+      this.isLoading = false;
+    }
+  }
 
   // For testing/development, we can add a sample dictionary directly
   loadSampleWords() {
