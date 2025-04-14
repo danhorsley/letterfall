@@ -1,26 +1,26 @@
 import React, { useState, useEffect } from "react";
 import { create } from "zustand";
 import dictionary from "./wordDictionary";
+import { getRandomLetter, generateLetterGrid } from "./letterFrequency";
+
+// Helper function to calculate points based on word length
+const calculateWordPoints = (length) => {
+  const pointValues = {
+    3: 30, // 3-letter words: 30 points
+    4: 60, // 4-letter words: 60 points
+    5: 100, // 5-letter words: 100 points
+  };
+
+  return pointValues[length] || length * 20; // Fallback calculation
+};
 
 // Create the game store with Zustand
 const useGameStore = create((set, get) => ({
-  // The 10-length strips that form our letter loops
-  letterStrips: Array(5)
-    .fill()
-    .map(() =>
-      Array(10)
-        .fill()
-        .map(() => String.fromCharCode(65 + Math.floor(Math.random() * 26))),
-    ),
+  // The 10-length strips that form our letter loops - now with better letter distribution
+  letterStrips: generateLetterGrid(5, 10),
 
-  // Vertical strips (columns)
-  letterColumns: Array(5)
-    .fill()
-    .map(() =>
-      Array(10)
-        .fill()
-        .map(() => String.fromCharCode(65 + Math.floor(Math.random() * 26))),
-    ),
+  // Vertical strips (columns) - also with better letter distribution
+  letterColumns: generateLetterGrid(5, 10),
 
   // Current positions for rendering the visible parts of each strip/column
   rowPositions: Array(5).fill(0),
@@ -39,11 +39,16 @@ const useGameStore = create((set, get) => ({
   // Load dictionary
   loadDictionary: async () => {
     try {
+      // Try to load the dictionary or fall back to sample words
       await dictionary.loadFromJSON("/dictionary.json");
       set({ dictionaryLoaded: true });
       get().findWords();
     } catch (error) {
       console.error("Failed to load dictionary:", error);
+      // Fallback to sample words
+      dictionary.loadSampleWords();
+      set({ dictionaryLoaded: true });
+      get().findWords();
     }
   },
 
@@ -120,16 +125,7 @@ const useGameStore = create((set, get) => ({
 
       // Clone the strips to update
       const newStrips = JSON.parse(JSON.stringify(letterStrips));
-      // Helper function to calculate points based on word length
-      const calculateWordPoints = (length) => {
-        const pointValues = {
-          3: 30, // 3-letter words: 30 points
-          4: 60, // 4-letter words: 60 points
-          5: 100, // 5-letter words: 100 points
-        };
 
-        return pointValues[length] || length * 20; // Fallback calculation
-      };
       // Group selected cells by row to handle replacements
       const cellsByRow = {};
       selectedWord.forEach((cell) => {
@@ -157,10 +153,8 @@ const useGameStore = create((set, get) => ({
             newStrips[row][i] = newStrips[row][i + 1];
           }
 
-          // Add new random letter at the end
-          newStrips[row][9] = String.fromCharCode(
-            65 + Math.floor(Math.random() * 26),
-          );
+          // Add new random letter at the end using our weighted distribution
+          newStrips[row][9] = getRandomLetter();
         });
       });
 
@@ -248,21 +242,9 @@ const useGameStore = create((set, get) => ({
 
   // Reset the game
   resetGame: () => {
-    const newStrips = Array(5)
-      .fill()
-      .map(() =>
-        Array(10)
-          .fill()
-          .map(() => String.fromCharCode(65 + Math.floor(Math.random() * 26))),
-      );
-
-    const newColumns = Array(5)
-      .fill()
-      .map(() =>
-        Array(10)
-          .fill()
-          .map(() => String.fromCharCode(65 + Math.floor(Math.random() * 26))),
-      );
+    // Generate new letter strips with improved distribution
+    const newStrips = generateLetterGrid(5, 10);
+    const newColumns = generateLetterGrid(5, 10);
 
     set({
       letterStrips: newStrips,
@@ -281,6 +263,11 @@ const useGameStore = create((set, get) => ({
 
 // Cell component to render each letter in the grid
 const Cell = ({ letter, isSelected, isHighlighted, onClick }) => {
+  // Highlight vowels with a subtle background color when not selected or highlighted
+  const isVowel = /[AEIOU]/.test(letter);
+  const baseStyle =
+    isVowel && !isSelected && !isHighlighted ? "bg-yellow-50" : "bg-white";
+
   return (
     <div
       className={`w-12 h-12 flex items-center justify-center border-2 
@@ -289,7 +276,7 @@ const Cell = ({ letter, isSelected, isHighlighted, onClick }) => {
             ? "bg-blue-400 text-white"
             : isHighlighted
               ? "bg-green-200"
-              : "bg-white"
+              : baseStyle
         } 
         border-gray-300 rounded-md m-1 text-xl font-bold cursor-pointer`}
       onClick={onClick}

@@ -1,9 +1,4 @@
-// Import Papa Parse if you're loading from CSV
-import Papa from "papaparse";
-
-// wordDictionary.js with minimum word length
-
-// wordDictionary.js with JSON loading and minimum word length
+// wordDictionary.js with proper word handling
 
 class WordDictionary {
   constructor(minLength = 3, maxLength = 5) {
@@ -16,7 +11,7 @@ class WordDictionary {
 
   // Check if a word exists in our dictionary and meets length requirements
   isValidWord(word) {
-    const normalizedWord = word.toLowerCase();
+    const normalizedWord = word.toLowerCase().trim();
     return (
       normalizedWord.length >= this.minLength &&
       normalizedWord.length <= this.maxLength &&
@@ -36,13 +31,14 @@ class WordDictionary {
       // Add each word to the Set if it meets length requirements
       wordArray.forEach((word) => {
         if (typeof word === "string") {
-          const normalizedWord = word.toLowerCase().trim();
+          // Clean up the word - remove tabs and numbers
+          const cleanWord = word.split("\t")[0].toLowerCase().trim();
           if (
-            normalizedWord &&
-            normalizedWord.length >= this.minLength &&
-            normalizedWord.length <= this.maxLength
+            cleanWord &&
+            cleanWord.length >= this.minLength &&
+            cleanWord.length <= this.maxLength
           ) {
-            this.words.add(normalizedWord);
+            this.words.add(cleanWord);
           }
         }
       });
@@ -56,78 +52,13 @@ class WordDictionary {
     } catch (error) {
       console.error("Error loading dictionary:", error);
       this.isLoading = false;
+
+      // Fallback to sample dictionary if loading fails
+      this.loadSampleWords();
     }
   }
 
-  // Load dictionary from a text file
-  async loadFromTxt(txtPath) {
-    if (this.isLoading || this.isLoaded) return;
-
-    this.isLoading = true;
-    try {
-      const response = await fetch(txtPath);
-      const text = await response.text();
-
-      // Split by newlines and add each word to the Set
-      // Only include words that meet our length criteria
-      text.split("\n").forEach((word) => {
-        const trimmed = word.trim().toLowerCase();
-        if (
-          trimmed &&
-          trimmed.length >= this.minLength &&
-          trimmed.length <= this.maxLength
-        ) {
-          this.words.add(trimmed);
-        }
-      });
-
-      this.isLoaded = true;
-      this.isLoading = false;
-
-      console.log(
-        `Dictionary loaded with ${this.words.size} words (${this.minLength}-${this.maxLength} letters)`,
-      );
-    } catch (error) {
-      console.error("Error loading dictionary:", error);
-      this.isLoading = false;
-    }
-  }
-
-  // Load from optimized JSON format (grouped by length and first letter)
-  async loadFromOptimizedJSON(jsonPath) {
-    if (this.isLoading || this.isLoaded) return;
-
-    this.isLoading = true;
-    try {
-      const response = await fetch(jsonPath);
-      const optimizedDict = await response.json();
-
-      // Process each word length group that meets our criteria
-      Object.keys(optimizedDict).forEach((length) => {
-        const len = parseInt(length);
-        if (len >= this.minLength && len <= this.maxLength) {
-          // Process each first-letter group
-          Object.values(optimizedDict[length]).forEach((wordGroup) => {
-            wordGroup.forEach((word) => {
-              this.words.add(word.toLowerCase());
-            });
-          });
-        }
-      });
-
-      this.isLoaded = true;
-      this.isLoading = false;
-
-      console.log(
-        `Optimized dictionary loaded with ${this.words.size} words (${this.minLength}-${this.maxLength} letters)`,
-      );
-    } catch (error) {
-      console.error("Error loading optimized dictionary:", error);
-      this.isLoading = false;
-    }
-  }
-
-  // For testing/development, we can add a sample dictionary directly
+  // Load sample words for testing
   loadSampleWords() {
     this.isLoading = true;
 
@@ -161,6 +92,19 @@ class WordDictionary {
       "nip",
       "zip",
       "pip",
+      "the",
+      "and",
+      "for",
+      "you",
+      "can",
+      "has",
+      "was",
+      "are",
+      "this",
+      "that",
+      "will",
+      "have",
+      "from",
 
       // 4-letter words
       "cake",
@@ -175,10 +119,7 @@ class WordDictionary {
       "lime",
       "dime",
       "mime",
-      "rime",
       "chime",
-      "grime",
-      "prime",
       "fish",
       "dish",
       "wish",
@@ -187,6 +128,17 @@ class WordDictionary {
       "mask",
       "task",
       "dusk",
+      "home",
+      "some",
+      "come",
+      "love",
+      "hate",
+      "gate",
+      "fate",
+      "date",
+      "late",
+      "mate",
+      "rate",
 
       // 5-letter words
       "stare",
@@ -210,6 +162,13 @@ class WordDictionary {
       "sheet",
       "sweet",
       "fleet",
+      "brain",
+      "train",
+      "grain",
+      "drain",
+      "chain",
+      "plain",
+      "slain",
     ];
 
     sampleWords.forEach((word) => {
