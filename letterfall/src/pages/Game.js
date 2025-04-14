@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { create } from "zustand";
 import dictionary from "./wordDictionary";
-import { getRandomLetter, generateLetterGrid } from "./letterFrequency";
 
 // Helper function to calculate points based on word length
 const calculateWordPoints = (length) => {
@@ -13,33 +12,26 @@ const calculateWordPoints = (length) => {
 
   return pointValues[length] || length * 20; // Fallback calculation
 };
-// Add a component to display the word history
-const WordHistory = ({ words }) => {
-  return (
-    <div className="w-48 ml-4 p-2 bg-gray-100 rounded-lg">
-      <h3 className="font-bold mb-2">Words Found</h3>
-      {words.length === 0 ? (
-        <p className="text-gray-500 text-sm">No words found yet</p>
-      ) : (
-        <ul className="max-h-64 overflow-y-auto">
-          {words.map((item, index) => (
-            <li key={index} className="flex justify-between text-sm mb-1">
-              <span className="font-medium">{item.word}</span>
-              <span className="text-green-600">+{item.points}</span>
-            </li>
-          ))}
-        </ul>
-      )}
-    </div>
-  );
-};
+
 // Create the game store with Zustand
 const useGameStore = create((set, get) => ({
-  // The 10-length strips that form our letter loops - now with better letter distribution
-  letterStrips: generateLetterGrid(5, 10),
-  foundWords: [],
-  // Vertical strips (columns) - also with better letter distribution
-  letterColumns: generateLetterGrid(5, 10),
+  // The 10-length strips that form our letter loops
+  letterStrips: Array(5)
+    .fill()
+    .map(() =>
+      Array(10)
+        .fill()
+        .map(() => String.fromCharCode(65 + Math.floor(Math.random() * 26))),
+    ),
+
+  // Vertical strips (columns)
+  letterColumns: Array(5)
+    .fill()
+    .map(() =>
+      Array(10)
+        .fill()
+        .map(() => String.fromCharCode(65 + Math.floor(Math.random() * 26))),
+    ),
 
   // Current positions for rendering the visible parts of each strip/column
   rowPositions: Array(5).fill(0),
@@ -55,19 +47,18 @@ const useGameStore = create((set, get) => ({
   // Game score
   score: 0,
 
+  // Add tracking for found words
+  foundWords: [],
+  foundWordSet: new Set(),
+
   // Load dictionary
   loadDictionary: async () => {
     try {
-      // Try to load the dictionary or fall back to sample words
       await dictionary.loadFromJSON("/dictionary.json");
       set({ dictionaryLoaded: true });
       get().findWords();
     } catch (error) {
       console.error("Failed to load dictionary:", error);
-      // Fallback to sample words
-      dictionary.loadSampleWords();
-      set({ dictionaryLoaded: true });
-      get().findWords();
     }
   },
 
@@ -126,7 +117,7 @@ const useGameStore = create((set, get) => ({
 
   // Confirm word selection and process it
   confirmWordSelection: () => {
-    const { selectedWord, letterStrips, rowPositions, score } = get();
+    const { selectedWord } = get();
     if (selectedWord.length < 3) {
       // Clear selection if fewer than 3 letters
       set({ selectedWord: [] });
@@ -149,7 +140,7 @@ const useGameStore = create((set, get) => ({
     return false;
   },
 
-  // New helper function to process matched words and check for cascades
+  // Process a matched word and check for cascades
   processMatchedWord: (matchedWord) => {
     const { letterStrips, rowPositions } = get();
 
@@ -200,20 +191,27 @@ const useGameStore = create((set, get) => ({
     });
 
     // Update state with new strips and score
-    set((state) => ({
-      letterStrips: newStrips,
-      score: state.score + points,
-      selectedWord: [],
-      // Add the word to the history
-      foundWords: [
-        ...state.foundWords,
-        {
-          word,
-          points,
-          timestamp: Date.now(),
-        },
-      ],
-    }));
+    set((state) => {
+      // Add to foundWordSet for quick lookup
+      const newFoundWordSet = new Set(state.foundWordSet);
+      newFoundWordSet.add(word);
+
+      return {
+        letterStrips: newStrips,
+        score: state.score + points,
+        selectedWord: [],
+        foundWordSet: newFoundWordSet,
+        // Add to foundWords array for display
+        foundWords: [
+          ...state.foundWords,
+          {
+            word,
+            points,
+            timestamp: Date.now(),
+          },
+        ],
+      };
+    });
 
     // Check for new words that might have formed after a short delay
     setTimeout(() => {
@@ -248,8 +246,9 @@ const useGameStore = create((set, get) => ({
 
     const grid = get().getActiveGrid();
     const words = [];
+    const { foundWordSet } = get();
 
-    // Check horizontal words - now starting at length 3
+    // Check horizontal words
     for (let r = 0; r < 5; r++) {
       // For each possible word length (3-5)
       for (let len = 3; len <= 5; len++) {
@@ -266,7 +265,8 @@ const useGameStore = create((set, get) => ({
             .join("")
             .toLowerCase();
 
-          if (dictionary.isValidWord(word)) {
+          // Only include words that haven't been found yet
+          if (dictionary.isValidWord(word) && !foundWordSet.has(word)) {
             words.push({
               word,
               cells: wordCells,
@@ -276,7 +276,7 @@ const useGameStore = create((set, get) => ({
       }
     }
 
-    // Check vertical words - now starting at length 3
+    // Check vertical words
     for (let c = 0; c < 5; c++) {
       // For each possible word length (3-5)
       for (let len = 3; len <= 5; len++) {
@@ -293,7 +293,8 @@ const useGameStore = create((set, get) => ({
             .join("")
             .toLowerCase();
 
-          if (dictionary.isValidWord(word)) {
+          // Only include words that haven't been found yet
+          if (dictionary.isValidWord(word) && !foundWordSet.has(word)) {
             words.push({
               word,
               cells: wordCells,
@@ -308,9 +309,21 @@ const useGameStore = create((set, get) => ({
 
   // Reset the game
   resetGame: () => {
-    // Generate new letter strips with improved distribution
-    const newStrips = generateLetterGrid(5, 10);
-    const newColumns = generateLetterGrid(5, 10);
+    const newStrips = Array(5)
+      .fill()
+      .map(() =>
+        Array(10)
+          .fill()
+          .map(() => String.fromCharCode(65 + Math.floor(Math.random() * 26))),
+      );
+
+    const newColumns = Array(5)
+      .fill()
+      .map(() =>
+        Array(10)
+          .fill()
+          .map(() => String.fromCharCode(65 + Math.floor(Math.random() * 26))),
+      );
 
     set({
       letterStrips: newStrips,
@@ -321,6 +334,7 @@ const useGameStore = create((set, get) => ({
       highlightedWords: [],
       score: 0,
       foundWords: [],
+      foundWordSet: new Set(),
     });
 
     // Look for words in the initial grid
@@ -330,11 +344,6 @@ const useGameStore = create((set, get) => ({
 
 // Cell component to render each letter in the grid
 const Cell = ({ letter, isSelected, isHighlighted, onClick }) => {
-  // Highlight vowels with a subtle background color when not selected or highlighted
-  const isVowel = /[AEIOU]/.test(letter);
-  const baseStyle =
-    isVowel && !isSelected && !isHighlighted ? "bg-yellow-50" : "bg-white";
-
   return (
     <div
       className={`w-12 h-12 flex items-center justify-center border-2 
@@ -343,7 +352,7 @@ const Cell = ({ letter, isSelected, isHighlighted, onClick }) => {
             ? "bg-blue-400 text-white"
             : isHighlighted
               ? "bg-green-200"
-              : baseStyle
+              : "bg-white"
         } 
         border-gray-300 rounded-md m-1 text-xl font-bold cursor-pointer`}
       onClick={onClick}
@@ -395,6 +404,27 @@ const ColumnControl = ({ colIndex, onShift }) => {
   );
 };
 
+// Word History component
+const WordHistory = ({ words }) => {
+  return (
+    <div className="w-48 ml-4 p-2 bg-gray-100 rounded-lg">
+      <h3 className="font-bold mb-2">Words Found</h3>
+      {words.length === 0 ? (
+        <p className="text-gray-500 text-sm">No words found yet</p>
+      ) : (
+        <ul className="max-h-64 overflow-y-auto">
+          {words.map((item, index) => (
+            <li key={index} className="flex justify-between text-sm mb-1">
+              <span className="font-medium">{item.word.toUpperCase()}</span>
+              <span className="text-green-600">+{item.points}</span>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  );
+};
+
 // Main game component
 const LetterFallGame = () => {
   const {
@@ -441,6 +471,7 @@ const LetterFallGame = () => {
     );
   };
 
+  // Handle clicking on a cell to select a word - prioritizing longer words
   const handleCellClick = (row, col) => {
     if (selectedWord.length === 0) {
       // Find all highlighted words that contain this cell
@@ -532,6 +563,8 @@ const LetterFallGame = () => {
             )),
           )}
         </div>
+
+        {/* Word history panel */}
         <WordHistory words={foundWords} />
       </div>
 
@@ -554,6 +587,12 @@ const LetterFallGame = () => {
           <li>Confirm selection to remove letters and score points</li>
           <li>
             Removed letters are replaced with new ones at the end of each row
+          </li>
+          <li>
+            When new words automatically form, they'll be matched in a cascade
+          </li>
+          <li>
+            Each word can only be found once per game - increasing difficulty
           </li>
           <li>
             Longer words are worth more points:
