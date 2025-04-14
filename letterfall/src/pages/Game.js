@@ -36,7 +36,7 @@ const WORD_LIST = new Set([
 ]);
 
 // Create the game store with Zustand
-const useGameStore = create((set, get) => ({
+const useGameStore = create()((set, get) => ({
   // The 10-length strips that feed the active grid
   letterStrips: Array(5)
     .fill()
