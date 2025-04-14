@@ -1,43 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { create } from "zustand";
-
-// Rest of the file remains the same...
-// Sample word list - in production this would be loaded from a CSV
-const WORD_LIST = new Set([
-  "cat",
-  "dog",
-  "hat",
-  "bat",
-  "rat",
-  "sat",
-  "mat",
-  "fat",
-  "pat",
-  "cake",
-  "make",
-  "take",
-  "lake",
-  "fake",
-  "sake",
-  "wake",
-  "bake",
-  "time",
-  "lime",
-  "dime",
-  "mime",
-  "rime",
-  "chime",
-  "stare",
-  "flare",
-  "snare",
-  "spare",
-  "share",
-  "scare",
-]);
+import dictionary from "./wordDictionary";
 
 // Create the game store with Zustand
-const useGameStore = create()((set, get) => ({
-  // The 10-length strips that feed the active grid
+const useGameStore = create((set, get) => ({
+  // The 10-length strips that form our letter loops
   letterStrips: Array(5)
     .fill()
     .map(() =>
@@ -46,204 +13,224 @@ const useGameStore = create()((set, get) => ({
         .map(() => String.fromCharCode(65 + Math.floor(Math.random() * 26))),
     ),
 
-  // The active 5x5 grid (first 5 letters of each strip)
-  activeGrid: [],
+  // Vertical strips (columns)
+  letterColumns: Array(5)
+    .fill()
+    .map(() =>
+      Array(10)
+        .fill()
+        .map(() => String.fromCharCode(65 + Math.floor(Math.random() * 26))),
+    ),
 
-  // Currently selected letters
-  selectedLetters: [],
+  // Current positions for rendering the visible parts of each strip/column
+  rowPositions: Array(5).fill(0),
+  colPositions: Array(5).fill(0),
 
-  // Track the current selection coordinates
-  selectionStart: null,
-  selectionDirection: null, // 'horizontal' or 'vertical'
+  // Currently selected word
+  selectedWord: [],
+  highlightedWords: [],
+
+  // Dictionary loading state
+  dictionaryLoaded: false,
 
   // Game score
   score: 0,
-  combo: 0,
 
-  // Initialize the grid
-  initializeGrid: () => {
-    const strips = get().letterStrips;
-    const grid = strips.map((strip) => strip.slice(0, 5));
-    set({ activeGrid: grid });
+  // Load dictionary
+  loadDictionary: async () => {
+    try {
+      await dictionary.loadFromTxt("/word-dictionary.txt");
+      set({ dictionaryLoaded: true });
+      get().findWords();
+    } catch (error) {
+      console.error("Failed to load dictionary:", error);
+    }
   },
 
-  // Start a new selection
-  startSelection: (row, col) => {
-    set({
-      selectedLetters: [{ row, col, letter: get().activeGrid[row][col] }],
-      selectionStart: { row, col },
-      selectionDirection: null,
-    });
-  },
-
-  // Update active selection
-  updateSelection: (row, col) => {
-    const { selectionStart, selectionDirection, activeGrid } = get();
-
-    if (!selectionStart) return;
-
-    // Determine or confirm selection direction
-    let direction = selectionDirection;
-    if (!direction) {
-      if (row === selectionStart.row && col !== selectionStart.col) {
-        direction = "horizontal";
-      } else if (col === selectionStart.col && row !== selectionStart.row) {
-        direction = "vertical";
-      } else if (row === selectionStart.row && col === selectionStart.col) {
-        // Still on starting position
-        return;
+  // Shift a row left or right
+  shiftRow: (rowIndex, direction) => {
+    set((state) => {
+      const newPositions = [...state.rowPositions];
+      if (direction === "left") {
+        newPositions[rowIndex] = (newPositions[rowIndex] + 1) % 10;
       } else {
-        // Diagonal movement - not allowed
-        return;
+        newPositions[rowIndex] = (newPositions[rowIndex] + 9) % 10; // -1 mod 10
+      }
+      return { rowPositions: newPositions };
+    });
+    get().findWords();
+  },
+
+  // Shift a column up or down
+  shiftColumn: (colIndex, direction) => {
+    set((state) => {
+      const newPositions = [...state.colPositions];
+      if (direction === "up") {
+        newPositions[colIndex] = (newPositions[colIndex] + 1) % 10;
+      } else {
+        newPositions[colIndex] = (newPositions[colIndex] + 9) % 10; // -1 mod 10
+      }
+      return { colPositions: newPositions };
+    });
+    get().findWords();
+  },
+
+  // Get the current active grid based on positions
+  getActiveGrid: () => {
+    const { letterStrips, letterColumns, rowPositions, colPositions } = get();
+    const grid = Array(5)
+      .fill()
+      .map(() => Array(5).fill(""));
+
+    // Fill in the grid based on the current row positions
+    for (let r = 0; r < 5; r++) {
+      for (let c = 0; c < 5; c++) {
+        // For simplicity in this prototype, we'll use the row strips as the primary source
+        // In a more advanced version, we would reconcile row and column positions
+        const stripPos = (rowPositions[r] + c) % 10;
+        grid[r][c] = letterStrips[r][stripPos];
       }
     }
 
-    // Create new selection based on direction
-    let newSelection = [];
-
-    if (direction === "horizontal") {
-      const r = selectionStart.row;
-      // Handle wrapping for horizontal selection
-      if (col >= selectionStart.col) {
-        for (let c = selectionStart.col; c <= col; c++) {
-          const wrappedCol = c % 5;
-          newSelection.push({
-            row: r,
-            col: wrappedCol,
-            letter: activeGrid[r][wrappedCol],
-          });
-        }
-      } else {
-        for (let c = selectionStart.col; c >= col; c--) {
-          const wrappedCol = (c + 5) % 5;
-          newSelection.push({
-            row: r,
-            col: wrappedCol,
-            letter: activeGrid[r][wrappedCol],
-          });
-        }
-      }
-    } else if (direction === "vertical") {
-      const c = selectionStart.col;
-      // Handle wrapping for vertical selection
-      if (row >= selectionStart.row) {
-        for (let r = selectionStart.row; r <= row; r++) {
-          const wrappedRow = r % 5;
-          newSelection.push({
-            row: wrappedRow,
-            col: c,
-            letter: activeGrid[wrappedRow][c],
-          });
-        }
-      } else {
-        for (let r = selectionStart.row; r >= row; r--) {
-          const wrappedRow = (r + 5) % 5;
-          newSelection.push({
-            row: wrappedRow,
-            col: c,
-            letter: activeGrid[wrappedRow][c],
-          });
-        }
-      }
-    }
-
-    set({
-      selectedLetters: newSelection,
-      selectionDirection: direction,
-    });
+    return grid;
   },
 
-  // Complete selection and check if valid word
-  completeSelection: () => {
-    const { selectedLetters, letterStrips } = get();
-    const word = selectedLetters
-      .map((item) => item.letter)
+  // Select a word from the grid
+  selectWord: (cells) => {
+    set({ selectedWord: cells });
+  },
+
+  // Confirm word selection and process it
+  confirmWordSelection: () => {
+    const { selectedWord, letterStrips, rowPositions } = get();
+    if (selectedWord.length < 2) return;
+
+    const word = selectedWord
+      .map((cell) => cell.letter)
       .join("")
       .toLowerCase();
 
-    // Check if word is valid
-    if (selectedLetters.length >= 2 && WORD_LIST.has(word)) {
-      // Valid word found
-      const points = calculatePoints(word.length);
+    if (dictionary.isValidWord(word)) {
+      // Add points based on word length
+      const points = word.length * 10;
 
-      // Update score
-      set((state) => ({
-        score: state.score + points,
-        combo: state.combo + 1,
-      }));
+      // Clone the strips to update
+      const newStrips = JSON.parse(JSON.stringify(letterStrips));
 
-      // Remove matched letters and shift in new ones
-      const newStrips = [...letterStrips];
+      // Group selected cells by row to handle replacements
+      const cellsByRow = {};
+      selectedWord.forEach((cell) => {
+        if (!cellsByRow[cell.row]) cellsByRow[cell.row] = [];
+        cellsByRow[cell.row].push(cell);
+      });
 
-      // Group selected letters by their rows for processing
-      const rowsToUpdate = new Set();
-      selectedLetters.forEach((item) => rowsToUpdate.add(item.row));
+      // Process each row with selected cells
+      Object.entries(cellsByRow).forEach(([rowIdx, cells]) => {
+        const row = parseInt(rowIdx);
 
-      rowsToUpdate.forEach((row) => {
-        const colsInThisRow = selectedLetters
-          .filter((item) => item.row === row)
-          .map((item) => item.col);
+        // Sort cells by actual position in the strip
+        cells.sort((a, b) => {
+          const posA = (rowPositions[row] + a.col) % 10;
+          const posB = (rowPositions[row] + b.col) % 10;
+          return posA - posB;
+        });
 
-        // For each column in this row that has a selected letter
-        colsInThisRow.forEach((col) => {
-          // Shift letters in the strip
-          newStrips[row].shift();
-          // Generate a new letter at the end of the strip
-          newStrips[row].push(
-            String.fromCharCode(65 + Math.floor(Math.random() * 26)),
+        // Remove letters and replace with new ones
+        cells.forEach((cell) => {
+          const stripPos = (rowPositions[row] + cell.col) % 10;
+
+          // Shift all letters after this position one position forward
+          for (let i = stripPos; i < 9; i++) {
+            newStrips[row][i] = newStrips[row][i + 1];
+          }
+
+          // Add new random letter at the end
+          newStrips[row][9] = String.fromCharCode(
+            65 + Math.floor(Math.random() * 26),
           );
         });
       });
 
-      // Update the active grid with the first 5 letters of each strip
-      const newGrid = newStrips.map((strip) => strip.slice(0, 5));
-
-      set({
+      // Update state with new strips and score
+      set((state) => ({
         letterStrips: newStrips,
-        activeGrid: newGrid,
-        selectedLetters: [],
-      });
+        score: state.score + points,
+        selectedWord: [],
+      }));
 
-      // Check for potential chain combos
-      setTimeout(() => {
-        get().checkForCombos();
-      }, 300);
+      // Check for new words that might have formed
+      setTimeout(() => get().findWords(), 100);
 
       return true;
-    } else {
-      // Invalid word - reset selection
-      set({
-        selectedLetters: [],
-        selectionStart: null,
-        selectionDirection: null,
-        combo: 0,
-      });
-      return false;
     }
+
+    // If not a valid word, just clear selection
+    set({ selectedWord: [] });
+    return false;
   },
 
-  // Check for any automatic combos that might have formed
-  checkForCombos: () => {
-    // This would be more complex in a full implementation
-    // For now, we'll just simulate checking for horizontals and verticals
+  // Find possible words in the current grid
+  findWords: () => {
+    if (!get().dictionaryLoaded) return;
+
+    const grid = get().getActiveGrid();
+    const words = [];
 
     // Check horizontal words
-    for (let row = 0; row < 5; row++) {
-      const horizontalWord = get().activeGrid[row].join("").toLowerCase();
-      for (let len = 5; len >= 3; len--) {
+    for (let r = 0; r < 5; r++) {
+      // For each possible word length (2-5)
+      for (let len = 2; len <= 5; len++) {
+        // Check each possible starting position
         for (let start = 0; start <= 5 - len; start++) {
-          const subWord = horizontalWord.substring(start, start + len);
-          if (WORD_LIST.has(subWord)) {
-            console.log(`Found combo word: ${subWord}`);
-            // In a real implementation, we would handle this combo
-            // by selecting those letters and calling completeSelection
-            break;
+          const wordCells = Array.from({ length: len }, (_, i) => ({
+            row: r,
+            col: start + i,
+            letter: grid[r][start + i],
+          }));
+
+          const word = wordCells
+            .map((cell) => cell.letter)
+            .join("")
+            .toLowerCase();
+
+          if (dictionary.isValidWord(word)) {
+            words.push({
+              word,
+              cells: wordCells,
+            });
           }
         }
       }
     }
 
-    // Similar checks would be done for vertical words
+    // Check vertical words
+    for (let c = 0; c < 5; c++) {
+      // For each possible word length (2-5)
+      for (let len = 2; len <= 5; len++) {
+        // Check each possible starting position
+        for (let start = 0; start <= 5 - len; start++) {
+          const wordCells = Array.from({ length: len }, (_, i) => ({
+            row: start + i,
+            col: c,
+            letter: grid[start + i][c],
+          }));
+
+          const word = wordCells
+            .map((cell) => cell.letter)
+            .join("")
+            .toLowerCase();
+
+          if (dictionary.isValidWord(word)) {
+            words.push({
+              word,
+              cells: wordCells,
+            });
+          }
+        }
+      }
+    }
+
+    set({ highlightedWords: words });
   },
 
   // Reset the game
@@ -256,149 +243,223 @@ const useGameStore = create()((set, get) => ({
           .map(() => String.fromCharCode(65 + Math.floor(Math.random() * 26))),
       );
 
+    const newColumns = Array(5)
+      .fill()
+      .map(() =>
+        Array(10)
+          .fill()
+          .map(() => String.fromCharCode(65 + Math.floor(Math.random() * 26))),
+      );
+
     set({
       letterStrips: newStrips,
-      selectedLetters: [],
-      selectionStart: null,
-      selectionDirection: null,
+      letterColumns: newColumns,
+      rowPositions: Array(5).fill(0),
+      colPositions: Array(5).fill(0),
+      selectedWord: [],
+      highlightedWords: [],
       score: 0,
-      combo: 0,
     });
 
-    // Initialize new grid
-    set((state) => ({
-      activeGrid: state.letterStrips.map((strip) => strip.slice(0, 5)),
-    }));
+    // Look for words in the initial grid
+    setTimeout(() => get().findWords(), 100);
   },
 }));
 
-// Helper function to calculate points based on word length
-const calculatePoints = (length) => {
-  // Base points for word length
-  const basePoints = {
-    2: 10,
-    3: 20,
-    4: 40,
-    5: 80,
-  };
-
-  return basePoints[length] || length * 20; // Fallback calculation
-};
-
-// Game board cell component
-const Cell = ({
-  letter,
-  row,
-  col,
-  isSelected,
-  onMouseDown,
-  onMouseEnter,
-  onMouseUp,
-}) => {
+// Cell component to render each letter in the grid
+const Cell = ({ letter, isSelected, isHighlighted, onClick }) => {
   return (
     <div
       className={`w-12 h-12 flex items-center justify-center border-2 
-                 ${isSelected ? "bg-blue-300 border-blue-500" : "bg-white border-gray-300"}
-                 rounded-md m-1 text-xl font-bold cursor-pointer select-none`}
-      onMouseDown={() => onMouseDown(row, col)}
-      onMouseEnter={() => onMouseEnter(row, col)}
-      onMouseUp={onMouseUp}
+        ${
+          isSelected
+            ? "bg-blue-400 text-white"
+            : isHighlighted
+              ? "bg-green-200"
+              : "bg-white"
+        } 
+        border-gray-300 rounded-md m-1 text-xl font-bold cursor-pointer`}
+      onClick={onClick}
     >
       {letter}
     </div>
   );
 };
 
+// Row control for shifting rows
+const RowControl = ({ rowIndex, onShift }) => {
+  return (
+    <div className="flex justify-between items-center w-full mb-1">
+      <button
+        className="p-1 bg-gray-200 rounded-full hover:bg-gray-300"
+        onClick={() => onShift(rowIndex, "left")}
+      >
+        ←
+      </button>
+      <div className="text-xs text-gray-500">Row {rowIndex + 1}</div>
+      <button
+        className="p-1 bg-gray-200 rounded-full hover:bg-gray-300"
+        onClick={() => onShift(rowIndex, "right")}
+      >
+        →
+      </button>
+    </div>
+  );
+};
+
+// Column control for shifting columns
+const ColumnControl = ({ colIndex, onShift }) => {
+  return (
+    <div className="flex flex-col items-center h-full mx-1">
+      <button
+        className="p-1 bg-gray-200 rounded-full hover:bg-gray-300"
+        onClick={() => onShift(colIndex, "up")}
+      >
+        ↑
+      </button>
+      <div className="text-xs text-gray-500 my-1">Col {colIndex + 1}</div>
+      <button
+        className="p-1 bg-gray-200 rounded-full hover:bg-gray-300"
+        onClick={() => onShift(colIndex, "down")}
+      >
+        ↓
+      </button>
+    </div>
+  );
+};
+
 // Main game component
-const WordGame = () => {
+const LetterFallGame = () => {
   const {
-    activeGrid,
-    selectedLetters,
-    score,
-    combo,
-    initializeGrid,
-    startSelection,
-    updateSelection,
-    completeSelection,
+    getActiveGrid,
+    shiftRow,
+    shiftColumn,
+    selectedWord,
+    highlightedWords,
+    selectWord,
+    confirmWordSelection,
     resetGame,
+    loadDictionary,
+    dictionaryLoaded,
+    score,
   } = useGameStore();
 
-  const [isDragging, setIsDragging] = useState(false);
+  const [loading, setLoading] = useState(true);
 
-  // Initialize the grid on component mount
+  // Start a new game on mount and load dictionary
   useEffect(() => {
-    initializeGrid();
-  }, [initializeGrid]);
+    const initialize = async () => {
+      await loadDictionary();
+      resetGame();
+      setLoading(false);
+    };
+
+    initialize();
+  }, [loadDictionary, resetGame]);
+
+  const grid = getActiveGrid();
 
   // Check if a cell is in the current selection
   const isCellSelected = (row, col) => {
-    return selectedLetters.some((item) => item.row === row && item.col === col);
+    return selectedWord.some((cell) => cell.row === row && cell.col === col);
   };
 
-  // Handle mouse down on a cell
-  const handleMouseDown = (row, col) => {
-    setIsDragging(true);
-    startSelection(row, col);
+  // Check if a cell is part of any highlighted word
+  const isCellHighlighted = (row, col) => {
+    if (selectedWord.length > 0) return false; // Don't show highlights during selection
+
+    return highlightedWords.some((wordObj) =>
+      wordObj.cells.some((cell) => cell.row === row && cell.col === col),
+    );
   };
 
-  // Handle mouse enter on a cell during drag
-  const handleMouseEnter = (row, col) => {
-    if (isDragging) {
-      updateSelection(row, col);
+  // Handle clicking on a cell to select a word
+  const handleCellClick = (row, col) => {
+    if (selectedWord.length === 0) {
+      // Start new selection with the clicked cell
+      const highlightedCellsAtPosition = highlightedWords.filter((wordObj) =>
+        wordObj.cells.some((cell) => cell.row === row && cell.col === col),
+      );
+
+      if (highlightedCellsAtPosition.length > 0) {
+        // If there's a highlighted word, select all its cells
+        selectWord(highlightedCellsAtPosition[0].cells);
+      }
+    } else {
+      // Selection is already active, attempt to confirm it
+      confirmWordSelection();
     }
   };
 
-  // Handle mouse up to complete selection
-  const handleMouseUp = () => {
-    if (isDragging) {
-      setIsDragging(false);
-      completeSelection();
-    }
-  };
-
-  // Handle mouse leaving the game area
-  const handleMouseLeave = () => {
-    if (isDragging) {
-      setIsDragging(false);
-      // Optional: could auto-complete the selection here or just cancel it
-    }
-  };
-
-  // Create a visual representation of the word being formed
-  const currentWord = selectedLetters.map((item) => item.letter).join("");
+  if (loading) {
+    return (
+      <div className="flex justify-center items-center h-screen">
+        <div className="text-xl">Loading word dictionary...</div>
+      </div>
+    );
+  }
 
   return (
     <div className="flex flex-col items-center justify-center p-4">
-      <h1 className="text-2xl font-bold mb-4">Word Grid Game</h1>
+      <h1 className="text-2xl font-bold mb-4">LetterFall Game</h1>
 
       <div className="mb-4">
-        <div className="flex items-center justify-between w-full">
-          <div className="text-xl">Score: {score}</div>
-          <div className="text-xl">Combo: {combo}x</div>
-        </div>
-        <div className="h-8 bg-gray-100 rounded p-1 min-w-64 text-center">
-          {currentWord}
+        <div className="text-xl">Score: {score}</div>
+        {selectedWord.length > 0 && (
+          <div className="h-8 bg-gray-100 rounded p-1 min-w-64 text-center">
+            Selected: {selectedWord.map((cell) => cell.letter).join("")}
+            <button
+              className="ml-2 px-2 py-0 bg-blue-500 text-white rounded hover:bg-blue-600 text-sm"
+              onClick={confirmWordSelection}
+            >
+              Confirm
+            </button>
+          </div>
+        )}
+      </div>
+
+      <div className="flex">
+        {/* Column controls */}
+        <div className="flex mt-10">
+          {Array(5)
+            .fill()
+            .map((_, colIndex) => (
+              <ColumnControl
+                key={`col-${colIndex}`}
+                colIndex={colIndex}
+                onShift={shiftColumn}
+              />
+            ))}
         </div>
       </div>
 
-      <div
-        className="grid grid-cols-5 gap-1 p-2 bg-gray-100 rounded-lg"
-        onMouseLeave={handleMouseLeave}
-      >
-        {activeGrid.map((row, rowIndex) =>
-          row.map((letter, colIndex) => (
-            <Cell
-              key={`${rowIndex}-${colIndex}`}
-              letter={letter}
-              row={rowIndex}
-              col={colIndex}
-              isSelected={isCellSelected(rowIndex, colIndex)}
-              onMouseDown={handleMouseDown}
-              onMouseEnter={handleMouseEnter}
-              onMouseUp={handleMouseUp}
-            />
-          )),
-        )}
+      <div className="flex">
+        {/* Row controls and grid */}
+        <div className="flex flex-col">
+          {Array(5)
+            .fill()
+            .map((_, rowIndex) => (
+              <RowControl
+                key={`row-${rowIndex}`}
+                rowIndex={rowIndex}
+                onShift={shiftRow}
+              />
+            ))}
+        </div>
+
+        <div className="grid grid-cols-5 gap-1 p-2 bg-gray-100 rounded-lg">
+          {grid.map((row, rowIndex) =>
+            row.map((letter, colIndex) => (
+              <Cell
+                key={`${rowIndex}-${colIndex}`}
+                letter={letter}
+                isSelected={isCellSelected(rowIndex, colIndex)}
+                isHighlighted={isCellHighlighted(rowIndex, colIndex)}
+                onClick={() => handleCellClick(rowIndex, colIndex)}
+              />
+            )),
+          )}
+        </div>
       </div>
 
       <div className="mt-4">
@@ -413,22 +474,17 @@ const WordGame = () => {
       <div className="mt-6 p-4 bg-gray-100 rounded-lg max-w-md">
         <h2 className="text-lg font-bold mb-2">How to Play:</h2>
         <ul className="list-disc pl-5">
+          <li>Shift rows and columns using the arrow buttons</li>
+          <li>Look for words that form horizontally or vertically</li>
+          <li>Click on a highlighted word to select it</li>
+          <li>Confirm selection to remove letters and score points</li>
           <li>
-            Drag horizontally or vertically to select letters and form words
+            Removed letters are replaced with new ones at the end of each row
           </li>
-          <li>Words must be at least 2 letters long</li>
-          <li>
-            When you match a word, those letters disappear and new ones appear
-          </li>
-          <li>
-            The grid wraps around, so you can continue selections from one edge
-            to another
-          </li>
-          <li>Longer words and combos give more points!</li>
         </ul>
       </div>
     </div>
   );
 };
 
-export default WordGame;
+export default LetterFallGame;
