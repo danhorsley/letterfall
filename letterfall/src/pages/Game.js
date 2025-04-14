@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { create } from "zustand";
+import create from "zustand";
 
 // Sample word list - in production this would be loaded from a CSV
 const WORD_LIST = new Set([
