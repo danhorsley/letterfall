@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
-import { create } from "zustand"; // Changed from import create from "zustand"
+import { create } from "zustand/vanilla";
+import { useStore } from "zustand";
 
 // Rest of the file remains the same...
 // Sample word list - in production this would be loaded from a CSV
@@ -36,7 +37,7 @@ const WORD_LIST = new Set([
 ]);
 
 // Create the game store with Zustand
-const useGameStore = create((set, get) => ({
+const store = create((set, get) => ({
   // The 10-length strips that feed the active grid
   letterStrips: Array(5)
     .fill()
@@ -321,7 +322,7 @@ const WordGame = () => {
     updateSelection,
     completeSelection,
     resetGame,
-  } = useGameStore();
+  } = useStore(store);
 
   const [isDragging, setIsDragging] = useState(false);
 
