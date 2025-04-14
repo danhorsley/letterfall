@@ -37,7 +37,7 @@ const WordHistory = ({ words }) => {
 const useGameStore = create((set, get) => ({
   // The 10-length strips that form our letter loops - now with better letter distribution
   letterStrips: generateLetterGrid(5, 10),
-
+  foundWords: [],
   // Vertical strips (columns) - also with better letter distribution
   letterColumns: generateLetterGrid(5, 10),
 
@@ -133,7 +133,10 @@ const useGameStore = create((set, get) => ({
       return false;
     }
 
-    const word = selectedWord.map(cell => cell.letter).join('').toLowerCase();
+    const word = selectedWord
+      .map((cell) => cell.letter)
+      .join("")
+      .toLowerCase();
 
     if (dictionary.isValidWord(word)) {
       // Process the confirmed word
@@ -148,17 +151,23 @@ const useGameStore = create((set, get) => ({
 
   // New helper function to process matched words and check for cascades
   processMatchedWord: (matchedWord) => {
-    const { letterStrips, rowPositions, score } = get();
+    const { letterStrips, rowPositions } = get();
+
+    // Get the word text
+    const word = matchedWord
+      .map((cell) => cell.letter)
+      .join("")
+      .toLowerCase();
 
     // Calculate points based on word length
-    const points = calculateWordPoints(matchedWord.length);
+    const points = calculateWordPoints(word.length);
 
     // Clone the strips to update
     const newStrips = JSON.parse(JSON.stringify(letterStrips));
 
     // Group selected cells by row to handle replacements
     const cellsByRow = {};
-    matchedWord.forEach(cell => {
+    matchedWord.forEach((cell) => {
       if (!cellsByRow[cell.row]) cellsByRow[cell.row] = [];
       cellsByRow[cell.row].push(cell);
     });
@@ -175,7 +184,7 @@ const useGameStore = create((set, get) => ({
       });
 
       // Remove letters and replace with new ones
-      cells.forEach(cell => {
+      cells.forEach((cell) => {
         const stripPos = (rowPositions[row] + cell.col) % 10;
 
         // Shift all letters after this position one position forward
@@ -184,15 +193,26 @@ const useGameStore = create((set, get) => ({
         }
 
         // Add new random letter at the end
-        newStrips[row][9] = String.fromCharCode(65 + Math.floor(Math.random() * 26));
+        newStrips[row][9] = String.fromCharCode(
+          65 + Math.floor(Math.random() * 26),
+        );
       });
     });
 
     // Update state with new strips and score
-    set(state => ({
+    set((state) => ({
       letterStrips: newStrips,
       score: state.score + points,
       selectedWord: [],
+      // Add the word to the history
+      foundWords: [
+        ...state.foundWords,
+        {
+          word,
+          points,
+          timestamp: Date.now(),
+        },
+      ],
     }));
 
     // Check for new words that might have formed after a short delay
@@ -300,6 +320,7 @@ const useGameStore = create((set, get) => ({
       selectedWord: [],
       highlightedWords: [],
       score: 0,
+      foundWords: [],
     });
 
     // Look for words in the initial grid
@@ -422,13 +443,15 @@ const LetterFallGame = () => {
   const handleCellClick = (row, col) => {
     if (selectedWord.length === 0) {
       // Find all highlighted words that contain this cell
-      const highlightedCellsAtPosition = highlightedWords.filter(wordObj => 
-        wordObj.cells.some(cell => cell.row === row && cell.col === col)
+      const highlightedCellsAtPosition = highlightedWords.filter((wordObj) =>
+        wordObj.cells.some((cell) => cell.row === row && cell.col === col),
       );
 
       if (highlightedCellsAtPosition.length > 0) {
         // Sort by word length (descending) to prioritize longer words
-        highlightedCellsAtPosition.sort((a, b) => b.word.length - a.word.length);
+        highlightedCellsAtPosition.sort(
+          (a, b) => b.word.length - a.word.length,
+        );
 
         // Select the longest word at this position
         selectWord(highlightedCellsAtPosition[0].cells);
@@ -508,6 +531,7 @@ const LetterFallGame = () => {
             )),
           )}
         </div>
+        <WordHistory words={foundWords} />
       </div>
 
       <div className="mt-4">
