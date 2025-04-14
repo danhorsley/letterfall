@@ -1,11092 +1,11092 @@
-aah	3
-aalii	5
-aba	3
-abaca	5
-aback	5
-abaft	5
-abamp	5
-abas	4
-abase	5
-abash	5
-abate	5
-abb	3
-abba	4
-abbe	4
-abbes	5
-abbey	5
-abbot	5
-abbr	4
-abeam	5
-abed	4
-abele	5
-abet	4
-abets	5
-abhor	5
-abide	5
-abies	5
-abl	3
-able	4
-abler	5
-ably	4
-abmho	5
-abode	5
-abohm	5
-abort	5
-about	5
-above	5
-abr	3
-abri	4
-abs	3
-abuse	5
-abut	4
-abuts	5
-abuzz	5
-aby	3
-abysm	5
-abyss	5
-acari	5
-acc	3
-accel	5
-acct	4
-ace	3
-aced	4
-acerb	5
-aces	4
-ache	4
-ached	5
-aches	5
-achoo	5
-achy	4
-acid	4
-acids	5
-acing	5
-acini	5
-acme	4
-acmes	5
-acne	4
-acned	5
-acorn	5
-acpt	4
-acre	4
-acred	5
-acres	5
-acrid	5
-act	3
-acted	5
-actg	4
-actin	5
-actor	5
-acts	4
-acute	5
-acyl	4
-adage	5
-adapt	5
-add	3
-addax	5
-added	5
-adder	5
-addle	5
-adds	4
-adept	5
-adieu	5
-adios	5
-adit	4
-adits	5
-adj	3
-adjt	4
-adman	5
-admen	5
-admin	5
-admit	5
-admix	5
-ado	3
-adobe	5
-adopt	5
-adore	5
-adorn	5
-adown	5
-ads	3
-adult	5
-adust	5
-adv	3
-advt	4
-adz	3
-adze	4
-adzes	5
-aecia	5
-aedes	5
-aegis	5
-aeon	4
-aeons	5
-aerie	5
-aero	4
-aeron	5
-aery	4
-afar	4
-affix	5
-afire	5
-afoot	5
-afore	5
-afoul	5
-afrit	5
-aft	3
-after	5
-aga	3
-again	5
-agama	5
-agape	5
-agar	4
-agate	5
-agave	5
-agcy	4
-age	3
-aged	4
-agee	4
-agent	5
-ages	4
-agger	5
-aggie	5
-aggro	5
-agha	4
-agile	5
-aging	5
-agio	4
-agios	5
-agist	5
-agita	5
-aglet	5
-agley	5
-aglow	5
-agma	4
-ago	3
-agog	4
-agon	4
-agone	5
-agony	5
-agora	5
-agr	3
-agree	5
-agric	5
-agron	5
-ague	4
-aha	3
-ahead	5
-ahem	4
-ahoy	4
-aid	3
-aide	4
-aided	5
-aider	5
-aides	5
-aids	4
-ail	3
-ailed	5
-ails	4
-aim	3
-aimed	5
-aims	4
-ain	3
-aioli	5
-air	3
-aired	5
-airs	4
-airt	4
-airts	5
-airy	4
-ais	3
-aisle	5
-ait	3
-aitch	5
-ajar	4
-aka	3
-akee	4
-akees	5
-akene	5
-akin	4
-ala	3
-alack	5
-alae	4
-alar	4
-alarm	5
-alary	5
-alas	4
-alate	5
-alb	3
-alba	4
-albs	4
-album	5
-alder	5
-aldol	5
-ale	3
-alee	4
-aleph	5
-alert	5
-ales	4
-alg	3
-alga	4
-algae	5
-algal	5
-algid	5
-algin	5
-algor	5
-alias	5
-alibi	5
-alien	5
-align	5
-alike	5
-alive	5
-alk	3
-alky	4
-alkyd	5
-alkyl	5
-all	3
-allay	5
-allee	5
-alley	5
-allot	5
-allow	5
-alloy	5
-ally	4
-allyl	5
-alms	4
-aloe	4
-aloes	5
-aloft	5
-aloha	5
-aloin	5
-alone	5
-along	5
-aloof	5
-aloud	5
-alow	4
-alp	3
-alpha	5
-alps	4
-also	4
-alt	3
-altar	5
-alter	5
-alto	4
-altos	5
-alts	4
-alula	5
-alum	4
-alums	5
-amah	4
-amahs	5
-amain	5
-amass	5
-amaze	5
-amber	5
-ambit	5
-amble	5
-ambo	4
-ambos	5
-ambry	5
-ameba	5
-amen	4
-amend	5
-ament	5
-ami	3
-amice	5
-amid	4
-amide	5
-amie	4
-amigo	5
-amine	5
-amino	5
-amir	4
-amirs	5
-amiss	5
-amity	5
-ammo	4
-amnio	5
-amok	4
-among	5
-amour	5
-amp	3
-ample	5
-amply	5
-amps	4
-amt	3
-amu	3
-amuck	5
-amuse	5
-amyl	4
-ana	3
-anal	4
-anas	4
-anat	4
-ancon	5
-and	3
-ane	3
-anear	5
-anele	5
-anent	5
-anew	4
-angel	5
-anger	5
-angle	5
-angry	5
-angst	5
-anil	4
-anile	5
-anils	5
-anim	4
-anima	5
-anime	5
-anion	5
-anis	4
-anise	5
-ankh	4
-ankhs	5
-ankle	5
-ankus	5
-ann	3
-anna	4
-annal	5
-annas	5
-annex	5
-annoy	5
-annul	5
-anoa	4
-anoas	5
-anode	5
-anole	5
-anon	4
-anons	5
-ans	3
-ant	3
-anta	4
-ante	4
-anted	5
-antes	5
-anti	4
-antic	5
-antiq	5
-antis	5
-antre	5
-ants	4
-antsy	5
-anus	4
-anvil	5
-any	3
-aorta	5
-apace	5
-apart	5
-ape	3
-apeak	5
-aped	4
-apery	5
-apes	4
-apex	4
-aphid	5
-aphis	5
-apian	5
-aping	5
-apish	5
-apnea	5
-aport	5
-app	3
-appel	5
-apple	5
-apply	5
-apps	4
-apron	5
-apse	4
-apses	5
-apsis	5
-apt	3
-apter	5
-aptly	5
-aqua	4
-aquas	5
-arak	4
-araks	5
-arb	3
-arbor	5
-arbs	4
-arc	3
-arced	5
-arch	4
-archt	5
-arcs	4
-ardeb	5
-ardor	5
-are	3
-area	4
-areal	5
-areas	5
-areca	5
-arena	5
-ares	4
-arete	5
-argal	5
-argil	5
-argol	5
-argon	5
-argot	5
-argue	5
-aria	4
-arias	5
-arid	4
-ariel	5
-aril	4
-arils	5
-arise	5
-ark	3
-arks	4
-arm	3
-armed	5
-armet	5
-armor	5
-arms	4
-army	4
-aroid	5
-aroma	5
-arose	5
-arr	3
-arras	5
-array	5
-arris	5
-arrow	5
-arsed	5
-arsis	5
-arson	5
-art	3
-artel	5
-arts	4
-artsy	5
-arty	4
-arum	4
-arums	5
-arvo	4
-aryl	4
-asap	4
-asci	4
-ascot	5
-ascus	5
-asdic	5
-ash	3
-ashed	5
-ashen	5
-ashes	5
-ashy	4
-aside	5
-ask	3
-asked	5
-asker	5
-askew	5
-asks	4
-asp	3
-aspen	5
-asper	5
-aspic	5
-asps	4
-ass	3
-assai	5
-assay	5
-asses	5
-asset	5
-assn	4
-assoc	5
-asst	4
-aster	5
-astir	5
-astr	4
-ate	3
-atilt	5
-atlas	5
-atm	3
-atman	5
-atoll	5
-atom	4
-atoms	5
-atomy	5
-atone	5
-atony	5
-atop	4
-atria	5
-atrip	5
-att	3
-attar	5
-attic	5
-attn	4
-atty	4
-aud	3
-audio	5
-audit	5
-aug	3
-auger	5
-aught	5
-augur	5
-auk	3
-auks	4
-aulic	5
-aulos	5
-aunt	4
-aunts	5
-aura	4
-aural	5
-aurar	5
-auras	5
-auric	5
-aurum	5
-auth	4
-auto	4
-autos	5
-aux	3
-auxin	5
-avail	5
-avast	5
-avdp	4
-ave	3
-avens	5
-aver	4
-avers	5
-avert	5
-avg	3
-avian	5
-avid	4
-avion	5
-avn	3
-avo	3
-avoid	5
-avoir	5
-avos	4
-avow	4
-avows	5
-await	5
-awake	5
-award	5
-aware	5
-awash	5
-away	4
-awe	3
-awed	4
-awes	4
-awful	5
-awing	5
-awl	3
-awls	4
-awn	3
-awned	5
-awns	4
-awoke	5
-awol	4
-awry	4
-axed	4
-axes	4
-axial	5
-axil	4
-axils	5
-axing	5
-axiom	5
-axis	4
-axle	4
-axles	5
-axon	4
-axons	5
-ayah	4
-ayahs	5
-aye	3
-ayes	4
-ayin	4
-ayins	5
-azan	4
-azide	5
-azine	5
-azo	3
-azoic	5
-azole	5
-azote	5
-azoth	5
-azure	5
-baa	3
-baaed	5
-baas	4
-baba	4
-babas	5
-babe	4
-babel	5
-babes	5
-babul	5
-baby	4
-baccy	5
-bach	4
-back	4
-backs	5
-bacon	5
-bact	4
-bad	3
-baddy	5
-bade	4
-badge	5
-badly	5
-bag	3
-bagel	5
-baggy	5
-bags	4
-bah	3
-baht	4
-bahts	5
-bail	4
-bails	5
-bairn	5
-bait	4
-baits	5
-baiza	5
-baize	5
-bake	4
-baked	5
-baker	5
-bakes	5
-bal	3
-balas	5
-bald	4
-balds	5
-baldy	5
-bale	4
-baled	5
-baler	5
-bales	5
-balk	4
-balks	5
-balky	5
-ball	4
-balls	5
-bally	5
-balm	4
-balms	5
-balmy	5
-balsa	5
-ban	3
-banal	5
-banc	4
-band	4
-bands	5
-bandy	5
-bane	4
-banes	5
-bang	4
-bangs	5
-bani	4
-banjo	5
-bank	4
-banks	5
-banns	5
-bans	4
-bant	4
-bap	3
-baps	4
-bar	3
-barb	4
-barbs	5
-bard	4
-barde	5
-bards	5
-bare	4
-bared	5
-barer	5
-bares	5
-barf	4
-barfs	5
-barge	5
-baric	5
-barit	5
-bark	4
-barks	5
-barm	4
-barms	5
-barmy	5
-barn	4
-barns	5
-baron	5
-barre	5
-bars	4
-barye	5
-basal	5
-base	4
-based	5
-baser	5
-bases	5
-bash	4
-basic	5
-basil	5
-basin	5
-basis	5
-bask	4
-basks	5
-bass	4
-basso	5
-bast	4
-baste	5
-bat	3
-batch	5
-bate	4
-bated	5
-bates	5
-bath	4
-bathe	5
-baths	5
-batik	5
-baton	5
-bats	4
-batt	4
-batty	5
-baud	4
-bauds	5
-bawd	4
-bawds	5
-bawdy	5
-bawl	4
-bawls	5
-bay	3
-bayed	5
-bayou	5
-bays	4
-bazar	5
-bbl	3
-bdl	3
-bdrm	4
-beach	5
-bead	4
-beads	5
-beady	5
-beak	4
-beaks	5
-beam	4
-beams	5
-beamy	5
-bean	4
-beano	5
-beans	5
-bear	4
-beard	5
-bears	5
-beast	5
-beat	4
-beats	5
-beau	4
-beaus	5
-beaut	5
-beaux	5
-bebop	5
-beck	4
-becks	5
-bed	3
-bedel	5
-bedew	5
-bedim	5
-beds	4
-bee	3
-beech	5
-beef	4
-beefs	5
-beefy	5
-been	4
-beep	4
-beeps	5
-beer	4
-beers	5
-beery	5
-bees	4
-beet	4
-beets	5
-befit	5
-befog	5
-beg	3
-began	5
-begat	5
-beget	5
-begin	5
-begot	5
-begs	4
-begum	5
-begun	5
-beige	5
-being	5
-bel	3
-belay	5
-belch	5
-belga	5
-belie	5
-bell	4
-belle	5
-bells	5
-belly	5
-below	5
-bels	4
-belt	4
-belts	5
-bema	4
-bemas	5
-ben	3
-bench	5
-bend	4
-bends	5
-bendy	5
-benne	5
-benny	5
-bens	4
-bent	4
-bents	5
-beret	5
-berg	4
-bergs	5
-berk	4
-berks	5
-berm	4
-berms	5
-berry	5
-berth	5
-beryl	5
-beset	5
-besom	5
-besot	5
-best	4
-bests	5
-bet	3
-beta	4
-betas	5
-betel	5
-beth	4
-beths	5
-bets	4
-betta	5
-bevel	5
-bevvy	5
-bevy	4
-bey	3
-beys	4
-bezel	5
-bhaji	5
-bhang	5
-bialy	5
-bias	4
-bib	3
-bibb	4
-bibl	4
-bible	5
-bibs	4
-bice	4
-bicep	5
-bid	3
-biddy	5
-bide	4
-bides	5
-bidet	5
-bids	4
-bield	5
-bier	4
-biers	5
-biff	4
-biffs	5
-bifid	5
-big	3
-bight	5
-bigot	5
-bijou	5
-bike	4
-biked	5
-biker	5
-bikes	5
-bilbo	5
-bile	4
-bilge	5
-bilk	4
-bilks	5
-bill	4
-bills	5
-billy	5
-bimah	5
-bimbo	5
-bin	3
-binal	5
-bind	4
-binds	5
-bine	4
-bines	5
-binge	5
-bingo	5
-bins	4
-bio	3
-biog	4
-biol	4
-biome	5
-bios	4
-biota	5
-biped	5
-bipod	5
-birch	5
-bird	4
-birds	5
-birl	4
-birls	5
-birr	4
-birrs	5
-birth	5
-bis	3
-bises	5
-bisk	4
-bison	5
-bit	3
-bitch	5
-bite	4
-biter	5
-bites	5
-bits	4
-bitt	4
-bitts	5
-bitty	5
-biz	3
-bize	4
-bkcy	4
-bkg	3
-bks	3
-blab	4
-blabs	5
-black	5
-blade	5
-blag	4
-blags	5
-blah	4
-blahs	5
-blain	5
-blame	5
-bland	5
-blank	5
-blare	5
-blase	5
-blast	5
-blat	4
-blate	5
-blats	5
-blaze	5
-bldg	4
-bleak	5
-blear	5
-bleat	5
-bleb	4
-blebs	5
-bled	4
-bleed	5
-bleep	5
-blend	5
-bless	5
-blew	4
-blimp	5
-blind	5
-bling	5
-blini	5
-blink	5
-blip	4
-blips	5
-bliss	5
-blitz	5
-blk	3
-bloat	5
-blob	4
-blobs	5
-bloc	4
-block	5
-blocs	5
-blog	4
-blogs	5
-bloke	5
-blond	5
-blood	5
-bloom	5
-bloop	5
-blot	4
-blots	5
-blow	4
-blown	5
-blows	5
-blowy	5
-blue	4
-blued	5
-bluer	5
-blues	5
-bluet	5
-bluey	5
-bluff	5
-blunt	5
-blur	4
-blurb	5
-blurs	5
-blurt	5
-blush	5
-blvd	4
-boa	3
-boar	4
-board	5
-boars	5
-boart	5
-boas	4
-boast	5
-boat	4
-boats	5
-bob	3
-bobby	5
-bobs	4
-bocce	5
-bocci	5
-bock	4
-bod	3
-bode	4
-boded	5
-bodes	5
-bodge	5
-bods	4
-body	4
-boffo	5
-bog	3
-boga	4
-bogey	5
-boggy	5
-bogie	5
-bogle	5
-bogon	5
-bogs	4
-bogus	5
-boil	4
-boils	5
-boink	5
-bola	4
-bolas	5
-bold	4
-bole	4
-boles	5
-boll	4
-bolls	5
-bolo	4
-bolos	5
-bolt	4
-bolts	5
-bolus	5
-bomb	4
-bombe	5
-bombs	5
-bonce	5
-bond	4
-bonds	5
-bone	4
-boned	5
-boner	5
-bones	5
-bong	4
-bongo	5
-bongs	5
-bonk	4
-bonks	5
-bonne	5
-bonny	5
-bonus	5
-bony	4
-bonze	5
-boo	3
-boob	4
-boobs	5
-booby	5
-booed	5
-book	4
-books	5
-boom	4
-booms	5
-boon	4
-boong	5
-boons	5
-boor	4
-boors	5
-boos	4
-boost	5
-boot	4
-booth	5
-boots	5
-booty	5
-booze	5
-boozy	5
-bop	3
-bops	4
-bor	3
-bora	4
-borak	5
-borax	5
-bore	4
-bored	5
-borer	5
-bores	5
-borg	4
-boric	5
-born	4
-borne	5
-boron	5
-bort	4
-bosh	4
-bosk	4
-bosky	5
-bosom	5
-boson	5
-boss	4
-bossy	5
-bosun	5
-bot	3
-botch	5
-botel	5
-both	4
-bothy	5
-bots	4
-bott	4
-bough	5
-boule	5
-bound	5
-bouse	5
-bout	4
-bouts	5
-bovid	5
-bow	3
-bowed	5
-bowel	5
-bower	5
-bowl	4
-bowls	5
-bows	4
-bowse	5
-box	3
-boxed	5
-boxen	5
-boxer	5
-boxes	5
-boxy	4
-boy	3
-boyar	5
-boyla	5
-boys	4
-bozo	4
-bozos	5
-bpm	3
-bps	3
-bra	3
-brace	5
-brach	5
-bract	5
-brad	4
-brads	5
-brae	4
-braes	5
-brag	4
-brags	5
-braid	5
-brail	5
-brain	5
-brake	5
-bran	4
-brand	5
-brant	5
-bras	4
-brash	5
-brass	5
-brat	4
-brats	5
-brave	5
-bravo	5
-braw	4
-brawl	5
-brawn	5
-braxy	5
-bray	4
-brays	5
-braze	5
-bread	5
-break	5
-bream	5
-bred	4
-brede	5
-bree	4
-breed	5
-brei	4
-brent	5
-breve	5
-brew	4
-brews	5
-briar	5
-bribe	5
-brick	5
-bride	5
-brie	4
-brief	5
-brier	5
-brig	4
-brigs	5
-brill	5
-brim	4
-brims	5
-brine	5
-bring	5
-brink	5
-briny	5
-brio	4
-bris	4
-brisk	5
-brit	4
-brits	5
-bro	3
-broad	5
-broch	5
-brock	5
-broil	5
-broke	5
-bronc	5
-brood	5
-brook	5
-broom	5
-bros	4
-brose	5
-broth	5
-brow	4
-brown	5
-brows	5
-brr	3
-bruin	5
-bruit	5
-brume	5
-brunt	5
-brush	5
-brut	4
-brute	5
-btl	3
-btry	4
-bub	3
-bubal	5
-bubba	5
-bubo	4
-bubs	4
-buck	4
-bucko	5
-bucks	5
-bud	3
-buddy	5
-budge	5
-buds	4
-bueno	5
-buff	4
-buffo	5
-buffs	5
-bug	3
-buggy	5
-bugle	5
-bugs	4
-buhl	4
-buhls	5
-buhr	4
-build	5
-built	5
-bul	3
-bulb	4
-bulbs	5
-bulge	5
-bulgy	5
-bulk	4
-bulks	5
-bulky	5
-bull	4
-bulla	5
-bulls	5
-bully	5
-bum	3
-bumf	4
-bump	4
-bumph	5
-bumps	5
-bumpy	5
-bums	4
-bun	3
-bunch	5
-bunco	5
-bund	4
-bung	4
-bungs	5
-bunk	4
-bunko	5
-bunks	5
-bunny	5
-buns	4
-bunt	4
-bunts	5
-buoy	4
-buoys	5
-bur	3
-buran	5
-burbs	5
-buret	5
-burg	4
-burgh	5
-burgs	5
-burin	5
-burka	5
-burke	5
-burl	4
-burls	5
-burly	5
-burn	4
-burns	5
-burnt	5
-burp	4
-burps	5
-burr	4
-burro	5
-burrs	5
-burry	5
-burs	4
-bursa	5
-burse	5
-burst	5
-bury	4
-bus	3
-busby	5
-bused	5
-buses	5
-bush	4
-bushy	5
-busk	4
-busks	5
-buss	4
-bust	4
-busts	5
-busty	5
-busy	4
-but	3
-butch	5
-buteo	5
-buts	4
-butt	4
-butte	5
-butts	5
-butty	5
-butut	5
-butyl	5
-buxom	5
-buy	3
-buyer	5
-buys	4
-buzz	4
-bwana	5
-bxs	3
-bye	3
-byes	4
-bylaw	5
-byre	4
-byres	5
-byte	4
-bytes	5
-byway	5
-cab	3
-cabal	5
-cabby	5
-caber	5
-cabin	5
-cable	5
-cabob	5
-cabs	4
-cacao	5
-cache	5
-cacti	5
-cad	3
-cade	4
-cadet	5
-cadge	5
-cadi	4
-cadre	5
-cads	4
-cafe	4
-cafes	5
-caff	4
-caffs	5
-cage	4
-caged	5
-cager	5
-cages	5
-cagey	5
-cain	4
-caird	5
-cairn	5
-cake	4
-caked	5
-cakes	5
-caky	4
-cal	3
-calf	4
-calk	4
-calks	5
-call	4
-calla	5
-calls	5
-calm	4
-calms	5
-calve	5
-calx	4
-calyx	5
-cam	3
-came	4
-camel	5
-cameo	5
-camp	4
-campo	5
-camps	5
-campy	5
-cams	4
-can	3
-canal	5
-canc	4
-candy	5
-cane	4
-caned	5
-caner	5
-canes	5
-canna	5
-canny	5
-canoe	5
-canon	5
-cans	4
-canso	5
-canst	5
-cant	4
-canto	5
-cants	5
-canty	5
-cap	3
-cape	4
-caped	5
-caper	5
-capes	5
-capo	4
-capon	5
-capos	5
-caps	4
-capt	4
-caput	5
-car	3
-carat	5
-carbs	5
-card	4
-cards	5
-care	4
-cared	5
-carer	5
-cares	5
-caret	5
-cargo	5
-cark	4
-carks	5
-carl	4
-carny	5
-carob	5
-carol	5
-carom	5
-carp	4
-carpi	5
-carps	5
-carry	5
-cars	4
-carse	5
-cart	4
-carte	5
-carts	5
-carve	5
-casa	4
-case	4
-cased	5
-cases	5
-cash	4
-cask	4
-casks	5
-cast	4
-caste	5
-casts	5
-cat	3
-catch	5
-cate	4
-cater	5
-cats	4
-catty	5
-cauda	5
-caul	4
-caulk	5
-cauls	5
-caus	4
-cause	5
-cave	4
-caved	5
-caver	5
-caves	5
-cavie	5
-cavil	5
-cavy	4
-caw	3
-cawed	5
-caws	4
-cay	3
-cays	4
-cease	5
-ceca	4
-cecal	5
-cecum	5
-cedar	5
-cede	4
-ceded	5
-ceder	5
-cedes	5
-cedi	4
-cedis	5
-ceiba	5
-ceil	4
-celeb	5
-cell	4
-cella	5
-cello	5
-cells	5
-celom	5
-celt	4
-cen	3
-cense	5
-cent	4
-cento	5
-cents	5
-ceorl	5
-cere	4
-cered	5
-ceres	5
-ceria	5
-ceric	5
-cero	4
-ceros	5
-cert	4
-certs	5
-cesar	5
-cess	4
-cesta	5
-cha	3
-chad	4
-chads	5
-chafe	5
-chaff	5
-chain	5
-chair	5
-chalk	5
-cham	4
-champ	5
-chant	5
-chaos	5
-chap	4
-chape	5
-chaps	5
-char	4
-chard	5
-chare	5
-charm	5
-charr	5
-chars	5
-chart	5
-chary	5
-chase	5
-chasm	5
-chat	4
-chats	5
-chaw	4
-chaws	5
-cheap	5
-cheat	5
-check	5
-cheek	5
-cheep	5
-cheer	5
-chef	4
-chefs	5
-chela	5
-chem	4
-chemo	5
-chert	5
-chess	5
-chest	5
-chevy	5
-chew	4
-chews	5
-chewy	5
-chez	4
-chg	3
-chge	4
-chi	3
-chiao	5
-chic	4
-chick	5
-chico	5
-chide	5
-chief	5
-child	5
-chili	5
-chill	5
-chimb	5
-chime	5
-chimp	5
-chin	4
-china	5
-chine	5
-ching	5
-chink	5
-chino	5
-chins	5
-chip	4
-chips	5
-chirk	5
-chirm	5
-chirp	5
-chirr	5
-chis	4
-chit	4
-chits	5
-chive	5
-chivy	5
-chm	3
-choc	4
-chock	5
-chocs	5
-choir	5
-choke	5
-choli	5
-chomp	5
-chon	4
-chook	5
-chop	4
-chops	5
-chord	5
-chore	5
-chose	5
-chou	4
-chow	4
-chows	5
-chron	5
-chs	3
-chub	4
-chubs	5
-chuck	5
-chufa	5
-chuff	5
-chug	4
-chugs	5
-chum	4
-chump	5
-chums	5
-chunk	5
-churl	5
-churn	5
-churr	5
-chute	5
-chyle	5
-chyme	5
-ciao	4
-ciaos	5
-cider	5
-cig	3
-cigar	5
-cilia	5
-cimex	5
-cinch	5
-cine	4
-cion	4
-cir	3
-circa	5
-cire	4
-cirri	5
-cis	3
-cisco	5
-cist	4
-cit	3
-cite	4
-cited	5
-cites	5
-city	4
-civ	3
-civet	5
-civic	5
-civil	5
-clack	5
-clad	4
-clade	5
-claim	5
-clam	4
-clamp	5
-clams	5
-clan	4
-clang	5
-clank	5
-clans	5
-clap	4
-claps	5
-claro	5
-clary	5
-clash	5
-clasp	5
-class	5
-clave	5
-clavi	5
-claw	4
-claws	5
-clay	4
-clays	5
-clean	5
-clear	5
-cleat	5
-cleek	5
-clef	4
-clefs	5
-cleft	5
-clem	4
-clepe	5
-clerk	5
-clew	4
-clews	5
-click	5
-cliff	5
-clii	4
-climb	5
-clime	5
-cline	5
-cling	5
-clink	5
-clip	4
-clips	5
-clit	4
-clits	5
-clix	4
-cloak	5
-clock	5
-clod	4
-clods	5
-clog	4
-clogs	5
-clomb	5
-clomp	5
-clone	5
-clonk	5
-clop	4
-clops	5
-clos	4
-close	5
-clot	4
-cloth	5
-clots	5
-cloud	5
-clout	5
-clove	5
-clown	5
-cloy	4
-cloys	5
-club	4
-clubs	5
-cluck	5
-clue	4
-clued	5
-clues	5
-clump	5
-clung	5
-clunk	5
-clvi	4
-clvii	5
-clxi	4
-clxii	5
-clxiv	5
-clxix	5
-clxvi	5
-cml	3
-coach	5
-coact	5
-coal	4
-coals	5
-coaly	5
-coast	5
-coat	4
-coati	5
-coats	5
-coax	4
-cob	3
-cobia	5
-coble	5
-cobra	5
-cobs	4
-coca	4
-cocci	5
-cock	4
-cocks	5
-cocky	5
-coco	4
-cocoa	5
-cocos	5
-cod	3
-coda	4
-codas	5
-code	4
-coded	5
-coder	5
-codes	5
-codex	5
-codon	5
-cods	4
-coed	4
-coeds	5
-coff	4
-cog	3
-cogon	5
-cogs	4
-coho	4
-cohos	5
-coif	4
-coifs	5
-coign	5
-coil	4
-coils	5
-coin	4
-coins	5
-coir	4
-coirs	5
-coke	4
-coked	5
-cokes	5
-col	3
-cola	4
-colas	5
-cold	4
-colds	5
-cole	4
-coles	5
-coley	5
-coli	4
-colic	5
-coll	4
-colly	5
-colon	5
-color	5
-cols	4
-colt	4
-colts	5
-coly	4
-colza	5
-com	3
-coma	4
-comas	5
-comb	4
-combe	5
-combo	5
-combs	5
-comdg	5
-come	4
-comer	5
-comes	5
-comet	5
-comfy	5
-comic	5
-comm	4
-comma	5
-comp	4
-compo	5
-comps	5
-con	3
-conc	4
-conch	5
-condo	5
-cone	4
-coned	5
-cones	5
-coney	5
-conf	4
-cong	4
-conga	5
-conic	5
-conj	4
-conk	4
-conks	5
-conn	4
-conns	5
-cons	4
-cont	4
-contd	5
-conte	5
-conto	5
-contr	5
-cony	4
-coo	3
-cooed	5
-cooee	5
-cook	4
-cooks	5
-cooky	5
-cool	4
-cools	5
-coom	4
-coomb	5
-coon	4
-coons	5
-coop	4
-coops	5
-coos	4
-coot	4
-coots	5
-cop	3
-copal	5
-copay	5
-cope	4
-coped	5
-coper	5
-copes	5
-copra	5
-cops	4
-copse	5
-copy	4
-cor	3
-coral	5
-cord	4
-cords	5
-core	4
-cored	5
-corer	5
-cores	5
-corf	4
-corgi	5
-coria	5
-cork	4
-corks	5
-corky	5
-corm	4
-corms	5
-corn	4
-corns	5
-cornu	5
-corny	5
-corp	4
-corps	5
-corr	4
-corse	5
-cos	3
-cosec	5
-coset	5
-cosh	4
-coss	4
-cost	4
-costa	5
-coste	5
-costs	5
-cot	3
-cote	4
-cotes	5
-coth	4
-cots	4
-cotta	5
-couch	5
-cough	5
-could	5
-count	5
-coup	4
-coupe	5
-coups	5
-court	5
-couth	5
-cove	4
-coven	5
-cover	5
-coves	5
-covet	5
-covey	5
-covin	5
-cow	3
-cowed	5
-cower	5
-cowl	4
-cowls	5
-cows	4
-cox	3
-coxa	4
-coxae	5
-coxed	5
-coxes	5
-coy	3
-coyer	5
-coyly	5
-coypu	5
-coz	3
-coze	4
-cozen	5
-cozy	4
-cpd	3
-cpl	3
-cps	3
-craal	5
-crab	4
-crabs	5
-crack	5
-craft	5
-crag	4
-crags	5
-crake	5
-cram	4
-cramp	5
-crams	5
-crane	5
-crank	5
-crap	4
-crape	5
-craps	5
-crapy	5
-crash	5
-crass	5
-crate	5
-crave	5
-craw	4
-crawl	5
-craws	5
-cray	4
-crays	5
-craze	5
-crazy	5
-creak	5
-cream	5
-cred	4
-credo	5
-creed	5
-creek	5
-creel	5
-creep	5
-creme	5
-crepe	5
-crept	5
-cress	5
-crest	5
-crew	4
-crews	5
-crib	4
-cribs	5
-crick	5
-cried	5
-crier	5
-cries	5
-crim	4
-crime	5
-crimp	5
-crine	5
-crisp	5
-crit	4
-croak	5
-crock	5
-croft	5
-crone	5
-cronk	5
-crony	5
-crook	5
-croon	5
-crop	4
-crops	5
-crore	5
-cross	5
-croup	5
-crow	4
-crowd	5
-crown	5
-crows	5
-croze	5
-cru	3
-cruck	5
-crud	4
-crude	5
-cruel	5
-cruet	5
-cruft	5
-crumb	5
-crump	5
-crus	4
-cruse	5
-crush	5
-crust	5
-crux	4
-crwth	5
-cry	3
-crypt	5
-cryst	5
-csc	3
-csch	4
-ctn	3
-ctr	3
-cts	3
-cub	3
-cubby	5
-cube	4
-cubeb	5
-cubed	5
-cuber	5
-cubes	5
-cubic	5
-cubit	5
-cubs	4
-cud	3
-cuddy	5
-cuds	4
-cue	3
-cued	4
-cues	4
-cuff	4
-cuffs	5
-cuing	5
-cuke	4
-cukes	5
-culch	5
-culet	5
-culex	5
-cull	4
-culls	5
-cully	5
-culm	4
-culms	5
-culpa	5
-cult	4
-cults	5
-cum	3
-cumin	5
-cums	4
-cunt	4
-cunts	5
-cup	3
-cupel	5
-cupid	5
-cuppa	5
-cups	4
-cur	3
-curb	4
-curbs	5
-curch	5
-curd	4
-curds	5
-curdy	5
-cure	4
-cured	5
-curer	5
-cures	5
-curet	5
-curia	5
-curie	5
-curio	5
-curl	4
-curls	5
-curly	5
-curry	5
-curs	4
-curse	5
-curt	4
-curve	5
-curvy	5
-cusec	5
-cushy	5
-cusk	4
-cusks	5
-cusp	4
-cusps	5
-cuss	4
-cut	3
-cutch	5
-cute	4
-cuter	5
-cutey	5
-cutie	5
-cutin	5
-cutis	5
-cuts	4
-cutty	5
-cutup	5
-cwm	3
-cwms	4
-cwt	3
-cyan	4
-cycad	5
-cycle	5
-cyl	3
-cylix	5
-cyma	4
-cymar	5
-cymas	5
-cyme	4
-cymes	5
-cynic	5
-cyst	4
-cysts	5
-cyton	5
-czar	4
-czars	5
-dab	3
-dabs	4
-dace	4
-daces	5
-dacha	5
-dad	3
-dada	4
-dadas	5
-daddy	5
-dado	4
-dados	5
-dads	4
-daff	4
-daffy	5
-daft	4
-dag	3
-dago	4
-dagos	5
-dags	4
-dah	3
-dahl	4
-dahls	5
-dahs	4
-daily	5
-dairy	5
-dais	4
-daisy	5
-dak	3
-daks	4
-dale	4
-dales	5
-dally	5
-dam	3
-daman	5
-damar	5
-dame	4
-dames	5
-damn	4
-damns	5
-damp	4
-damps	5
-dams	4
-dance	5
-dandy	5
-dang	4
-dangs	5
-danio	5
-dank	4
-dap	3
-dare	4
-dared	5
-darer	5
-dares	5
-darg	4
-daric	5
-dark	4
-darky	5
-darn	4
-darns	5
-dart	4
-darts	5
-dash	4
-dat	3
-data	4
-date	4
-dated	5
-dater	5
-dates	5
-dato	4
-datum	5
-daub	4
-daube	5
-daubs	5
-daunt	5
-davit	5
-daw	3
-dawn	4
-dawns	5
-daws	4
-day	3
-days	4
-daze	4
-dazed	5
-dazes	5
-dbl	3
-dded	4
-dding	5
-dds	3
-dead	4
-deaf	4
-deal	4
-deals	5
-dealt	5
-dean	4
-deans	5
-dear	4
-dears	5
-deary	5
-death	5
-deb	3
-debag	5
-debar	5
-debit	5
-debs	4
-debt	4
-debts	5
-debug	5
-debus	5
-debut	5
-dec	3
-decaf	5
-decal	5
-decay	5
-decd	4
-deck	4
-decks	5
-decl	4
-deco	4
-decor	5
-decoy	5
-decry	5
-dedal	5
-deed	4
-deeds	5
-deem	4
-deems	5
-deep	4
-deeps	5
-deer	4
-def	3
-defer	5
-defog	5
-deft	4
-defy	4
-deg	3
-degas	5
-deice	5
-deify	5
-deign	5
-deil	4
-deism	5
-deist	5
-deity	5
-dekko	5
-del	3
-delay	5
-dele	4
-delft	5
-deli	4
-delis	5
-dell	4
-dells	5
-delta	5
-delve	5
-deme	4
-demit	5
-demo	4
-demob	5
-demon	5
-demos	5
-demur	5
-demy	4
-den	3
-denar	5
-dene	4
-denim	5
-denom	5
-dens	4
-dense	5
-dent	4
-dents	5
-deny	4
-dep	3
-depot	5
-dept	4
-depth	5
-der	3
-derby	5
-deriv	5
-derma	5
-derry	5
-derv	4
-desc	4
-desex	5
-desk	4
-desks	5
-deter	5
-detox	5
-deuce	5
-deva	4
-devil	5
-dew	3
-dewan	5
-dews	4
-dewy	4
-dey	3
-dhobi	5
-dhole	5
-dhoti	5
-dhow	4
-dhows	5
-diag	4
-dial	4
-dials	5
-diam	4
-diary	5
-diazo	5
-dib	3
-dibs	4
-dice	4
-diced	5
-dicer	5
-dices	5
-dicey	5
-dick	4
-dicks	5
-dicky	5
-dicot	5
-dict	4
-dicta	5
-did	3
-dido	4
-didos	5
-didst	5
-die	3
-died	4
-dies	4
-diet	4
-diets	5
-diff	4
-diffs	5
-dig	3
-dight	5
-digit	5
-digs	4
-dike	4
-diked	5
-dikes	5
-dildo	5
-dill	4
-dills	5
-dilly	5
-dim	3
-dime	4
-dimer	5
-dimes	5
-dimly	5
-dims	4
-din	3
-dinar	5
-dine	4
-dined	5
-diner	5
-dines	5
-ding	4
-dinge	5
-dingo	5
-dings	5
-dingy	5
-dink	4
-dinky	5
-dins	4
-dint	4
-dints	5
-diode	5
-dip	3
-dipl	4
-dippy	5
-dips	4
-dipso	5
-dir	3
-dire	4
-direr	5
-dirge	5
-dirk	4
-dirks	5
-dirt	4
-dirty	5
-dis	3
-disc	4
-disco	5
-discs	5
-dish	4
-dishy	5
-disk	4
-disks	5
-dist	4
-distr	5
-dit	3
-ditch	5
-dits	4
-ditsy	5
-ditto	5
-ditty	5
-ditz	4
-ditzy	5
-div	3
-diva	4
-divan	5
-divas	5
-dive	4
-dived	5
-diver	5
-dives	5
-divot	5
-divvy	5
-diwan	5
-dixie	5
-dizen	5
-dizzy	5
-dkl	3
-dlr	3
-dlvy	4
-dob	3
-dobby	5
-dobla	5
-dobra	5
-dobro	5
-dobs	4
-doc	3
-dock	4
-docks	5
-docs	4
-dodge	5
-dodgy	5
-dodo	4
-dodos	5
-doe	3
-doer	4
-doers	5
-does	4
-doff	4
-doffs	5
-dog	3
-doge	4
-doges	5
-doggo	5
-doggy	5
-dogie	5
-dogma	5
-dogs	4
-doh	3
-doily	5
-doing	5
-doit	4
-dol	3
-dolce	5
-dole	4
-doled	5
-doles	5
-doll	4
-dolls	5
-dolly	5
-dolor	5
-dols	4
-dolt	4
-dolts	5
-dom	3
-dome	4
-domed	5
-domes	5
-don	3
-dona	4
-donas	5
-done	4
-donee	5
-dong	4
-donga	5
-dongs	5
-donna	5
-donne	5
-donor	5
-dons	4
-doom	4
-dooms	5
-door	4
-doors	5
-doozy	5
-dopa	4
-dope	4
-doped	5
-doper	5
-dopes	5
-dopey	5
-dor	3
-dora	4
-dork	4
-dorks	5
-dorky	5
-dorm	4
-dorms	5
-dorp	4
-dorty	5
-dory	4
-dos	3
-dose	4
-dosed	5
-doses	5
-dosh	4
-doss	4
-dost	4
-dot	3
-dote	4
-doted	5
-doter	5
-dotes	5
-doth	4
-dots	4
-dotty	5
-doubt	5
-douce	5
-dough	5
-douma	5
-dour	4
-douse	5
-dove	4
-doves	5
-dow	3
-dowdy	5
-dowel	5
-dower	5
-dowie	5
-down	4
-downs	5
-downy	5
-dowry	5
-dowse	5
-doxy	4
-doyen	5
-doz	3
-doze	4
-dozed	5
-dozen	5
-dozer	5
-dozes	5
-dozy	4
-dpi	3
-dpt	3
-drab	4
-drabs	5
-draff	5
-draft	5
-drag	4
-drags	5
-drain	5
-drake	5
-dram	4
-drama	5
-drams	5
-drank	5
-drape	5
-drat	4
-draw	4
-drawl	5
-drawn	5
-draws	5
-dray	4
-drays	5
-dread	5
-dream	5
-drear	5
-dree	4
-dreg	4
-dregs	5
-dress	5
-drew	4
-dried	5
-drier	5
-dries	5
-drift	5
-drill	5
-drily	5
-drink	5
-drip	4
-drips	5
-drive	5
-droid	5
-droit	5
-droll	5
-drone	5
-drool	5
-droop	5
-drop	4
-drops	5
-dross	5
-drove	5
-drown	5
-drub	4
-drubs	5
-drug	4
-drugs	5
-druid	5
-drum	4
-drums	5
-drunk	5
-drupe	5
-druse	5
-dry	3
-dryad	5
-dryer	5
-dryly	5
-drys	4
-duad	4
-duads	5
-dual	4
-duals	5
-dub	3
-dubs	4
-ducal	5
-ducat	5
-duce	4
-duchy	5
-duck	4
-ducks	5
-ducky	5
-duct	4
-ducts	5
-dud	3
-dude	4
-duded	5
-dudes	5
-duds	4
-due	3
-duel	4
-duels	5
-dues	4
-duet	4
-duets	5
-duff	4
-duffs	5
-dug	3
-duh	3
-duke	4
-dukes	5
-dulia	5
-dull	4
-dulls	5
-dully	5
-dulse	5
-duly	4
-duma	4
-dumb	4
-dumbo	5
-dummy	5
-dump	4
-dumps	5
-dumpy	5
-dun	3
-dunce	5
-dune	4
-dunes	5
-dung	4
-dungs	5
-dunk	4
-dunks	5
-dunno	5
-duns	4
-dunt	4
-duo	3
-duomo	5
-duos	4
-dup	3
-dupe	4
-duped	5
-duper	5
-dupes	5
-duple	5
-duppy	5
-duro	4
-durra	5
-durst	5
-durum	5
-dusk	4
-dusky	5
-dust	4
-dusts	5
-dusty	5
-dutch	5
-duty	4
-duvet	5
-dux	3
-dwarf	5
-dweeb	5
-dwell	5
-dwelt	5
-dwt	3
-dyad	4
-dyads	5
-dye	3
-dyed	4
-dyer	4
-dyers	5
-dyes	4
-dying	5
-dyke	4
-dykes	5
-dyne	4
-dynes	5
-each	4
-eager	5
-eagle	5
-eagre	5
-ear	3
-eared	5
-earl	4
-earls	5
-early	5
-earn	4
-earns	5
-ears	4
-earth	5
-ease	4
-eased	5
-easel	5
-eases	5
-east	4
-easy	4
-eat	3
-eaten	5
-eater	5
-eats	4
-eau	3
-eave	4
-eaves	5
-ebb	3
-ebbed	5
-ebbs	4
-ebon	4
-ebony	5
-eccl	4
-echo	4
-echos	5
-echt	4
-eclat	5
-ecol	4
-econ	4
-ecru	4
-ecu	3
-ecus	4
-eddo	4
-eddy	4
-edema	5
-edge	4
-edged	5
-edger	5
-edges	5
-edgy	4
-edh	3
-edict	5
-edify	5
-edit	4
-edits	5
-eds	3
-educ	4
-educe	5
-educt	5
-eek	3
-eel	3
-eels	4
-eerie	5
-eff	3
-effed	5
-effs	4
-eft	3
-efts	4
-egad	4
-egads	5
-egest	5
-egg	3
-egged	5
-egger	5
-eggs	4
-ego	3
-egos	4
-egret	5
-eide	4
-eider	5
-eidos	5
-eight	5
-eikon	5
-eject	5
-eke	3
-eked	4
-ekes	4
-eking	5
-elan	4
-eland	5
-elate	5
-elbow	5
-eld	3
-elder	5
-elect	5
-elegy	5
-elem	4
-elemi	5
-elev	4
-elf	3
-elfin	5
-elide	5
-elite	5
-elk	3
-elks	4
-ell	3
-ells	4
-elm	3
-elms	4
-elope	5
-els	3
-else	4
-elude	5
-elute	5
-elver	5
-elves	5
-email	5
-embay	5
-embed	5
-ember	5
-embow	5
-embus	5
-emcee	5
-emend	5
-emery	5
-emf	3
-emfs	4
-emir	4
-emirs	5
-emit	4
-emits	5
-emmer	5
-emmet	5
-emo	3
-emoji	5
-emos	4
-emote	5
-empty	5
-ems	3
-emu	3
-emus	4
-enact	5
-enate	5
-enc	3
-encl	4
-ency	4
-end	3
-ended	5
-endow	5
-ends	4
-endue	5
-enema	5
-enemy	5
-eng	3
-engin	5
-engr	4
-enjoy	5
-enl	3
-ennui	5
-enol	4
-enow	4
-ens	3
-ensue	5
-enter	5
-entry	5
-enure	5
-envoi	5
-envoy	5
-envy	4
-eon	3
-eons	4
-eosin	5
-epact	5
-epee	4
-epees	5
-ephah	5
-ephod	5
-ephor	5
-epic	4
-epics	5
-epoch	5
-epode	5
-epos	4
-epoxy	5
-equal	5
-equip	5
-equiv	5
-era	3
-eras	4
-erase	5
-ere	3
-erect	5
-erg	3
-ergo	4
-ergot	5
-ergs	4
-erk	3
-erne	4
-ernes	5
-erode	5
-erose	5
-err	3
-erred	5
-error	5
-errs	4
-ersh	4
-erst	4
-ert	3
-eruct	5
-erugo	5
-erupt	5
-esker	5
-esp	3
-espy	4
-essay	5
-esse	4
-est	3
-ester	5
-estop	5
-eta	3
-etas	4
-etc	3
-etch	4
-ether	5
-ethic	5
-ethos	5
-ethyl	5
-etna	4
-etnas	5
-etude	5
-etui	4
-etuis	5
-euro	4
-euros	5
-evade	5
-eve	3
-even	4
-evens	5
-event	5
-ever	4
-evert	5
-every	5
-eves	4
-evict	5
-evil	4
-evils	5
-evite	5
-evoke	5
-ewe	3
-ewer	4
-ewers	5
-ewes	4
-exact	5
-exalt	5
-exam	4
-exams	5
-exc	3
-excel	5
-exch	4
-excl	4
-exeat	5
-exec	4
-execs	5
-exert	5
-exes	4
-exile	5
-exine	5
-exist	5
-exit	4
-exits	5
-exon	4
-exons	5
-exp	3
-expat	5
-expel	5
-expo	4
-expos	5
-exr	3
-ext	3
-extol	5
-extra	5
-exude	5
-exult	5
-exurb	5
-eyas	4
-eye	3
-eyed	4
-eyer	4
-eyes	4
-eying	5
-eyot	4
-eyra	4
-eyras	5
-eyre	4
-eyrir	5
-fab	3
-fable	5
-fac	3
-face	4
-faced	5
-facer	5
-faces	5
-facet	5
-fact	4
-facts	5
-fad	3
-faddy	5
-fade	4
-faded	5
-fader	5
-fades	5
-fadge	5
-fado	4
-fads	4
-faena	5
-faff	4
-faffs	5
-fag	3
-fagot	5
-fags	4
-fail	4
-fails	5
-fain	4
-faint	5
-fair	4
-fairs	5
-fairy	5
-faith	5
-fake	4
-faked	5
-faker	5
-fakes	5
-fakir	5
-fall	4
-falls	5
-fam	3
-fame	4
-famed	5
-fan	3
-fancy	5
-fane	4
-fang	4
-fango	5
-fangs	5
-fanny	5
-fanon	5
-fans	4
-faqir	5
-far	3
-farad	5
-farce	5
-farci	5
-farcy	5
-fard	4
-fare	4
-fared	5
-farer	5
-fares	5
-farl	4
-farm	4
-farms	5
-faro	4
-fart	4
-farts	5
-fash	4
-fast	4
-fasts	5
-fat	3
-fatal	5
-fate	4
-fated	5
-fates	5
-fath	4
-fatly	5
-fats	4
-fatso	5
-fatty	5
-fatwa	5
-faugh	5
-fault	5
-faun	4
-fauna	5
-fauns	5
-fauve	5
-faux	4
-fave	4
-faves	5
-favor	5
-favus	5
-fawn	4
-fawns	5
-fax	3
-faxed	5
-faxes	5
-fay	3
-fayer	5
-fays	4
-faze	4
-fazed	5
-fazes	5
-feal	4
-fear	4
-fears	5
-feast	5
-feat	4
-feats	5
-fec	3
-fecal	5
-feces	5
-fecit	5
-feck	4
-fed	3
-feds	4
-fee	3
-feed	4
-feeds	5
-feel	4
-feels	5
-feer	4
-fees	4
-feet	4
-feeze	5
-feign	5
-feint	5
-felid	5
-fell	4
-fella	5
-fells	5
-felly	5
-felon	5
-felt	4
-felts	5
-fem	3
-feme	4
-femme	5
-femur	5
-fen	3
-fence	5
-fend	4
-fends	5
-fenny	5
-fens	4
-feoff	5
-fer	3
-feral	5
-feria	5
-fermi	5
-fern	4
-ferns	5
-ferny	5
-ferry	5
-fess	4
-fest	4
-fests	5
-feta	4
-fetal	5
-fetch	5
-fete	4
-feted	5
-fetes	5
-fetid	5
-fetor	5
-fetus	5
-feu	3
-feuar	5
-feud	4
-feuds	5
-fever	5
-few	3
-fewer	5
-fey	3
-feyly	5
-fez	3
-fiat	4
-fiats	5
-fib	3
-fiber	5
-fibs	4
-fiche	5
-fichu	5
-fico	4
-ficus	5
-fid	3
-fidge	5
-fie	3
-fief	4
-fiefs	5
-field	5
-fiend	5
-fiery	5
-fife	4
-fifer	5
-fifes	5
-fifth	5
-fifty	5
-fig	3
-fight	5
-figs	4
-fila	4
-filar	5
-filch	5
-file	4
-filed	5
-filer	5
-files	5
-filet	5
-fill	4
-fills	5
-filly	5
-film	4
-films	5
-filmy	5
-filo	4
-fils	4
-filth	5
-filum	5
-fin	3
-final	5
-finch	5
-find	4
-finds	5
-fine	4
-fined	5
-finer	5
-fines	5
-finis	5
-fink	4
-finks	5
-finny	5
-fino	4
-fins	4
-fir	3
-fire	4
-fired	5
-firer	5
-fires	5
-firm	4
-firms	5
-firn	4
-firry	5
-firs	4
-first	5
-firth	5
-fisc	4
-fiscs	5
-fish	4
-fishy	5
-fist	4
-fists	5
-fit	3
-fitch	5
-fitly	5
-fits	4
-five	4
-fiver	5
-fives	5
-fix	3
-fixed	5
-fixer	5
-fixes	5
-fizz	4
-fizzy	5
-fjeld	5
-fjord	5
-flab	4
-flack	5
-flag	4
-flags	5
-flail	5
-flair	5
-flak	4
-flake	5
-flaky	5
-flam	4
-flame	5
-flan	4
-flank	5
-flans	5
-flap	4
-flaps	5
-flare	5
-flash	5
-flask	5
-flat	4
-flats	5
-flaw	4
-flaws	5
-flawy	5
-flax	4
-flay	4
-flays	5
-fld	3
-flea	4
-fleam	5
-fleas	5
-fleck	5
-fled	4
-flee	4
-fleer	5
-flees	5
-fleet	5
-flesh	5
-flew	4
-flews	5
-flex	4
-fley	4
-flick	5
-flied	5
-flier	5
-flies	5
-fling	5
-flint	5
-flip	4
-flips	5
-flirt	5
-flit	4
-flite	5
-flits	5
-float	5
-floc	4
-flock	5
-flocs	5
-floe	4
-floes	5
-flog	4
-flogs	5
-flong	5
-flood	5
-floor	5
-flop	4
-flops	5
-flor	4
-flora	5
-flory	5
-floss	5
-flour	5
-flout	5
-flow	4
-flown	5
-flows	5
-flt	3
-flu	3
-flub	4
-flubs	5
-flue	4
-flues	5
-fluff	5
-fluid	5
-fluke	5
-fluky	5
-flume	5
-flump	5
-flung	5
-flunk	5
-fluor	5
-flush	5
-flute	5
-fluty	5
-flux	4
-fly	3
-flyby	5
-flyte	5
-foal	4
-foals	5
-foam	4
-foams	5
-foamy	5
-fob	3
-fobs	4
-focal	5
-focus	5
-foe	3
-foehn	5
-foes	4
-fog	3
-foggy	5
-fogs	4
-fogy	4
-foil	4
-foils	5
-foin	4
-foist	5
-fol	3
-fold	4
-folds	5
-folia	5
-folic	5
-folie	5
-folio	5
-folk	4
-folks	5
-foll	4
-folly	5
-fond	4
-font	4
-fonts	5
-foo	3
-food	4
-foods	5
-fool	4
-fools	5
-foot	4
-foots	5
-footy	5
-fop	3
-fops	4
-for	3
-fora	4
-foray	5
-forb	4
-forby	5
-force	5
-ford	4
-fordo	5
-fords	5
-fore	4
-fores	5
-forge	5
-forgo	5
-fork	4
-forks	5
-form	4
-forme	5
-forms	5
-fort	4
-forte	5
-forth	5
-forts	5
-forty	5
-forum	5
-fossa	5
-fosse	5
-fou	3
-foul	4
-fouls	5
-found	5
-fount	5
-four	4
-fours	5
-fovea	5
-fowl	4
-fowls	5
-fox	3
-foxed	5
-foxes	5
-foxy	4
-foyer	5
-fps	3
-frack	5
-frae	4
-frag	4
-frags	5
-frail	5
-frame	5
-franc	5
-frank	5
-frap	4
-fraps	5
-frat	4
-frats	5
-fraud	5
-fray	4
-frays	5
-freak	5
-free	4
-freed	5
-freer	5
-frees	5
-fremd	5
-frena	5
-freq	4
-fresh	5
-fret	4
-frets	5
-friar	5
-fried	5
-fries	5
-frig	4
-frigs	5
-frill	5
-frisk	5
-frit	4
-frith	5
-fritz	5
-frize	5
-frizz	5
-fro	3
-frock	5
-froe	4
-frog	4
-frogs	5
-from	4
-frond	5
-frons	5
-front	5
-frore	5
-frosh	5
-frost	5
-froth	5
-frow	4
-frown	5
-froze	5
-frt	3
-frug	4
-fruit	5
-frump	5
-fry	3
-fryer	5
-fth	3
-ftp	3
-ftps	4
-fubsy	5
-fuck	4
-fucks	5
-fucus	5
-fudge	5
-fuel	4
-fuels	5
-fug	3
-fugal	5
-fuggy	5
-fugs	4
-fugue	5
-full	4
-fulls	5
-fully	5
-fum	3
-fume	4
-fumed	5
-fumes	5
-fums	4
-fumy	4
-fun	3
-fund	4
-funds	5
-fungi	5
-fungo	5
-funk	4
-funks	5
-funky	5
-funny	5
-fur	3
-furan	5
-furl	4
-furls	5
-furn	4
-furor	5
-furry	5
-furs	4
-fury	4
-furze	5
-furzy	5
-fuse	4
-fused	5
-fusee	5
-fuses	5
-fusil	5
-fuss	4
-fussy	5
-fusty	5
-fut	3
-futon	5
-futz	4
-fuzz	4
-fuzzy	5
-fwd	3
-fwy	3
-fyke	4
-fyrd	4
-gab	3
-gabby	5
-gable	5
-gabs	4
-gaby	4
-gad	3
-gadid	5
-gads	4
-gaff	4
-gaffe	5
-gaffs	5
-gag	3
-gaga	4
-gags	4
-gaily	5
-gain	4
-gains	5
-gait	4
-gaits	5
-gal	3
-gala	4
-galah	5
-galas	5
-gale	4
-galea	5
-gales	5
-gall	4
-galls	5
-galop	5
-gals	4
-gam	3
-gamb	4
-gamba	5
-game	4
-gamed	5
-gamer	5
-games	5
-gamey	5
-gamic	5
-gamin	5
-gamma	5
-gammy	5
-gamp	4
-gamps	5
-gamut	5
-gamy	4
-gan	3
-ganef	5
-gang	4
-gangs	5
-ganja	5
-ganof	5
-gap	3
-gape	4
-gaped	5
-gapes	5
-gappy	5
-gaps	4
-gar	3
-garb	4
-garbs	5
-gars	4
-garth	5
-gas	3
-gases	5
-gash	4
-gasp	4
-gasps	5
-gassy	5
-gat	3
-gate	4
-gated	5
-gater	5
-gates	5
-gator	5
-gats	4
-gaud	4
-gauds	5
-gaudy	5
-gauge	5
-gaunt	5
-gaur	4
-gaurs	5
-gauss	5
-gauze	5
-gauzy	5
-gave	4
-gavel	5
-gawd	4
-gawk	4
-gawks	5
-gawky	5
-gawp	4
-gawps	5
-gay	3
-gayer	5
-gays	4
-gaz	3
-gaze	4
-gazed	5
-gazer	5
-gazes	5
-gds	3
-gean	4
-geans	5
-gear	4
-gears	5
-gecko	5
-gee	3
-geed	4
-geek	4
-geeks	5
-geeky	5
-gees	4
-geese	5
-geest	5
-gel	3
-geld	4
-gelds	5
-gelid	5
-gels	4
-gem	3
-gemma	5
-gemmy	5
-gemot	5
-gems	4
-gen	3
-gene	4
-genes	5
-genet	5
-genic	5
-genie	5
-genii	5
-genip	5
-genit	5
-genoa	5
-genre	5
-genro	5
-gens	4
-gent	4
-gents	5
-genu	4
-genus	5
-geod	4
-geode	5
-geog	4
-geoid	5
-geol	4
-geom	4
-ger	3
-gerah	5
-germ	4
-germs	5
-germy	5
-gesso	5
-gest	4
-get	3
-gets	4
-getup	5
-geum	4
-gey	3
-ghat	4
-ghats	5
-ghazi	5
-ghee	4
-ghees	5
-ghost	5
-ghoul	5
-ghyll	5
-giant	5
-gib	3
-gibe	4
-gibed	5
-giber	5
-gibes	5
-gid	3
-giddy	5
-gie	3
-gift	4
-gifts	5
-gig	3
-gigot	5
-gigs	4
-gigue	5
-gild	4
-gilds	5
-gill	4
-gills	5
-gilt	4
-gilts	5
-gimel	5
-gimme	5
-gimp	4
-gimps	5
-gimpy	5
-gin	3
-gink	4
-ginny	5
-gins	4
-gipon	5
-gird	4
-girds	5
-girl	4
-girls	5
-girly	5
-giro	4
-giros	5
-girt	4
-girth	5
-girts	5
-gist	4
-git	3
-gite	4
-gites	5
-gits	4
-give	4
-given	5
-giver	5
-gives	5
-gizmo	5
-glace	5
-glad	4
-glade	5
-glads	5
-glair	5
-glam	4
-gland	5
-glans	5
-glare	5
-glary	5
-glass	5
-glaze	5
-gleam	5
-glean	5
-glebe	5
-glede	5
-glee	4
-gleet	5
-glen	4
-glens	5
-gley	4
-glia	4
-glias	5
-glib	4
-glide	5
-glim	4
-glint	5
-glitz	5
-gloam	5
-gloat	5
-glob	4
-globe	5
-globs	5
-glom	4
-gloms	5
-gloom	5
-glop	4
-glory	5
-gloss	5
-glove	5
-glow	4
-glows	5
-gloze	5
-glt	3
-glue	4
-glued	5
-glues	5
-gluey	5
-glum	4
-glume	5
-gluon	5
-glut	4
-gluts	5
-glyph	5
-gnarl	5
-gnash	5
-gnat	4
-gnats	5
-gnaw	4
-gnaws	5
-gnome	5
-gnu	3
-gnus	4
-goa	3
-goad	4
-goads	5
-goal	4
-goals	5
-goat	4
-goats	5
-gob	3
-gobo	4
-gobs	4
-goby	4
-god	3
-godly	5
-gods	4
-goer	4
-goers	5
-goes	4
-gofer	5
-going	5
-gold	4
-golds	5
-golem	5
-golf	4
-golfs	5
-golly	5
-gonad	5
-gone	4
-goner	5
-gong	4
-gongs	5
-gonif	5
-gonk	4
-gonks	5
-gonna	5
-gonzo	5
-goo	3
-good	4
-goods	5
-goody	5
-gooey	5
-goof	4
-goofs	5
-goofy	5
-gook	4
-gooks	5
-goon	4
-goons	5
-goop	4
-goose	5
-goosy	5
-gopak	5
-goral	5
-gore	4
-gored	5
-gores	5
-gorge	5
-gorp	4
-gorps	5
-gorse	5
-gory	4
-gosh	4
-got	3
-goth	4
-goths	5
-gotta	5
-gouge	5
-gourd	5
-gout	4
-gouty	5
-gov	3
-govt	4
-gowan	5
-gowk	4
-gown	4
-gowns	5
-goy	3
-goyim	5
-goys	4
-grab	4
-grabs	5
-grace	5
-grad	4
-grade	5
-grads	5
-graft	5
-grail	5
-grain	5
-gram	4
-grams	5
-gran	4
-grand	5
-grans	5
-grant	5
-grape	5
-graph	5
-grasp	5
-grass	5
-grate	5
-grave	5
-gravy	5
-gray	4
-grays	5
-graze	5
-great	5
-grebe	5
-gree	4
-greed	5
-green	5
-greet	5
-grep	4
-greps	5
-grew	4
-grid	4
-gride	5
-grids	5
-grief	5
-grift	5
-grig	4
-grill	5
-grim	4
-grime	5
-grimy	5
-grin	4
-grind	5
-grins	5
-grip	4
-gripe	5
-grips	5
-grist	5
-grit	4
-grith	5
-grits	5
-gro	3
-groan	5
-groat	5
-grog	4
-groin	5
-grok	4
-groks	5
-groom	5
-grope	5
-gross	5
-grosz	5
-grot	4
-grots	5
-group	5
-grout	5
-grove	5
-grow	4
-growl	5
-grown	5
-grows	5
-grub	4
-grubs	5
-grue	4
-gruel	5
-grues	5
-gruff	5
-grum	4
-grume	5
-grump	5
-grunt	5
-gtd	3
-guaco	5
-guan	4
-guano	5
-guans	5
-guar	4
-guard	5
-guars	5
-guava	5
-guck	4
-gucks	5
-guess	5
-guest	5
-guff	4
-guib	4
-guide	5
-guild	5
-guile	5
-guilt	5
-guise	5
-gula	4
-gulag	5
-gulas	5
-gulch	5
-gules	5
-gulf	4
-gulfs	5
-gull	4
-gulls	5
-gully	5
-gulp	4
-gulps	5
-gum	3
-gumbo	5
-gumma	5
-gummy	5
-gums	4
-gun	3
-gunge	5
-gungy	5
-gunk	4
-gunky	5
-gunny	5
-guns	4
-guppy	5
-gurge	5
-guru	4
-gurus	5
-gush	4
-gushy	5
-gussy	5
-gust	4
-gusto	5
-gusts	5
-gusty	5
-gut	3
-guts	4
-gutsy	5
-gutta	5
-gutty	5
-guv	3
-guvs	4
-guy	3
-guyed	5
-guyot	5
-guys	4
-gym	3
-gyms	4
-gyp	3
-gyps	4
-gypsy	5
-gyral	5
-gyre	4
-gyres	5
-gyro	4
-gyron	5
-gyros	5
-gyrus	5
-gyve	4
-gyved	5
-gyves	5
-haaf	4
-haar	4
-habit	5
-hacek	5
-hack	4
-hacks	5
-had	3
-hade	4
-hades	5
-hadst	5
-hae	3
-hafiz	5
-haft	4
-hafts	5
-hag	3
-hags	4
-hah	3
-haik	4
-haiku	5
-hail	4
-hails	5
-hair	4
-hairs	5
-hairy	5
-haj	3
-hajes	5
-hajj	4
-hajji	5
-hake	4
-hakes	5
-hakim	5
-haku	4
-halal	5
-hale	4
-haled	5
-haler	5
-hales	5
-half	4
-hall	4
-halls	5
-halm	4
-halms	5
-halo	4
-halon	5
-halos	5
-halt	4
-halts	5
-halve	5
-ham	3
-hamal	5
-hame	4
-hames	5
-hammy	5
-hams	4
-hamza	5
-hance	5
-hand	4
-hands	5
-handy	5
-hang	4
-hangs	5
-hank	4
-hanks	5
-hanky	5
-haole	5
-hap	3
-haply	5
-happy	5
-hard	4
-hards	5
-hardy	5
-hare	4
-hared	5
-harem	5
-hares	5
-hark	4
-harks	5
-harl	4
-harm	4
-harms	5
-harp	4
-harps	5
-harpy	5
-harry	5
-harsh	5
-hart	4
-harts	5
-has	3
-hash	4
-hasp	4
-hasps	5
-hast	4
-haste	5
-hasty	5
-hat	3
-hatch	5
-hate	4
-hated	5
-hater	5
-hates	5
-hath	4
-hats	4
-haugh	5
-haul	4
-haulm	5
-hauls	5
-haunt	5
-have	4
-haven	5
-haver	5
-haves	5
-havoc	5
-haw	3
-hawed	5
-hawk	4
-hawks	5
-haws	4
-hawse	5
-hay	3
-hayed	5
-hays	4
-hazan	5
-haze	4
-hazed	5
-hazel	5
-hazer	5
-hazes	5
-hazy	4
-hdqrs	5
-head	4
-heads	5
-heady	5
-heal	4
-heals	5
-heap	4
-heaps	5
-hear	4
-heard	5
-hears	5
-heart	5
-heat	4
-heath	5
-heats	5
-heave	5
-heavy	5
-heck	4
-heder	5
-hedge	5
-heed	4
-heeds	5
-heel	4
-heels	5
-heft	4
-hefts	5
-hefty	5
-heir	4
-heirs	5
-heist	5
-held	4
-helix	5
-hell	4
-hello	5
-hells	5
-helm	4
-helms	5
-helot	5
-help	4
-helps	5
-helve	5
-hem	3
-hemal	5
-heme	4
-hemic	5
-hemin	5
-hemp	4
-hems	4
-hen	3
-hence	5
-henge	5
-henna	5
-henry	5
-hens	4
-hent	4
-hep	3
-her	3
-herb	4
-herbs	5
-herby	5
-herd	4
-herds	5
-here	4
-heres	5
-herl	4
-herm	4
-hern	4
-hero	4
-heron	5
-herp	4
-hers	4
-hertz	5
-hes	3
-hest	4
-heth	4
-heths	5
-hew	3
-hewed	5
-hewer	5
-hews	4
-hex	3
-hexad	5
-hexed	5
-hexer	5
-hexes	5
-hexyl	5
-hey	3
-hgt	3
-hgwy	4
-hhd	3
-hic	3
-hick	4
-hicks	5
-hid	3
-hide	4
-hided	5
-hider	5
-hides	5
-hie	3
-hied	4
-hies	4
-high	4
-highs	5
-hight	5
-hijab	5
-hike	4
-hiked	5
-hiker	5
-hikes	5
-hila	4
-hill	4
-hills	5
-hilly	5
-hilt	4
-hilts	5
-hilum	5
-him	3
-hims	4
-hin	3
-hind	4
-hinds	5
-hing	4
-hinge	5
-hings	5
-hinny	5
-hins	4
-hint	4
-hints	5
-hip	3
-hippo	5
-hippy	5
-hips	4
-hire	4
-hired	5
-hirer	5
-hires	5
-his	3
-hiss	4
-hist	4
-hit	3
-hitch	5
-hits	4
-hive	4
-hived	5
-hives	5
-hiya	4
-hmm	3
-hoar	4
-hoard	5
-hoars	5
-hoary	5
-hoax	4
-hob	3
-hobby	5
-hobo	4
-hobos	5
-hobs	4
-hoc	3
-hock	4
-hocks	5
-hocus	5
-hod	3
-hods	4
-hoe	3
-hoed	4
-hoer	4
-hoers	5
-hoes	4
-hog	3
-hogan	5
-hogs	4
-hoick	5
-hoist	5
-hoke	4
-hoked	5
-hokes	5
-hokey	5
-hokku	5
-hokum	5
-hold	4
-holds	5
-hole	4
-holed	5
-holes	5
-holey	5
-holly	5
-holm	4
-holp	4
-hols	4
-holt	4
-holy	4
-home	4
-homed	5
-homer	5
-homes	5
-homey	5
-homie	5
-homo	4
-homos	5
-hon	3
-hone	4
-honed	5
-honer	5
-hones	5
-honey	5
-hong	4
-honk	4
-honks	5
-honky	5
-honor	5
-hons	4
-hoo	3
-hooch	5
-hood	4
-hoods	5
-hooey	5
-hoof	4
-hoofs	5
-hook	4
-hooks	5
-hooky	5
-hoop	4
-hoops	5
-hoot	4
-hoots	5
-hop	3
-hope	4
-hoped	5
-hopes	5
-hops	4
-hor	3
-hora	4
-horah	5
-horal	5
-horas	5
-horde	5
-horme	5
-horn	4
-horns	5
-horny	5
-horol	5
-horse	5
-horst	5
-horsy	5
-hort	4
-hos	3
-hose	4
-hosed	5
-hoses	5
-hosp	4
-host	4
-hosta	5
-hosts	5
-hot	3
-hotel	5
-hotly	5
-hots	4
-hough	5
-hound	5
-hour	4
-houri	5
-hours	5
-house	5
-hove	4
-hovel	5
-hover	5
-how	3
-howdy	5
-howl	4
-howls	5
-hows	4
-hoy	3
-hoys	4
-hrs	3
-hub	3
-hubby	5
-hubs	4
-hue	3
-hued	4
-hues	4
-huff	4
-huffs	5
-huffy	5
-hug	3
-huge	4
-huger	5
-hugs	4
-huh	3
-hula	4
-hulas	5
-hulk	4
-hulks	5
-hulky	5
-hull	4
-hulls	5
-hum	3
-human	5
-humic	5
-humid	5
-humor	5
-hump	4
-humph	5
-humps	5
-humpy	5
-hums	4
-humus	5
-hun	3
-hunch	5
-hung	4
-hunk	4
-hunks	5
-hunky	5
-hunt	4
-hunts	5
-hurds	5
-hurl	4
-hurls	5
-hurry	5
-hurst	5
-hurt	4
-hurts	5
-hush	4
-husk	4
-husks	5
-husky	5
-hussy	5
-hut	3
-hutch	5
-huts	4
-huzza	5
-hwan	4
-hwy	3
-hydra	5
-hydro	5
-hyena	5
-hying	5
-hyla	4
-hymen	5
-hymn	4
-hymns	5
-hyoid	5
-hyp	3
-hype	4
-hyped	5
-hyper	5
-hypes	5
-hypha	5
-hypo	4
-hypos	5
-hyrax	5
-hyson	5
-iamb	4
-iambi	5
-iambs	5
-ibex	4
-ibid	4
-ibis	4
-ice	3
-iced	4
-ices	4
-ichor	5
-icier	5
-icily	5
-icing	5
-icky	4
-icon	4
-icons	5
-ictus	5
-icy	3
-idea	4
-ideal	5
-ideas	5
-idem	4
-ides	4
-idiom	5
-idiot	5
-idle	4
-idled	5
-idler	5
-idles	5
-idly	4
-idol	4
-idols	5
-ids	3
-idyll	5
-iffy	4
-ifs	3
-igloo	5
-ign	3
-ihram	5
-iii	3
-ilea	4
-ileac	5
-ileal	5
-ileum	5
-ileus	5
-ilex	4
-ilia	4
-iliac	5
-ilium	5
-ilk	3
-ilks	4
-ill	3
-ills	4
-illus	5
-image	5
-imago	5
-imam	4
-imams	5
-imbue	5
-imide	5
-imine	5
-imit	4
-immix	5
-imp	3
-impel	5
-imper	5
-impf	4
-impi	4
-imply	5
-imps	4
-impv	4
-inane	5
-inapt	5
-inbox	5
-inc	3
-inced	5
-inch	4
-incl	4
-incr	4
-incs	4
-incur	5
-incus	5
-ind	3
-indef	5
-index	5
-indic	5
-indie	5
-induc	5
-indue	5
-inept	5
-inert	5
-inf	3
-infer	5
-infin	5
-infix	5
-info	4
-infra	5
-ingle	5
-ingot	5
-inion	5
-init	4
-ink	3
-inked	5
-inkle	5
-inks	4
-inky	4
-inlay	5
-inlet	5
-inly	4
-inn	3
-inner	5
-innit	5
-inns	4
-inorg	5
-input	5
-ins	3
-inset	5
-insp	4
-inst	4
-instr	5
-int	3
-intel	5
-inter	5
-inti	4
-intis	5
-into	4
-intr	4
-intro	5
-inure	5
-inurn	5
-inv	3
-invt	4
-ioctl	5
-iodic	5
-ion	3
-ionic	5
-ions	4
-iota	4
-iotas	5
-irade	5
-irate	5
-ire	3
-iris	4
-irk	3
-irked	5
-irks	4
-iron	4
-irons	5
-irony	5
-irreg	5
-isl	3
-isle	4
-isles	5
-islet	5
-ism	3
-isms	4
-issei	5
-issue	5
-istle	5
-ital	4
-itch	4
-itchy	5
-item	4
-items	5
-its	3
-ivied	5
-ivies	5
-ivory	5
-ivy	3
-iwis	4
-ixia	4
-ixtle	5
-izard	5
-jab	3
-jabot	5
-jabs	4
-jacal	5
-jack	4
-jacks	5
-jade	4
-jaded	5
-jades	5
-jag	3
-jaggy	5
-jags	4
-jail	4
-jails	5
-jakes	5
-jalap	5
-jam	3
-jamb	4
-jambs	5
-jammy	5
-jams	4
-jane	4
-japan	5
-jape	4
-japed	5
-japer	5
-japes	5
-jar	3
-jarl	4
-jars	4
-jato	4
-jatos	5
-jaunt	5
-java	4
-jaw	3
-jawed	5
-jaws	4
-jay	3
-jays	4
-jazz	4
-jazzy	5
-jct	3
-jean	4
-jeans	5
-jebel	5
-jeep	4
-jeeps	5
-jeer	4
-jeers	5
-jeez	4
-jefe	4
-jehu	4
-jell	4
-jello	5
-jells	5
-jelly	5
-jemmy	5
-jenny	5
-jerid	5
-jerk	4
-jerks	5
-jerky	5
-jerry	5
-jess	4
-jest	4
-jests	5
-jet	3
-jets	4
-jetty	5
-jew	3
-jewel	5
-jib	3
-jibe	4
-jibed	5
-jibes	5
-jibs	4
-jiff	4
-jiffs	5
-jiffy	5
-jig	3
-jigs	4
-jihad	5
-jill	4
-jilt	4
-jilts	5
-jimmy	5
-jingo	5
-jink	4
-jinks	5
-jinn	4
-jinni	5
-jinns	5
-jinx	4
-jiva	4
-jive	4
-jived	5
-jiver	5
-jives	5
-jivey	5
-jivy	4
-job	3
-jobs	4
-jock	4
-jocko	5
-jocks	5
-joey	4
-joeys	5
-jog	3
-jogs	4
-john	4
-johns	5
-join	4
-joins	5
-joint	5
-joist	5
-joke	4
-joked	5
-joker	5
-jokes	5
-jokey	5
-jolly	5
-jolt	4
-jolts	5
-jolty	5
-jook	4
-jor	3
-jorum	5
-josh	4
-joss	4
-jot	3
-jota	4
-jots	4
-joule	5
-joust	5
-jowl	4
-jowls	5
-jowly	5
-joy	3
-joyed	5
-joys	4
-juba	4
-jube	4
-judge	5
-judo	4
-jug	3
-jugal	5
-jugs	4
-jugum	5
-juice	5
-juicy	5
-juju	4
-jujus	5
-juke	4
-julep	5
-jumbo	5
-jump	4
-jumps	5
-jumpy	5
-jun	3
-junco	5
-junk	4
-junks	5
-junky	5
-junta	5
-jupon	5
-jura	4
-jural	5
-jurat	5
-jurel	5
-juror	5
-jury	4
-jus	3
-just	4
-jut	3
-jute	4
-juts	4
-jutty	5
-kab	3
-kabob	5
-kadi	4
-kafir	5
-kagu	4
-kaiak	5
-kaif	4
-kail	4
-kails	5
-kain	4
-kaka	4
-kaki	4
-kakis	5
-kale	4
-kali	4
-kalif	5
-kalis	5
-kalpa	5
-kame	4
-kami	4
-kana	4
-kanji	5
-kanzu	5
-kaon	4
-kaons	5
-kaph	4
-kaphs	5
-kapok	5
-kappa	5
-kaput	5
-karat	5
-karma	5
-karst	5
-kart	4
-karts	5
-kasha	5
-kat	3
-kauri	5
-kava	4
-kavas	5
-kayak	5
-kayo	4
-kayos	5
-kazoo	5
-kcal	4
-kea	3
-keas	4
-kebab	5
-kebob	5
-keck	4
-ked	3
-kedge	5
-keef	4
-keek	4
-keel	4
-keels	5
-keen	4
-keens	5
-keep	4
-keeps	5
-kef	3
-keg	3
-kegs	4
-kelly	5
-kelp	4
-kelt	4
-ken	3
-kenaf	5
-kendo	5
-keno	4
-kens	4
-kent	4
-kente	5
-kep	3
-kepi	4
-kepis	5
-kept	4
-kerf	4
-kern	4
-kerne	5
-kero	4
-ketch	5
-keto	4
-kevel	5
-kex	3
-key	3
-keyed	5
-keys	4
-khaki	5
-khan	4
-khans	5
-khat	4
-kheda	5
-khoum	5
-kiang	5
-kibe	4
-kibes	5
-kick	4
-kicks	5
-kicky	5
-kid	3
-kiddo	5
-kids	4
-kief	4
-kier	4
-kif	3
-kike	4
-kikes	5
-kill	4
-kills	5
-kiln	4
-kilns	5
-kilo	4
-kilos	5
-kilt	4
-kilts	5
-kin	3
-kina	4
-kinas	5
-kind	4
-kinda	5
-kinds	5
-kine	4
-kines	5
-king	4
-kings	5
-kinin	5
-kink	4
-kinks	5
-kinky	5
-kino	4
-kinos	5
-kiosk	5
-kip	3
-kips	4
-kish	4
-kiss	4
-kist	4
-kit	3
-kite	4
-kited	5
-kites	5
-kith	4
-kits	4
-kitty	5
-kiva	4
-kiwi	4
-kiwis	5
-klong	5
-kloof	5
-kluge	5
-klutz	5
-knack	5
-knap	4
-knaps	5
-knar	4
-knave	5
-knead	5
-knee	4
-kneed	5
-kneel	5
-knees	5
-knell	5
-knelt	5
-knew	4
-knife	5
-knish	5
-knit	4
-knits	5
-knob	4
-knobs	5
-knock	5
-knoll	5
-knop	4
-knot	4
-knots	5
-knout	5
-know	4
-known	5
-knows	5
-knur	4
-knurl	5
-koa	3
-koala	5
-koan	4
-koans	5
-kob	3
-kobo	4
-kobos	5
-kobs	4
-koel	4
-kohl	4
-kohls	5
-koine	5
-kola	4
-kolas	5
-kolo	4
-kook	4
-kooks	5
-kooky	5
-kop	3
-kopek	5
-koph	4
-kopje	5
-kor	3
-korma	5
-kors	4
-kos	3
-koses	5
-koto	4
-kotos	5
-kph	3
-kraal	5
-kraft	5
-krait	5
-kraut	5
-krill	5
-kris	4
-krona	5
-krone	5
-kroon	5
-kudo	4
-kudos	5
-kudu	4
-kudus	5
-kudzu	5
-kukri	5
-kulak	5
-kuna	4
-kurus	5
-kvass	5
-kyat	4
-kyats	5
-kyle	4
-kyles	5
-kylix	5
-lab	3
-label	5
-labia	5
-labor	5
-labs	4
-lac	3
-lace	4
-laced	5
-lacer	5
-laces	5
-lack	4
-lacks	5
-lacy	4
-lad	3
-lade	4
-laded	5
-laden	5
-lades	5
-ladle	5
-lads	4
-lady	4
-lag	3
-lagan	5
-lager	5
-lags	4
-laic	4
-laid	4
-lain	4
-lair	4
-laird	5
-lairs	5
-laity	5
-lake	4
-laker	5
-lakes	5
-lakh	4
-lakhs	5
-laky	4
-lam	3
-lama	4
-lamas	5
-lamb	4
-lambs	5
-lame	4
-lamed	5
-lamer	5
-lames	5
-lamia	5
-lamp	4
-lamps	5
-lams	4
-lanai	5
-lance	5
-land	4
-lands	5
-lane	4
-lanes	5
-lang	4
-lank	4
-lanky	5
-lap	3
-lapel	5
-lapin	5
-laps	4
-lapse	5
-lar	3
-larch	5
-lard	4
-lards	5
-lardy	5
-lares	5
-large	5
-largo	5
-lari	4
-lark	4
-larks	5
-larum	5
-larva	5
-lase	4
-lased	5
-laser	5
-lases	5
-lash	4
-lass	4
-lasso	5
-last	4
-lasts	5
-lat	3
-latch	5
-late	4
-lated	5
-later	5
-latex	5
-lath	4
-lathe	5
-lathi	5
-laths	5
-lathy	5
-lati	4
-latke	5
-lats	4
-latte	5
-laud	4
-lauds	5
-laugh	5
-lav	3
-lava	4
-lavas	5
-lave	4
-laved	5
-laver	5
-laves	5
-lavs	4
-law	3
-lawn	4
-lawns	5
-laws	4
-lax	3
-laxer	5
-laxly	5
-lay	3
-layer	5
-lays	4
-layup	5
-lazar	5
-laze	4
-lazed	5
-lazes	5
-lazy	4
-lbs	3
-lbw	3
-lea	3
-leach	5
-lead	4
-leads	5
-leaf	4
-leafs	5
-leafy	5
-leak	4
-leaks	5
-leaky	5
-leal	4
-lean	4
-leans	5
-leap	4
-leaps	5
-leapt	5
-learn	5
-leas	4
-lease	5
-leash	5
-least	5
-leave	5
-lech	4
-lect	4
-led	3
-ledge	5
-lee	3
-leech	5
-leek	4
-leeks	5
-leer	4
-leers	5
-leery	5
-lees	4
-leet	4
-left	4
-lefts	5
-lefty	5
-leg	3
-legal	5
-leges	5
-leggy	5
-legit	5
-legs	4
-lehr	4
-lei	3
-leis	4
-lek	3
-leks	4
-leman	5
-lemma	5
-lemme	5
-lemon	5
-lemur	5
-lend	4
-lends	5
-lenis	5
-leno	4
-lens	4
-lent	4
-lento	5
-leone	5
-leper	5
-lepta	5
-less	4
-lest	4
-let	3
-lethe	5
-lets	4
-letup	5
-leu	3
-lev	3
-leva	4
-levee	5
-level	5
-lever	5
-levin	5
-levy	4
-lewd	4
-lewis	5
-lex	3
-lexer	5
-lexis	5
-ley	3
-leys	4
-lgth	4
-liana	5
-liar	4
-liard	5
-liars	5
-lib	3
-libel	5
-liber	5
-libra	5
-lice	4
-licit	5
-lick	4
-licks	5
-lid	3
-lido	4
-lidos	5
-lids	4
-lie	3
-lied	4
-lief	4
-liege	5
-lien	4
-liens	5
-lies	4
-lieu	4
-life	4
-lifer	5
-lift	4
-lifts	5
-ligan	5
-liger	5
-light	5
-lii	3
-like	4
-liked	5
-liken	5
-liker	5
-likes	5
-lilac	5
-lilo	4
-lilos	5
-lilt	4
-lilts	5
-lily	4
-limb	4
-limbo	5
-limbs	5
-lime	4
-limed	5
-limen	5
-limes	5
-limey	5
-limit	5
-limn	4
-limns	5
-limo	4
-limos	5
-limp	4
-limps	5
-limy	4
-lin	3
-lindy	5
-line	4
-lined	5
-linen	5
-liner	5
-lines	5
-ling	4
-lingo	5
-lings	5
-linin	5
-link	4
-links	5
-linn	4
-lino	4
-lint	4
-lints	5
-linty	5
-liny	4
-lion	4
-lions	5
-lip	3
-lipid	5
-lippy	5
-lips	4
-liq	3
-lira	4
-lire	4
-lis	3
-lisle	5
-lisp	4
-lisps	5
-list	4
-lists	5
-lit	3
-litas	5
-lite	4
-liter	5
-lith	4
-lithe	5
-litho	5
-live	4
-lived	5
-liven	5
-liver	5
-lives	5
-livid	5
-livre	5
-lix	3
-llama	5
-llano	5
-loach	5
-load	4
-loads	5
-loaf	4
-loafs	5
-loam	4
-loams	5
-loamy	5
-loan	4
-loans	5
-loath	5
-lob	3
-lobar	5
-lobby	5
-lobe	4
-lobed	5
-lobes	5
-lobo	4
-lobs	4
-local	5
-loci	4
-lock	4
-locks	5
-loco	4
-locos	5
-locum	5
-locus	5
-lode	4
-loden	5
-lodes	5
-lodge	5
-loess	5
-loft	4
-lofts	5
-lofty	5
-log	3
-logan	5
-loge	4
-loges	5
-loggy	5
-logia	5
-logic	5
-login	5
-logo	4
-logon	5
-logos	5
-logs	4
-logy	4
-loin	4
-loins	5
-loll	4
-lolls	5
-lolly	5
-lone	4
-loner	5
-long	4
-longe	5
-longs	5
-loo	3
-looby	5
-look	4
-looks	5
-loom	4
-looms	5
-loon	4
-loons	5
-loony	5
-loop	4
-loops	5
-loopy	5
-loos	4
-loose	5
-loot	4
-loots	5
-lop	3
-lope	4
-loped	5
-loper	5
-lopes	5
-loppy	5
-lops	4
-loq	3
-loran	5
-lord	4
-lords	5
-lore	4
-loris	5
-lorn	4
-lorry	5
-lory	4
-lose	4
-losel	5
-loser	5
-loses	5
-loss	4
-lost	4
-lot	3
-lota	4
-lotas	5
-loti	4
-lotic	5
-lots	4
-lotto	5
-lotus	5
-loud	4
-lough	5
-louis	5
-loup	4
-loupe	5
-lour	4
-lours	5
-louse	5
-lousy	5
-lout	4
-louts	5
-love	4
-loved	5
-lover	5
-loves	5
-lovey	5
-low	3
-lowed	5
-lower	5
-lowly	5
-lows	4
-lox	3
-loyal	5
-ltd	3
-luau	4
-luaus	5
-lube	4
-lubed	5
-lubes	5
-lubra	5
-luce	4
-lucid	5
-luck	4
-lucks	5
-lucky	5
-lucre	5
-ludic	5
-ludo	4
-lues	4
-luff	4
-luffa	5
-luffs	5
-lug	3
-luge	4
-luged	5
-luges	5
-lugs	4
-lull	4
-lulls	5
-lulu	4
-lulus	5
-lumen	5
-lump	4
-lumps	5
-lumpy	5
-lunar	5
-lunch	5
-lune	4
-lung	4
-lunge	5
-lungi	5
-lungs	5
-lunk	4
-lupus	5
-lur	3
-lurch	5
-lure	4
-lured	5
-lures	5
-lurex	5
-lurgy	5
-lurid	5
-lurk	4
-lurks	5
-lush	4
-lushy	5
-lust	4
-lusts	5
-lusty	5
-lute	4
-lutes	5
-lux	3
-luxe	4
-luxes	5
-lvi	3
-lvii	4
-lwei	4
-lweis	5
-lxi	3
-lxii	4
-lxiv	4
-lxix	4
-lxvi	4
-lxvii	5
-lye	3
-lying	5
-lymph	5
-lynch	5
-lynx	4
-lyre	4
-lyres	5
-lyric	5
-lyse	4
-lyses	5
-lysin	5
-lysis	5
-lyssa	5
-lytic	5
-lytta	5
-mac	3
-macaw	5
-mace	4
-maced	5
-maces	5
-mach	4
-macho	5
-mack	4
-macks	5
-macle	5
-macro	5
-macs	4
-mad	3
-madam	5
-made	4
-madly	5
-mads	4
-mafia	5
-mag	3
-mage	4
-mages	5
-magi	4
-magic	5
-magma	5
-mags	4
-magus	5
-maid	4
-maids	5
-mail	4
-mails	5
-maim	4
-maims	5
-main	4
-mains	5
-maize	5
-major	5
-make	4
-maker	5
-makes	5
-mako	4
-makos	5
-malar	5
-male	4
-males	5
-mall	4
-malls	5
-malm	4
-malt	4
-malts	5
-malty	5
-mam	3
-mama	4
-mamas	5
-mamba	5
-mambo	5
-mamey	5
-mamma	5
-mammy	5
-mams	4
-man	3
-mana	4
-manas	5
-manat	5
-mane	4
-maned	5
-manes	5
-manga	5
-mange	5
-mango	5
-mangy	5
-mania	5
-manic	5
-manky	5
-manly	5
-manna	5
-manor	5
-mans	4
-manse	5
-manta	5
-manuf	5
-many	4
-map	3
-maple	5
-maps	4
-mar	3
-mara	4
-maras	5
-marc	4
-march	5
-marcs	5
-mare	4
-mares	5
-marg	4
-marge	5
-maria	5
-mark	4
-marka	5
-marks	5
-marl	4
-marls	5
-marly	5
-marry	5
-mars	4
-marsh	5
-mart	4
-marts	5
-mas	3
-masc	4
-maser	5
-mash	4
-mask	4
-masks	5
-mason	5
-mass	4
-massy	5
-mast	4
-masts	5
-mat	3
-match	5
-mate	4
-mated	5
-mater	5
-mates	5
-matey	5
-math	4
-matin	5
-mats	4
-matte	5
-matzo	5
-maul	4
-mauls	5
-maun	4
-maund	5
-mauve	5
-maven	5
-mavis	5
-maw	3
-maws	4
-max	3
-maxed	5
-maxes	5
-maxi	4
-maxim	5
-maxis	5
-may	3
-maya	4
-maybe	5
-mayo	4
-mayor	5
-mayst	5
-maze	4
-mazer	5
-mazes	5
-mazy	4
-mdse	4
-mead	4
-meal	4
-meals	5
-mealy	5
-mean	4
-means	5
-meant	5
-meany	5
-meas	4
-meat	4
-meats	5
-meaty	5
-mecca	5
-mech	4
-med	3
-medal	5
-media	5
-medic	5
-meed	4
-meek	4
-meet	4
-meets	5
-meg	3
-mega	4
-megs	4
-meh	3
-meiny	5
-mel	3
-meld	4
-melds	5
-melee	5
-melic	5
-melon	5
-melt	4
-melts	5
-mem	3
-meme	4
-memes	5
-memo	4
-memos	5
-mems	4
-men	3
-mend	4
-mends	5
-mene	4
-menu	4
-menus	5
-meow	4
-meows	5
-mercy	5
-mere	4
-meres	5
-merge	5
-merit	5
-merle	5
-merry	5
-mes	3
-mesa	4
-mesas	5
-mesh	4
-mesic	5
-mesne	5
-meson	5
-mess	4
-messy	5
-met	3
-meta	4
-metal	5
-mete	4
-meted	5
-meter	5
-metes	5
-meth	4
-meths	5
-metic	5
-metis	5
-metro	5
-mew	3
-mewed	5
-mewl	4
-mewls	5
-mews	4
-mezzo	5
-mfd	3
-mfg	3
-mfr	3
-mfrs	4
-mgr	3
-mho	3
-mhos	4
-mic	3
-mica	4
-mice	4
-mick	4
-micks	5
-micro	5
-mics	4
-mid	3
-middy	5
-midge	5
-midi	4
-midis	5
-midst	5
-mien	4
-miens	5
-miff	4
-miffs	5
-miffy	5
-mig	3
-might	5
-mike	4
-miked	5
-mikes	5
-mikva	5
-mil	3
-milch	5
-mild	4
-mile	4
-miler	5
-miles	5
-milf	4
-milfs	5
-milia	5
-milit	5
-milk	4
-milks	5
-milky	5
-mill	4
-mills	5
-milo	4
-milos	5
-mils	4
-milt	4
-milts	5
-mim	3
-mime	4
-mimed	5
-mimer	5
-mimes	5
-mimic	5
-min	3
-mince	5
-mind	4
-minds	5
-mine	4
-mined	5
-miner	5
-mines	5
-mingy	5
-mini	4
-minim	5
-minis	5
-mink	4
-minke	5
-minks	5
-minor	5
-mint	4
-mints	5
-minty	5
-minus	5
-minx	4
-mir	3
-mire	4
-mired	5
-mires	5
-mirin	5
-mirk	4
-mirth	5
-miry	4
-mirza	5
-misc	4
-misdo	5
-miser	5
-miso	4
-miss	4
-missy	5
-mist	4
-mists	5
-misty	5
-mite	4
-miter	5
-mites	5
-mitis	5
-mitt	4
-mitts	5
-mix	3
-mixed	5
-mixer	5
-mixes	5
-mize	4
-mkay	4
-mks	3
-mkt	3
-mneme	5
-moa	3
-moan	4
-moans	5
-moas	4
-moat	4
-moats	5
-mob	3
-mobs	4
-mocha	5
-mock	4
-mocks	5
-mod	3
-modal	5
-mode	4
-model	5
-modem	5
-modes	5
-mods	4
-mog	3
-moggy	5
-mogul	5
-mohur	5
-moi	3
-moil	4
-moils	5
-moire	5
-moist	5
-mojo	4
-moke	4
-mokes	5
-mol	3
-mola	4
-molal	5
-molar	5
-molas	5
-mold	4
-molds	5
-moldy	5
-mole	4
-moles	5
-moll	4
-molls	5
-molly	5
-mols	4
-molt	4
-molts	5
-moly	4
-mom	3
-mommy	5
-moms	4
-mon	3
-monad	5
-monas	5
-monde	5
-money	5
-mong	4
-mongo	5
-monk	4
-monks	5
-mono	4
-monte	5
-month	5
-moo	3
-mooch	5
-mood	4
-moods	5
-moody	5
-mooed	5
-moon	4
-moons	5
-moony	5
-moor	4
-moors	5
-moos	4
-moose	5
-moot	4
-moots	5
-mop	3
-mope	4
-moped	5
-moper	5
-mopes	5
-mopey	5
-mops	4
-mora	4
-moral	5
-moray	5
-more	4
-morel	5
-mores	5
-morn	4
-morns	5
-moron	5
-morph	5
-morse	5
-mort	4
-mos	3
-mosey	5
-mosh	4
-moss	4
-mossy	5
-most	4
-mot	3
-mote	4
-motel	5
-motes	5
-motet	5
-moth	4
-moths	5
-mothy	5
-motif	5
-motor	5
-mots	4
-motte	5
-motto	5
-moue	4
-moues	5
-mound	5
-mount	5
-mourn	5
-mouse	5
-mousy	5
-mouth	5
-move	4
-moved	5
-mover	5
-moves	5
-movie	5
-mow	3
-mowed	5
-mower	5
-mows	4
-moxa	4
-moxie	5
-mpg	3
-mph	3
-mtg	3
-mtge	4
-much	4
-mucin	5
-muck	4
-mucks	5
-mucky	5
-mucor	5
-mucro	5
-mucus	5
-mud	3
-muddy	5
-mudra	5
-muff	4
-muffs	5
-mufti	5
-mug	3
-muggy	5
-mugs	4
-mujik	5
-mulch	5
-mulct	5
-mule	4
-mules	5
-muley	5
-mull	4
-mulla	5
-mulls	5
-multi	5
-mum	3
-mummy	5
-mump	4
-mumps	5
-mun	3
-munch	5
-mung	4
-mungs	5
-muon	4
-muons	5
-mural	5
-mure	4
-murex	5
-murk	4
-murks	5
-murky	5
-murre	5
-mus	3
-muse	4
-mused	5
-muser	5
-muses	5
-mush	4
-mushy	5
-music	5
-musk	4
-musky	5
-muss	4
-mussy	5
-must	4
-musth	5
-musts	5
-musty	5
-mut	3
-mute	4
-muted	5
-muter	5
-mutes	5
-muts	4
-mutt	4
-mutts	5
-muzak	5
-muzz	4
-muzzy	5
-myall	5
-mycol	5
-myna	4
-mynah	5
-mynas	5
-myrrh	5
-mys	3
-myth	4
-myths	5
-naan	4
-naans	5
-nab	3
-nabob	5
-nabs	4
-nacho	5
-nacre	5
-nadir	5
-nae	3
-naevi	5
-naff	4
-nag	3
-nags	4
-nah	3
-naiad	5
-naif	4
-naifs	5
-nail	4
-nails	5
-naira	5
-naive	5
-naked	5
-naker	5
-nakfa	5
-name	4
-named	5
-namer	5
-names	5
-nance	5
-nancy	5
-nanny	5
-naos	4
-nap	3
-nape	4
-napes	5
-nappe	5
-nappy	5
-naps	4
-narc	4
-narcs	5
-nard	4
-nards	5
-nares	5
-naris	5
-nark	4
-narky	5
-nary	4
-nasal	5
-nasty	5
-natal	5
-natch	5
-nates	5
-natl	4
-natty	5
-naut	4
-nav	3
-naval	5
-navar	5
-nave	4
-navel	5
-naves	5
-navig	5
-navvy	5
-navy	4
-nawab	5
-nay	3
-nays	4
-neap	4
-neaps	5
-near	4
-nears	5
-neat	4
-neath	5
-neb	3
-nebs	4
-neck	4
-necks	5
-nee	3
-need	4
-needs	5
-needy	5
-neg	3
-negro	5
-negus	5
-neigh	5
-nelly	5
-neon	4
-neper	5
-neral	5
-nerd	4
-nerds	5
-nerdy	5
-nerve	5
-nervy	5
-ness	4
-nest	4
-nests	5
-net	3
-nets	4
-netty	5
-neume	5
-neut	4
-never	5
-nevi	4
-nevus	5
-new	3
-newel	5
-newer	5
-newly	5
-news	4
-newsy	5
-newt	4
-newts	5
-next	4
-nexus	5
-ngwee	5
-nib	3
-nibs	4
-nice	4
-nicer	5
-niche	5
-nick	4
-nicks	5
-nide	4
-nidus	5
-niece	5
-niff	4
-niffy	5
-nifty	5
-nigga	5
-nigh	4
-night	5
-nihil	5
-nil	3
-nim	3
-nimbi	5
-nimby	5
-nine	4
-nines	5
-ninja	5
-ninny	5
-ninon	5
-ninth	5
-nip	3
-nipa	4
-nipas	5
-nippy	5
-nips	4
-nisei	5
-nisi	4
-nisus	5
-nit	3
-nite	4
-niter	5
-nites	5
-nitid	5
-nitro	5
-nits	4
-nitty	5
-nival	5
-nix	3
-nixed	5
-nixes	5
-nob	3
-nobby	5
-noble	5
-nobly	5
-nobs	4
-nock	4
-nocks	5
-nod	3
-nodal	5
-noddy	5
-node	4
-nodes	5
-nodi	4
-nods	4
-nodus	5
-noel	4
-noels	5
-noes	4
-nog	3
-nogs	4
-nohow	5
-noil	4
-noise	5
-noisy	5
-nolo	4
-nom	3
-noma	4
-nomad	5
-nomen	5
-non	3
-nonce	5
-none	4
-nones	5
-nonet	5
-nook	4
-nooks	5
-nooky	5
-noon	4
-noons	5
-noose	5
-nope	4
-nor	3
-noria	5
-norm	4
-norms	5
-north	5
-nos	3
-nose	4
-nosed	5
-noses	5
-nosh	4
-nosy	4
-not	3
-notch	5
-note	4
-noted	5
-notes	5
-notum	5
-noun	4
-nouns	5
-nous	4
-nova	4
-novae	5
-novas	5
-novel	5
-now	3
-noway	5
-nowt	4
-nth	3
-nub	3
-nubby	5
-nubs	4
-nude	4
-nuder	5
-nudes	5
-nudge	5
-nuke	4
-nuked	5
-nukes	5
-null	4
-nulls	5
-numb	4
-numbs	5
-numen	5
-numis	5
-nun	3
-nuns	4
-nurse	5
-nus	3
-nut	3
-nuts	4
-nutty	5
-nyala	5
-nylon	5
-nymph	5
-oaf	3
-oafs	4
-oak	3
-oaken	5
-oaks	4
-oakum	5
-oar	3
-oared	5
-oars	4
-oases	5
-oasis	5
-oast	4
-oasts	5
-oat	3
-oaten	5
-oath	4
-oaths	5
-oats	4
-obb	3
-obdt	4
-obeah	5
-obeli	5
-obese	5
-obey	4
-obeys	5
-obi	3
-obis	4
-obit	4
-obits	5
-obj	3
-objet	5
-oboe	4
-oboes	5
-oboli	5
-obs	3
-occas	5
-occur	5
-ocean	5
-och	3
-ocher	5
-ocker	5
-ocrea	5
-oct	3
-octad	5
-octal	5
-octan	5
-octet	5
-oculi	5
-odd	3
-odder	5
-oddly	5
-odds	4
-ode	3
-odea	4
-odeon	5
-odes	4
-odeum	5
-odium	5
-odor	4
-odors	5
-odyl	4
-ofay	4
-off	3
-offal	5
-offed	5
-offer	5
-offs	4
-oft	3
-often	5
-ogee	4
-ogeed	5
-ogham	5
-ogive	5
-ogle	4
-ogled	5
-ogler	5
-ogles	5
-ogre	4
-ogres	5
-ohm	3
-ohmic	5
-ohms	4
-oho	3
-ohs	3
-oik	3
-oiks	4
-oil	3
-oiled	5
-oiler	5
-oils	4
-oily	4
-oink	4
-oinks	5
-oka	3
-okapi	5
-okas	4
-okay	4
-okays	5
-oke	3
-okra	4
-okras	5
-old	3
-olden	5
-older	5
-oldie	5
-ole	3
-oleic	5
-olein	5
-oleo	4
-oles	4
-oleum	5
-olid	4
-olio	4
-olive	5
-olla	4
-ollas	5
-ology	5
-omasa	5
-omber	5
-omega	5
-omen	4
-omens	5
-omer	4
-omit	4
-omits	5
-oms	3
-once	4
-one	3
-ones	4
-onion	5
-only	4
-onset	5
-ontic	5
-onto	4
-onus	4
-onyx	4
-oof	3
-ooh	3
-oohed	5
-oohs	4
-oomph	5
-oops	4
-ootid	5
-ooze	4
-oozed	5
-oozes	5
-oozy	4
-opah	4
-opahs	5
-opal	4
-opals	5
-ope	3
-oped	4
-open	4
-opens	5
-opera	5
-opes	4
-opine	5
-oping	5
-opium	5
-opp	3
-ops	3
-opt	3
-opted	5
-optic	5
-opts	4
-opus	4
-ora	3
-oral	4
-orals	5
-orang	5
-orate	5
-orb	3
-orbit	5
-orbs	4
-orc	3
-orca	4
-orcas	5
-orch	4
-orcs	4
-ord	3
-order	5
-ordn	4
-ordo	4
-ore	3
-oread	5
-ores	4
-org	3
-organ	5
-orgy	4
-oriel	5
-orig	4
-orle	4
-orlop	5
-ornis	5
-orris	5
-ort	3
-orts	4
-oryx	4
-orzo	4
-oses	4
-osier	5
-osmic	5
-other	5
-otic	4
-ottar	5
-otter	5
-otto	4
-ouch	4
-oud	3
-ought	5
-oui	3
-ounce	5
-ouphe	5
-our	3
-ours	4
-ousel	5
-oust	4
-ousts	5
-out	3
-outdo	5
-outed	5
-outer	5
-outgo	5
-outre	5
-outs	4
-outta	5
-ouzel	5
-ouzo	4
-ouzos	5
-ova	3
-oval	4
-ovals	5
-ovary	5
-ovate	5
-oven	4
-ovens	5
-over	4
-overs	5
-overt	5
-ovine	5
-ovoid	5
-ovolo	5
-ovule	5
-ovum	4
-owe	3
-owed	4
-owes	4
-owing	5
-owl	3
-owlet	5
-owls	4
-own	3
-owned	5
-owner	5
-owns	4
-oxbow	5
-oxen	4
-oxide	5
-oxime	5
-oyer	4
-oyez	4
-ozone	5
-pace	4
-paced	5
-pacer	5
-paces	5
-pacey	5
-pacha	5
-pack	4
-packs	5
-pact	4
-pacts	5
-pacy	4
-pad	3
-paddy	5
-padre	5
-pads	4
-paean	5
-paeon	5
-pagan	5
-page	4
-paged	5
-pager	5
-pages	5
-pah	3
-paid	4
-pail	4
-pails	5
-pain	4
-pains	5
-paint	5
-pair	4
-pairs	5
-paisa	5
-pal	3
-pale	4
-paled	5
-paleo	5
-paler	5
-pales	5
-pall	4
-palls	5
-pally	5
-palm	4
-palms	5
-palmy	5
-palp	4
-pals	4
-palsy	5
-paly	4
-pam	3
-pampa	5
-pan	3
-panda	5
-pane	4
-paned	5
-panel	5
-panes	5
-pang	4
-panga	5
-pangs	5
-panic	5
-panne	5
-pans	4
-pansy	5
-pant	4
-panto	5
-pants	5
-panty	5
-pap	3
-papa	4
-papal	5
-papas	5
-papaw	5
-paper	5
-pappy	5
-paps	4
-par	3
-para	4
-paras	5
-parch	5
-pard	4
-pare	4
-pared	5
-parer	5
-pares	5
-pareu	5
-park	4
-parka	5
-parks	5
-parky	5
-parol	5
-parr	4
-parrs	5
-parry	5
-pars	4
-parse	5
-part	4
-parts	5
-party	5
-parve	5
-pas	3
-pase	4
-pash	4
-pasha	5
-pashm	5
-pass	4
-passe	5
-past	4
-pasta	5
-paste	5
-pasts	5
-pasty	5
-pat	3
-patch	5
-pate	4
-paten	5
-pates	5
-path	4
-paths	5
-patin	5
-patio	5
-patly	5
-pats	4
-patsy	5
-patty	5
-pause	5
-pavan	5
-pave	4
-paved	5
-paves	5
-pavid	5
-pavis	5
-paw	3
-pawed	5
-pawl	4
-pawls	5
-pawn	4
-pawns	5
-paws	4
-pax	3
-paxes	5
-pay	3
-payed	5
-payee	5
-payer	5
-pays	4
-payt	4
-pct	3
-pea	3
-peace	5
-peach	5
-peag	4
-peags	5
-peak	4
-peaks	5
-peaky	5
-peal	4
-peals	5
-pean	4
-peans	5
-pear	4
-pearl	5
-pears	5
-peart	5
-peas	4
-peat	4
-peaty	5
-peba	4
-pebas	5
-pec	3
-pecan	5
-peck	4
-pecks	5
-pecs	4
-ped	3
-pedal	5
-pee	3
-peed	4
-peek	4
-peeks	5
-peel	4
-peels	5
-peen	4
-peens	5
-peep	4
-peeps	5
-peer	4
-peers	5
-pees	4
-peeve	5
-peg	3
-pegs	4
-pekan	5
-peke	4
-pekes	5
-pekoe	5
-pelf	4
-pelt	4
-pelts	5
-pen	3
-penal	5
-pence	5
-pend	4
-pends	5
-peng	4
-penis	5
-penna	5
-penne	5
-penni	5
-penny	5
-pens	4
-pent	4
-peon	4
-peons	5
-peony	5
-pep	3
-peppy	5
-peps	4
-per	3
-perch	5
-perdu	5
-pere	4
-peri	4
-peril	5
-peris	5
-perk	4
-perks	5
-perky	5
-perm	4
-perms	5
-perry	5
-perse	5
-pert	4
-perv	4
-pervs	5
-pes	3
-pesky	5
-peso	4
-pesos	5
-pest	4
-pesto	5
-pests	5
-pesty	5
-pet	3
-petal	5
-peter	5
-petit	5
-pets	4
-petty	5
-pew	3
-pewee	5
-pewit	5
-pews	4
-phage	5
-phase	5
-phat	4
-pheon	5
-phew	4
-phi	3
-phial	5
-phil	4
-phis	4
-phish	5
-phiz	4
-phlox	5
-pho	3
-phon	4
-phone	5
-phons	5
-phony	5
-phot	4
-photo	5
-phots	5
-phr	3
-phren	5
-phyla	5
-phyle	5
-phys	4
-piano	5
-pic	3
-pica	4
-pice	4
-pick	4
-picks	5
-picky	5
-picot	5
-pics	4
-picul	5
-pie	3
-piece	5
-pied	4
-pier	4
-piers	5
-pies	4
-piet	4
-pieta	5
-piety	5
-pig	3
-piggy	5
-pigs	4
-piing	5
-pika	4
-pikas	5
-pike	4
-piked	5
-piker	5
-pikes	5
-pilaf	5
-pilch	5
-pile	4
-piled	5
-pilei	5
-piles	5
-pili	4
-pill	4
-pills	5
-pilot	5
-pily	4
-pimp	4
-pimps	5
-pin	3
-pinch	5
-pine	4
-pined	5
-pines	5
-piney	5
-ping	4
-pings	5
-pink	4
-pinko	5
-pinks	5
-pinky	5
-pinna	5
-pinny	5
-pinon	5
-pins	4
-pint	4
-pinta	5
-pinto	5
-pints	5
-pinup	5
-piny	4
-pion	4
-pions	5
-pious	5
-pip	3
-pipe	4
-piped	5
-piper	5
-pipes	5
-pipit	5
-pips	4
-pique	5
-pirn	4
-pirog	5
-pis	3
-pish	4
-piso	4
-piss	4
-piste	5
-pit	3
-pita	4
-pitas	5
-pitch	5
-pith	4
-piths	5
-pithy	5
-piton	5
-pits	4
-pitta	5
-pity	4
-pivot	5
-pix	3
-pixel	5
-pixie	5
-pizz	4
-pizza	5
-pkg	3
-pkt	3
-pkwy	4
-place	5
-plage	5
-plaid	5
-plain	5
-plait	5
-plan	4
-plane	5
-plank	5
-plans	5
-plant	5
-plash	5
-plasm	5
-plat	4
-plate	5
-plats	5
-platy	5
-play	4
-playa	5
-plays	5
-plaza	5
-plea	4
-plead	5
-pleas	5
-pleat	5
-pleb	4
-plebe	5
-plebs	5
-plena	5
-plica	5
-plied	5
-plier	5
-plies	5
-ploce	5
-plod	4
-plods	5
-plonk	5
-plop	4
-plops	5
-plot	4
-plots	5
-plow	4
-plows	5
-ploy	4
-ploys	5
-pluck	5
-plug	4
-plugs	5
-plum	4
-plumb	5
-plume	5
-plump	5
-plums	5
-plumy	5
-plunk	5
-plur	4
-plus	4
-plush	5
-ply	3
-poach	5
-pock	4
-pocks	5
-pocky	5
-poco	4
-pod	3
-poddy	5
-pods	4
-poem	4
-poems	5
-poesy	5
-poet	4
-poets	5
-pogey	5
-pogge	5
-pogo	4
-pogy	4
-poi	3
-poilu	5
-point	5
-poise	5
-poke	4
-poked	5
-poker	5
-pokes	5
-pokey	5
-poky	4
-pol	3
-polar	5
-pole	4
-poled	5
-poler	5
-poles	5
-polio	5
-polis	5
-polit	5
-polka	5
-poll	4
-polls	5
-polo	4
-pols	4
-poly	4
-polyp	5
-polys	5
-pom	3
-pome	4
-pomes	5
-pommy	5
-pomp	4
-poms	4
-ponce	5
-poncy	5
-pond	4
-ponds	5
-pone	4
-pones	5
-pong	4
-pongs	5
-pons	4
-pony	4
-poo	3
-pooch	5
-pood	4
-poods	5
-pooed	5
-poof	4
-poofs	5
-pooh	4
-poohs	5
-pooka	5
-pool	4
-pools	5
-poon	4
-poons	5
-poop	4
-poops	5
-poor	4
-poos	4
-pop	3
-pope	4
-popes	5
-poppa	5
-poppy	5
-pops	4
-popup	5
-porch	5
-pore	4
-pored	5
-porer	5
-pores	5
-porgy	5
-pork	4
-porky	5
-porn	4
-porno	5
-port	4
-ports	5
-pos	3
-pose	4
-posed	5
-poser	5
-poses	5
-posh	4
-posit	5
-poss	4
-posse	5
-post	4
-posts	5
-posy	4
-pot	3
-pots	4
-potto	5
-potty	5
-pouch	5
-pouf	4
-poufs	5
-poult	5
-pound	5
-pour	4
-pours	5
-pout	4
-pouts	5
-pouty	5
-pow	3
-power	5
-pox	3
-poxes	5
-ppd	3
-ppm	3
-ppr	3
-pram	4
-prams	5
-prana	5
-prang	5
-prank	5
-prase	5
-prat	4
-prate	5
-prats	5
-prau	4
-prawn	5
-pray	4
-prays	5
-pred	4
-preen	5
-pref	4
-prem	4
-prep	4
-preps	5
-pres	4
-presa	5
-press	5
-pret	4
-prexy	5
-prey	4
-preys	5
-price	5
-prick	5
-pride	5
-pried	5
-prier	5
-pries	5
-prig	4
-prigs	5
-prim	4
-prime	5
-primo	5
-primp	5
-prink	5
-print	5
-prion	5
-prior	5
-prism	5
-priv	4
-privy	5
-prize	5
-pro	3
-proa	4
-prob	4
-probe	5
-proc	4
-prod	4
-prods	5
-proem	5
-prof	4
-profs	5
-prog	4
-prole	5
-prom	4
-promo	5
-proms	5
-pron	4
-prone	5
-prong	5
-proof	5
-prop	4
-propr	5
-props	5
-pros	4
-prose	5
-prosy	5
-proud	5
-prov	4
-prove	5
-prow	4
-prowl	5
-prows	5
-prox	4
-proxy	5
-prs	3
-prude	5
-prune	5
-pry	3
-psalm	5
-pseud	5
-psf	3
-pshaw	5
-psi	3
-psia	4
-psid	4
-psis	4
-psoas	5
-psst	4
-psych	5
-ptg	3
-pts	3
-pub	3
-pubes	5
-pubic	5
-pubis	5
-publ	4
-pubs	4
-puca	4
-puce	4
-puck	4
-pucka	5
-pucks	5
-pud	3
-pudgy	5
-puds	4
-puff	4
-puffs	5
-puffy	5
-pug	3
-pugs	4
-puke	4
-puked	5
-pukes	5
-pukka	5
-pul	3
-pula	4
-pulas	5
-pule	4
-puled	5
-puler	5
-pules	5
-puli	4
-pull	4
-pulls	5
-pulp	4
-pulps	5
-pulpy	5
-puls	4
-pulse	5
-puma	4
-pumas	5
-pump	4
-pumps	5
-pun	3
-punch	5
-pung	4
-pungs	5
-pungy	5
-punk	4
-punks	5
-puns	4
-punt	4
-punts	5
-puny	4
-pup	3
-pupa	4
-pupae	5
-pupal	5
-pupil	5
-puppy	5
-pups	4
-pure	4
-puree	5
-purer	5
-purge	5
-purl	4
-purls	5
-purr	4
-purrs	5
-purse	5
-pursy	5
-pus	3
-push	4
-pushy	5
-puss	4
-pussy	5
-put	3
-puts	4
-putt	4
-putto	5
-putts	5
-putty	5
-putz	4
-pvt	3
-pwn	3
-pwned	5
-pwns	4
-pwt	3
-pya	3
-pyas	4
-pye	3
-pygmy	5
-pylon	5
-pyoid	5
-pyre	4
-pyres	5
-pyx	3
-pyxes	5
-pyxie	5
-pzazz	5
-qadi	4
-qibla	5
-qoph	4
-qophs	5
-qto	3
-qts	3
-qty	3
-qua	3
-quack	5
-quad	4
-quads	5
-quaff	5
-quag	4
-quai	4
-quail	5
-quake	5
-quaky	5
-quale	5
-qualm	5
-quant	5
-quark	5
-quart	5
-quash	5
-quasi	5
-quass	5
-quay	4
-quays	5
-quean	5
-queen	5
-queer	5
-quell	5
-quern	5
-query	5
-ques	4
-quest	5
-queue	5
-quick	5
-quid	4
-quids	5
-quiet	5
-quiff	5
-quill	5
-quilt	5
-quin	4
-quine	5
-quins	5
-quint	5
-quip	4
-quips	5
-quipu	5
-quire	5
-quirk	5
-quirt	5
-quit	4
-quite	5
-quits	5
-quiz	4
-quo	3
-quod	4
-quoin	5
-quoit	5
-quot	4
-quota	5
-quote	5
-quoth	5
-rabbi	5
-rabid	5
-race	4
-raced	5
-racer	5
-races	5
-rack	4
-racks	5
-racon	5
-racy	4
-rad	3
-radar	5
-radii	5
-radio	5
-radix	5
-radon	5
-rads	4
-raff	4
-raft	4
-rafts	5
-rag	3
-raga	4
-ragas	5
-rage	4
-raged	5
-rages	5
-ragga	5
-ragi	4
-ragis	5
-rags	4
-rah	3
-raid	4
-raids	5
-rail	4
-rails	5
-rain	4
-rains	5
-rainy	5
-raise	5
-raj	3
-raja	4
-rajah	5
-rajas	5
-rajes	5
-rake	4
-raked	5
-raker	5
-rakes	5
-raki	4
-rale	4
-rales	5
-rall	4
-rally	5
-ram	3
-ramen	5
-ramie	5
-ramp	4
-ramps	5
-rams	4
-ran	3
-rance	5
-ranch	5
-rand	4
-randy	5
-ranee	5
-rang	4
-range	5
-rangy	5
-rani	4
-ranis	5
-rank	4
-ranks	5
-rant	4
-rants	5
-rap	3
-rape	4
-raped	5
-raper	5
-rapes	5
-rapid	5
-raps	4
-rapt	4
-rare	4
-rared	5
-rarer	5
-rares	5
-rash	4
-rasp	4
-rasps	5
-raspy	5
-rat	3
-rata	4
-ratal	5
-ratan	5
-rate	4
-rated	5
-ratel	5
-rater	5
-rates	5
-rath	4
-rathe	5
-ratio	5
-rats	4
-ratty	5
-rave	4
-raved	5
-ravel	5
-raven	5
-raver	5
-raves	5
-ravin	5
-raw	3
-rawer	5
-ray	3
-rayon	5
-rays	4
-raze	4
-razed	5
-razee	5
-razes	5
-razor	5
-razz	4
-rcd	3
-rcpt	4
-reach	5
-react	5
-read	4
-reads	5
-ready	5
-real	4
-realm	5
-reals	5
-ream	4
-reams	5
-reap	4
-reaps	5
-rear	4
-rearm	5
-rears	5
-reata	5
-reave	5
-rebec	5
-rebel	5
-rebid	5
-rebus	5
-rebut	5
-rec	3
-recap	5
-recce	5
-recd	4
-reck	4
-recon	5
-rect	4
-recti	5
-recto	5
-recur	5
-recut	5
-red	3
-redan	5
-redd	4
-rede	4
-redid	5
-redly	5
-redo	4
-reds	4
-redux	5
-redye	5
-reed	4
-reeds	5
-reedy	5
-reef	4
-reefs	5
-reek	4
-reeks	5
-reeky	5
-reel	4
-reels	5
-reest	5
-reeve	5
-ref	3
-refer	5
-refit	5
-refix	5
-refl	4
-refry	5
-refs	4
-reft	4
-reg	3
-regal	5
-regex	5
-rehab	5
-rehi	4
-reify	5
-reign	5
-rein	4
-reins	5
-reive	5
-rejig	5
-rel	3
-relax	5
-relay	5
-relic	5
-rely	4
-rem	3
-remap	5
-remex	5
-remit	5
-remix	5
-rems	4
-renal	5
-rend	4
-rends	5
-renew	5
-renin	5
-rent	4
-rents	5
-reorg	5
-rep	3
-repay	5
-repel	5
-reply	5
-repp	4
-repps	5
-repro	5
-reps	4
-rept	4
-req	3
-reran	5
-rerun	5
-res	3
-resat	5
-reset	5
-resew	5
-resin	5
-resit	5
-resow	5
-resp	4
-rest	4
-rests	5
-retch	5
-retd	4
-rete	4
-retie	5
-retro	5
-retry	5
-rets	4
-reuse	5
-rev	3
-revel	5
-revet	5
-revs	4
-revue	5
-rewed	5
-rhea	4
-rheas	5
-rheo	4
-rhet	4
-rheum	5
-rhino	5
-rho	3
-rhomb	5
-rhos	4
-rhumb	5
-rhyme	5
-ria	3
-rial	4
-rials	5
-riant	5
-riata	5
-rib	3
-ribs	4
-rice	4
-riced	5
-ricer	5
-rices	5
-rich	4
-rick	4
-ricks	5
-rid	3
-ride	4
-rider	5
-rides	5
-ridge	5
-ridgy	5
-rids	4
-riel	4
-riels	5
-rife	4
-rifer	5
-riff	4
-riffs	5
-rifle	5
-rift	4
-rifts	5
-rig	3
-right	5
-rigid	5
-rigor	5
-rigs	4
-rile	4
-riled	5
-riles	5
-rill	4
-rille	5
-rills	5
-rim	3
-rime	4
-rimed	5
-rimes	5
-rims	4
-rimy	4
-rind	4
-rinds	5
-ring	4
-rings	5
-rink	4
-rinks	5
-rinse	5
-riot	4
-riots	5
-rip	3
-ripe	4
-ripen	5
-riper	5
-rips	4
-rise	4
-risen	5
-riser	5
-rises	5
-rishi	5
-risk	4
-risks	5
-risky	5
-rit	3
-rite	4
-rites	5
-ritzy	5
-riv	3
-rival	5
-rive	4
-rived	5
-riven	5
-river	5
-rives	5
-rivet	5
-riyal	5
-rms	3
-roach	5
-road	4
-roads	5
-roam	4
-roams	5
-roan	4
-roans	5
-roar	4
-roars	5
-roast	5
-rob	3
-robe	4
-robed	5
-robes	5
-robin	5
-roble	5
-robot	5
-robs	4
-roc	3
-rock	4
-rocks	5
-rocky	5
-rocs	4
-rod	3
-rode	4
-rodeo	5
-rods	4
-roe	3
-roes	4
-roger	5
-rogue	5
-roil	4
-roils	5
-roily	5
-role	4
-roles	5
-roll	4
-rolls	5
-rom	3
-roman	5
-romeo	5
-romp	4
-romps	5
-ronde	5
-rondo	5
-roo	3
-rood	4
-roods	5
-roof	4
-roofs	5
-rook	4
-rooks	5
-rooky	5
-room	4
-rooms	5
-roomy	5
-roose	5
-roost	5
-root	4
-roots	5
-rope	4
-roped	5
-roper	5
-ropes	5
-ropy	4
-roque	5
-rose	4
-roses	5
-rosin	5
-rosy	4
-rot	3
-rota	4
-rotas	5
-rote	4
-rotl	4
-rotls	5
-rotor	5
-rots	4
-roue	4
-roues	5
-rouge	5
-rough	5
-round	5
-roup	4
-rouse	5
-roust	5
-rout	4
-route	5
-routs	5
-roux	4
-rove	4
-roved	5
-rover	5
-roves	5
-row	3
-rowan	5
-rowdy	5
-rowed	5
-rowel	5
-rower	5
-rows	4
-royal	5
-rpm	3
-rps	3
-rpt	3
-rte	3
-rub	3
-rube	4
-rubel	5
-rubes	5
-ruble	5
-rubs	4
-ruby	4
-ruche	5
-ruck	4
-rucks	5
-rudd	4
-rudds	5
-ruddy	5
-rude	4
-ruder	5
-rue	3
-rued	4
-rues	4
-ruff	4
-ruffs	5
-rug	3
-rugby	5
-rugs	4
-ruin	4
-ruing	5
-ruins	5
-rule	4
-ruled	5
-ruler	5
-rules	5
-rum	3
-rumal	5
-rumba	5
-rumen	5
-rummy	5
-rumor	5
-rump	4
-rumps	5
-rums	4
-run	3
-rune	4
-runes	5
-rung	4
-rungs	5
-runic	5
-runny	5
-runs	4
-runt	4
-runts	5
-runty	5
-rupee	5
-rural	5
-ruse	4
-ruses	5
-rush	4
-rushy	5
-rusk	4
-rusks	5
-rust	4
-rusts	5
-rusty	5
-rut	3
-ruth	4
-ruths	5
-ruts	4
-rutty	5
-rya	3
-ryas	4
-rye	3
-saber	5
-sabin	5
-sable	5
-sabot	5
-sabra	5
-sabre	5
-sac	3
-sack	4
-sacks	5
-sacra	5
-sacs	4
-sad	3
-sades	5
-sadhu	5
-sadly	5
-safe	4
-safer	5
-safes	5
-sag	3
-saga	4
-sagas	5
-sage	4
-sager	5
-sages	5
-saggy	5
-sago	4
-sags	4
-sahib	5
-said	4
-saiga	5
-sail	4
-sails	5
-sain	4
-saint	5
-saith	5
-sake	4
-saker	5
-sakes	5
-saki	4
-sakis	5
-sal	3
-salad	5
-sale	4
-salep	5
-sales	5
-sally	5
-salmi	5
-salol	5
-salon	5
-salpa	5
-salsa	5
-salt	4
-salts	5
-salty	5
-salve	5
-salvo	5
-samba	5
-sambo	5
-same	4
-sames	5
-samey	5
-sand	4
-sands	5
-sandy	5
-sane	4
-saner	5
-sang	4
-sangs	5
-sank	4
-sans	4
-sap	3
-sapid	5
-sapor	5
-sappy	5
-saps	4
-saran	5
-sard	4
-sards	5
-sarge	5
-sari	4
-saris	5
-sarky	5
-saros	5
-sash	4
-sasin	5
-sass	4
-sassy	5
-sat	3
-satay	5
-sate	4
-sated	5
-satem	5
-sates	5
-sati	4
-satin	5
-satyr	5
-sauce	5
-saucy	5
-sauna	5
-saury	5
-saute	5
-save	4
-saved	5
-saver	5
-saves	5
-savor	5
-savoy	5
-savvy	5
-saw	3
-sawed	5
-sawer	5
-saws	4
-sax	3
-saxes	5
-say	3
-sayer	5
-says	4
-scab	4
-scabs	5
-scad	4
-scads	5
-scag	4
-scags	5
-scald	5
-scale	5
-scalp	5
-scaly	5
-scam	4
-scamp	5
-scams	5
-scan	4
-scans	5
-scant	5
-scape	5
-scar	4
-scare	5
-scarf	5
-scarp	5
-scars	5
-scary	5
-scat	4
-scats	5
-scend	5
-scene	5
-scent	5
-sch	3
-schmo	5
-schwa	5
-sci	3
-scion	5
-scoff	5
-scold	5
-scone	5
-scoop	5
-scoot	5
-scop	4
-scope	5
-score	5
-scorn	5
-scot	4
-scour	5
-scout	5
-scow	4
-scowl	5
-scows	5
-scr	3
-scrag	5
-scram	5
-scrap	5
-scree	5
-screw	5
-scrim	5
-scrip	5
-scrod	5
-scrog	5
-scrub	5
-scrum	5
-scuba	5
-scud	4
-scudo	5
-scuds	5
-scuff	5
-scull	5
-sculp	5
-scum	4
-scums	5
-scup	4
-scups	5
-scurf	5
-scut	4
-scuta	5
-scute	5
-scuts	5
-sea	3
-seal	4
-seals	5
-seam	4
-seams	5
-seamy	5
-sear	4
-sears	5
-seas	4
-seat	4
-seats	5
-sebum	5
-sec	3
-secco	5
-sech	4
-secs	4
-sect	4
-sects	5
-secy	4
-sedan	5
-sedge	5
-sedgy	5
-sedum	5
-see	3
-seed	4
-seeds	5
-seedy	5
-seek	4
-seeks	5
-seel	4
-seels	5
-seem	4
-seems	5
-seen	4
-seep	4
-seeps	5
-seer	4
-seers	5
-sees	4
-segno	5
-segue	5
-seine	5
-seise	5
-seism	5
-seize	5
-selah	5
-self	4
-sell	4
-sells	5
-sem	3
-semen	5
-semi	4
-semis	5
-sen	3
-send	4
-sends	5
-sene	4
-senna	5
-senor	5
-sens	4
-sense	5
-sent	4
-sente	5
-sepal	5
-sepia	5
-sepoy	5
-sept	4
-septa	5
-septs	5
-seq	3
-seqq	4
-ser	3
-serai	5
-sere	4
-serer	5
-serf	4
-serfs	5
-serge	5
-serif	5
-serin	5
-serow	5
-serum	5
-serve	5
-servo	5
-set	3
-seta	4
-setae	5
-sets	4
-sett	4
-setts	5
-setup	5
-seven	5
-sever	5
-sew	3
-sewan	5
-sewed	5
-sewer	5
-sewn	4
-sews	4
-sex	3
-sexed	5
-sexes	5
-sext	4
-sexts	5
-sexy	4
-sgd	3
-shack	5
-shad	4
-shade	5
-shads	5
-shady	5
-shaft	5
-shag	4
-shags	5
-shah	4
-shahs	5
-shake	5
-shako	5
-shaky	5
-shale	5
-shall	5
-shalt	5
-sham	4
-shame	5
-shams	5
-shank	5
-shape	5
-shard	5
-share	5
-shark	5
-sharp	5
-shat	4
-shave	5
-shaw	4
-shawl	5
-shawm	5
-shay	4
-shays	5
-she	3
-sheaf	5
-shear	5
-shed	4
-sheds	5
-sheen	5
-sheep	5
-sheer	5
-sheet	5
-sheik	5
-shelf	5
-shell	5
-shend	5
-sher	4
-sherd	5
-shes	4
-shew	4
-shewn	5
-shews	5
-shh	3
-shied	5
-shier	5
-shies	5
-shift	5
-shill	5
-shim	4
-shims	5
-shin	4
-shine	5
-shins	5
-shiny	5
-ship	4
-ships	5
-shire	5
-shirk	5
-shirr	5
-shirt	5
-shit	4
-shits	5
-shiv	4
-shiva	5
-shive	5
-shivs	5
-shmo	4
-shoal	5
-shoat	5
-shock	5
-shod	4
-shoe	4
-shoes	5
-shone	5
-shoo	4
-shook	5
-shool	5
-shoos	5
-shoot	5
-shop	4
-shops	5
-shore	5
-short	5
-shot	4
-shote	5
-shots	5
-shout	5
-shove	5
-show	4
-shown	5
-shows	5
-showy	5
-shpt	4
-shr	3
-shred	5
-shrew	5
-shrub	5
-shrug	5
-shtg	4
-shuck	5
-shul	4
-shun	4
-shuns	5
-shunt	5
-shush	5
-shut	4
-shuts	5
-shy	3
-shyer	5
-shyly	5
-sib	3
-sibs	4
-sibyl	5
-sic	3
-sick	4
-sicko	5
-sicks	5
-sics	4
-side	4
-sided	5
-sides	5
-sidle	5
-siege	5
-sieve	5
-sift	4
-sifts	5
-sig	3
-sigh	4
-sighs	5
-sight	5
-sigil	5
-sigma	5
-sign	4
-signs	5
-sika	4
-sikas	5
-sike	4
-sild	4
-silds	5
-silk	4
-silks	5
-silky	5
-sill	4
-sills	5
-silly	5
-silo	4
-silos	5
-silt	4
-silts	5
-silty	5
-silva	5
-sim	3
-sima	4
-simar	5
-simba	5
-simp	4
-sims	4
-sin	3
-since	5
-sine	4
-sines	5
-sinew	5
-sing	4
-singe	5
-sings	5
-sinh	4
-sink	4
-sinks	5
-sins	4
-sinus	5
-sip	3
-sips	4
-sir	3
-sire	4
-sired	5
-siree	5
-siren	5
-sires	5
-sirs	4
-sis	3
-sisal	5
-sises	5
-sissy	5
-sit	3
-sitar	5
-site	4
-sited	5
-sites	5
-sits	4
-situ	4
-situs	5
-six	3
-sixes	5
-sixth	5
-sixty	5
-sizar	5
-size	4
-sized	5
-sizer	5
-sizes	5
-ska	3
-skald	5
-skat	4
-skate	5
-skean	5
-skeet	5
-skeg	4
-skegs	5
-skein	5
-skelp	5
-skep	4
-skeps	5
-skew	4
-skews	5
-ski	3
-skid	4
-skids	5
-skied	5
-skier	5
-skies	5
-skiff	5
-skill	5
-skim	4
-skimp	5
-skims	5
-skin	4
-skink	5
-skins	5
-skint	5
-skip	4
-skips	5
-skirl	5
-skirr	5
-skirt	5
-skis	4
-skit	4
-skite	5
-skits	5
-skive	5
-skoal	5
-skol	4
-skosh	5
-skua	4
-skuas	5
-skulk	5
-skull	5
-skunk	5
-sky	3
-slab	4
-slabs	5
-slack	5
-slag	4
-slags	5
-slain	5
-slake	5
-slam	4
-slams	5
-slang	5
-slant	5
-slap	4
-slaps	5
-slash	5
-slat	4
-slate	5
-slats	5
-slaty	5
-slave	5
-slaw	4
-slay	4
-slays	5
-sld	3
-sled	4
-sleds	5
-sleek	5
-sleep	5
-sleet	5
-slept	5
-slew	4
-slews	5
-slice	5
-slick	5
-slid	4
-slide	5
-slier	5
-slim	4
-slime	5
-slims	5
-slimy	5
-sling	5
-slink	5
-slip	4
-slips	5
-slit	4
-slits	5
-slob	4
-slobs	5
-sloe	4
-sloes	5
-slog	4
-slogs	5
-sloop	5
-slop	4
-slope	5
-slops	5
-slosh	5
-slot	4
-sloth	5
-slots	5
-slow	4
-slows	5
-slub	4
-slubs	5
-slue	4
-slued	5
-slues	5
-sluff	5
-slug	4
-slugs	5
-slum	4
-slump	5
-slums	5
-slung	5
-slunk	5
-slur	4
-slurp	5
-slurs	5
-slush	5
-slut	4
-sluts	5
-sly	3
-slyer	5
-slyly	5
-slype	5
-smack	5
-small	5
-smalt	5
-smarm	5
-smart	5
-smash	5
-smaze	5
-smear	5
-smell	5
-smelt	5
-smew	4
-smews	5
-smile	5
-smirk	5
-smite	5
-smith	5
-smock	5
-smog	4
-smogs	5
-smoke	5
-smoko	5
-smoky	5
-smolt	5
-smote	5
-smug	4
-smurf	5
-smut	4
-smuts	5
-snack	5
-snafu	5
-snag	4
-snags	5
-snail	5
-snake	5
-snaky	5
-snap	4
-snaps	5
-snare	5
-snarf	5
-snark	5
-snarl	5
-snath	5
-sneak	5
-sneck	5
-sneer	5
-snick	5
-snide	5
-sniff	5
-snip	4
-snipe	5
-snips	5
-snit	4
-snits	5
-snob	4
-snobs	5
-snog	4
-snogs	5
-snood	5
-snook	5
-snoop	5
-snoot	5
-snore	5
-snort	5
-snot	4
-snots	5
-snout	5
-snow	4
-snows	5
-snowy	5
-snub	4
-snubs	5
-snuff	5
-snug	4
-snugs	5
-soak	4
-soaks	5
-soap	4
-soaps	5
-soapy	5
-soar	4
-soars	5
-soave	5
-sob	3
-soba	4
-sober	5
-sobs	4
-soc	3
-sock	4
-socks	5
-socle	5
-sod	3
-soda	4
-sodas	5
-sods	4
-sofa	4
-sofar	5
-sofas	5
-soft	4
-softa	5
-softy	5
-soggy	5
-soil	4
-soils	5
-soke	4
-sol	3
-sola	4
-solan	5
-solar	5
-sold	4
-soldo	5
-sole	4
-soled	5
-soles	5
-solid	5
-solo	4
-solon	5
-solos	5
-sols	4
-solus	5
-solve	5
-som	3
-soma	4
-somas	5
-some	4
-son	3
-sonar	5
-sonde	5
-sone	4
-sones	5
-song	4
-songs	5
-sonic	5
-sonly	5
-sonny	5
-sons	4
-soon	4
-soot	4
-sooth	5
-sooty	5
-sop	3
-soph	4
-sopor	5
-soppy	5
-sops	4
-sora	4
-sorb	4
-sorbs	5
-sore	4
-sorer	5
-sores	5
-sorgo	5
-sori	4
-sorn	4
-sorry	5
-sort	4
-sorta	5
-sorts	5
-sorus	5
-sot	3
-sots	4
-sou	3
-sough	5
-souk	4
-souks	5
-soul	4
-souls	5
-sound	5
-soup	4
-soups	5
-soupy	5
-sour	4
-sours	5
-sous	4
-souse	5
-south	5
-sow	3
-sowed	5
-sower	5
-sown	4
-sows	4
-soy	3
-spa	3
-space	5
-spade	5
-spae	4
-spahi	5
-spake	5
-spall	5
-spam	4
-spams	5
-span	4
-spang	5
-spank	5
-spans	5
-spar	4
-spare	5
-spark	5
-spars	5
-spas	4
-spasm	5
-spat	4
-spate	5
-spats	5
-spawn	5
-spay	4
-spays	5
-speak	5
-spear	5
-spec	4
-speck	5
-specs	5
-sped	4
-speed	5
-spell	5
-spend	5
-spent	5
-speos	5
-sperm	5
-spew	4
-spews	5
-spic	4
-spica	5
-spice	5
-spics	5
-spicy	5
-spied	5
-spiel	5
-spier	5
-spies	5
-spiff	5
-spike	5
-spiky	5
-spile	5
-spill	5
-spin	4
-spine	5
-spins	5
-spiny	5
-spire	5
-spiry	5
-spit	4
-spite	5
-spits	5
-spitz	5
-spiv	4
-spivs	5
-splat	5
-splay	5
-split	5
-spoil	5
-spoke	5
-spoof	5
-spook	5
-spool	5
-spoon	5
-spoor	5
-spore	5
-sport	5
-spot	4
-spots	5
-spout	5
-spp	3
-sprag	5
-sprat	5
-spray	5
-spree	5
-sprig	5
-sprit	5
-sprog	5
-sprue	5
-spry	4
-spud	4
-spuds	5
-spue	4
-spued	5
-spues	5
-spume	5
-spumy	5
-spun	4
-spunk	5
-spur	4
-spurn	5
-spurs	5
-spurt	5
-sputa	5
-spy	3
-sqq	3
-squab	5
-squad	5
-squat	5
-squaw	5
-squib	5
-squid	5
-sri	3
-sruti	5
-ssh	3
-stab	4
-stabs	5
-stacc	5
-stack	5
-staff	5
-stag	4
-stage	5
-stags	5
-stagy	5
-staid	5
-stain	5
-stair	5
-stake	5
-stale	5
-stalk	5
-stall	5
-stamp	5
-stand	5
-stane	5
-stang	5
-stank	5
-staph	5
-star	4
-stare	5
-stark	5
-stars	5
-start	5
-stash	5
-stat	4
-state	5
-stats	5
-stave	5
-stay	4
-stays	5
-std	3
-stdio	5
-stead	5
-steak	5
-steal	5
-steam	5
-steed	5
-steel	5
-steep	5
-steer	5
-stein	5
-stela	5
-stele	5
-stem	4
-stems	5
-steno	5
-stent	5
-step	4
-steps	5
-ster	4
-stere	5
-stern	5
-stet	4
-stets	5
-stew	4
-stews	5
-stg	3
-stge	4
-stich	5
-stick	5
-sties	5
-stiff	5
-stile	5
-still	5
-stilt	5
-sting	5
-stink	5
-stint	5
-stipe	5
-stir	4
-stirk	5
-stirs	5
-stoa	4
-stoat	5
-stob	4
-stock	5
-stogy	5
-stoic	5
-stoke	5
-stole	5
-stoma	5
-stomp	5
-stone	5
-stony	5
-stood	5
-stook	5
-stool	5
-stoop	5
-stop	4
-stope	5
-stops	5
-stor	4
-store	5
-stork	5
-storm	5
-story	5
-stoss	5
-stoup	5
-stout	5
-stove	5
-stow	4
-stows	5
-str	3
-strap	5
-straw	5
-stray	5
-strep	5
-strew	5
-stria	5
-strip	5
-strop	5
-strow	5
-stroy	5
-strum	5
-strut	5
-stub	4
-stubs	5
-stuck	5
-stud	4
-studs	5
-study	5
-stuff	5
-stull	5
-stump	5
-stun	4
-stung	5
-stunk	5
-stuns	5
-stunt	5
-stupa	5
-stupe	5
-sty	3
-stye	4
-styes	5
-style	5
-styli	5
-suave	5
-sub	3
-subj	4
-subs	4
-such	4
-suck	4
-sucks	5
-sucre	5
-sud	3
-sudd	4
-sudor	5
-suds	4
-sudsy	5
-sue	3
-sued	4
-suede	5
-suer	4
-sues	4
-suet	4
-suety	5
-sugar	5
-suing	5
-suint	5
-suit	4
-suite	5
-suits	5
-sulci	5
-sulfa	5
-sulk	4
-sulks	5
-sulky	5
-sully	5
-sum	3
-sumac	5
-summa	5
-sumo	4
-sump	4
-sumps	5
-sums	4
-sun	3
-sung	4
-sunk	4
-sunn	4
-sunny	5
-suns	4
-sunup	5
-sup	3
-super	5
-supp	4
-suppl	5
-supra	5
-sups	4
-supt	4
-sura	4
-surah	5
-sural	5
-suras	5
-surd	4
-surds	5
-sure	4
-surer	5
-surf	4
-surfs	5
-surg	4
-surge	5
-surgy	5
-surly	5
-surra	5
-surv	4
-sushi	5
-suss	4
-sutra	5
-swab	4
-swabs	5
-swag	4
-swage	5
-swags	5
-swain	5
-swale	5
-swam	4
-swami	5
-swamp	5
-swan	4
-swank	5
-swans	5
-swap	4
-swaps	5
-sward	5
-swarm	5
-swart	5
-swash	5
-swat	4
-swath	5
-swats	5
-sway	4
-sways	5
-swear	5
-sweat	5
-swede	5
-sweep	5
-sweet	5
-swell	5
-swept	5
-swift	5
-swig	4
-swigs	5
-swill	5
-swim	4
-swims	5
-swine	5
-swing	5
-swink	5
-swipe	5
-swirl	5
-swish	5
-swiz	4
-swizz	5
-swoon	5
-swoop	5
-sword	5
-swore	5
-sworn	5
-swot	4
-swots	5
-swum	4
-swung	5
-syce	4
-sycee	5
-sylph	5
-sym	3
-syn	3
-sync	4
-syncs	5
-synd	4
-syne	4
-synod	5
-synop	5
-synth	5
-syrup	5
-sysop	5
-syst	4
-tab	3
-tabby	5
-tabes	5
-tabla	5
-table	5
-taboo	5
-tabor	5
-tabs	4
-tace	4
-tacet	5
-tach	4
-tache	5
-tacit	5
-tack	4
-tacks	5
-tacky	5
-taco	4
-tacos	5
-tact	4
-tad	3
-tads	4
-tael	4
-taffy	5
-tafia	5
-tag	3
-tags	4
-tahr	4
-taiga	5
-tail	4
-tails	5
-tain	4
-taint	5
-taka	4
-takas	5
-take	4
-taken	5
-taker	5
-takes	5
-takin	5
-tala	4
-talas	5
-talc	4
-tale	4
-taler	5
-tales	5
-tali	4
-talk	4
-talks	5
-talky	5
-tall	4
-tally	5
-talon	5
-taluk	5
-talus	5
-tam	3
-tame	4
-tamed	5
-tamer	5
-tames	5
-tamis	5
-tammy	5
-tamp	4
-tamps	5
-tams	4
-tan	3
-tana	4
-tang	4
-tango	5
-tangs	5
-tangy	5
-tanh	4
-tank	4
-tanka	5
-tanks	5
-tans	4
-tansy	5
-tanto	5
-tap	3
-tapas	5
-tape	4
-taped	5
-taper	5
-tapes	5
-tapir	5
-tapis	5
-taps	4
-tar	3
-tardy	5
-tare	4
-tared	5
-tares	5
-targe	5
-tarn	4
-tarns	5
-taro	4
-taros	5
-tarot	5
-tarp	4
-tarps	5
-tarry	5
-tars	4
-tarsi	5
-tart	4
-tarts	5
-tarty	5
-taser	5
-task	4
-tasks	5
-tass	4
-tasse	5
-taste	5
-tasty	5
-tat	3
-tater	5
-tats	4
-tatty	5
-tau	3
-taunt	5
-taupe	5
-taus	4
-taut	4
-taw	3
-tawny	5
-taws	4
-tax	3
-taxa	4
-taxed	5
-taxer	5
-taxes	5
-taxi	4
-taxis	5
-taxon	5
-tayra	5
-tazza	5
-tbs	3
-tbsp	4
-tea	3
-teach	5
-teak	4
-teaks	5
-teal	4
-teals	5
-team	4
-teams	5
-tear	4
-tears	5
-teary	5
-teas	4
-tease	5
-teat	4
-teats	5
-tech	4
-techs	5
-techy	5
-ted	3
-teddy	5
-teds	4
-tee	3
-teed	4
-teem	4
-teems	5
-teen	4
-teens	5
-teeny	5
-tees	4
-teeth	5
-tel	3
-teleg	5
-telex	5
-telic	5
-tell	4
-tells	5
-telly	5
-tels	4
-temp	4
-tempi	5
-tempo	5
-temps	5
-tempt	5
-ten	3
-tench	5
-tend	4
-tends	5
-tenet	5
-tenge	5
-tenia	5
-tenne	5
-tenno	5
-tenon	5
-tenor	5
-tens	4
-tense	5
-tent	4
-tenth	5
-tents	5
-tepee	5
-tepid	5
-ter	3
-terce	5
-terf	4
-term	4
-terms	5
-tern	4
-terns	5
-terr	4
-terra	5
-terry	5
-terse	5
-tesla	5
-test	4
-testa	5
-tests	5
-testy	5
-teth	4
-teths	5
-tetra	5
-text	4
-texts	5
-than	4
-thane	5
-thank	5
-thar	4
-that	4
-thaw	4
-thaws	5
-the	3
-thebe	5
-theca	5
-thee	4
-thees	5
-theft	5
-thegn	5
-their	5
-them	4
-theme	5
-then	4
-theol	5
-there	5
-therm	5
-these	5
-theta	5
-thew	4
-thews	5
-thewy	5
-they	4
-thick	5
-thief	5
-thigh	5
-thill	5
-thin	4
-thine	5
-thing	5
-think	5
-thins	5
-thiol	5
-third	5
-this	4
-tho	3
-thole	5
-thong	5
-thorn	5
-thorp	5
-those	5
-thou	4
-thous	5
-three	5
-threw	5
-throb	5
-throe	5
-throw	5
-thru	4
-thrum	5
-thud	4
-thuds	5
-thug	4
-thugs	5
-thuja	5
-thumb	5
-thump	5
-thunk	5
-thus	4
-thuya	5
-thy	3
-thyme	5
-tiara	5
-tibia	5
-tic	3
-tical	5
-tick	4
-ticks	5
-tics	4
-tidal	5
-tide	4
-tided	5
-tides	5
-tidy	4
-tie	3
-tied	4
-tier	4
-tiers	5
-ties	4
-tiff	4
-tiffs	5
-tiger	5
-tight	5
-tigon	5
-tiki	4
-til	3
-tilde	5
-tile	4
-tiled	5
-tiler	5
-tiles	5
-till	4
-tills	5
-tilt	4
-tilth	5
-tilts	5
-time	4
-timed	5
-timer	5
-times	5
-timid	5
-tin	3
-tinct	5
-tine	4
-tinea	5
-tined	5
-tines	5
-ting	4
-tinge	5
-tings	5
-tinny	5
-tins	4
-tint	4
-tints	5
-tiny	4
-tip	3
-tips	4
-tipsy	5
-tire	4
-tired	5
-tires	5
-tit	3
-titan	5
-titch	5
-titer	5
-tithe	5
-titi	4
-titis	5
-title	5
-tits	4
-titty	5
-tizz	4
-tizzy	5
-tnpk	4
-toad	4
-toads	5
-toady	5
-toast	5
-tod	3
-today	5
-toddy	5
-tody	4
-toe	3
-toea	4
-toeas	5
-toed	4
-toes	4
-toff	4
-toffs	5
-toft	4
-tofu	4
-tog	3
-toga	4
-togas	5
-togs	4
-toil	4
-toile	5
-toils	5
-tokay	5
-toke	4
-toked	5
-token	5
-tokes	5
-tola	4
-tolan	5
-tolar	5
-told	4
-tole	4
-toll	4
-tolls	5
-tolly	5
-tolu	4
-tolus	5
-tolyl	5
-tom	3
-tomb	4
-tombs	5
-tome	4
-tomes	5
-toms	4
-ton	3
-tonal	5
-tone	4
-toned	5
-toner	5
-tones	5
-tong	4
-tonga	5
-tongs	5
-tonic	5
-tonne	5
-tons	4
-tonus	5
-tony	4
-too	3
-took	4
-tool	4
-tools	5
-toot	4
-tooth	5
-toots	5
-top	3
-topaz	5
-tope	4
-toped	5
-topee	5
-toper	5
-topes	5
-topi	4
-topic	5
-topis	5
-topog	5
-tops	4
-toque	5
-tor	3
-torah	5
-torch	5
-tore	4
-tori	4
-torii	5
-torn	4
-torr	4
-torrs	5
-tors	4
-torse	5
-torsk	5
-torso	5
-tort	4
-torte	5
-torts	5
-torus	5
-tosh	4
-toss	4
-tot	3
-total	5
-tote	4
-toted	5
-totem	5
-toter	5
-totes	5
-tots	4
-touch	5
-tough	5
-tour	4
-tours	5
-tout	4
-touts	5
-tow	3
-towed	5
-towel	5
-tower	5
-town	4
-towns	5
-tows	4
-tox	3
-toxic	5
-toxin	5
-toy	3
-toyed	5
-toys	4
-trace	5
-track	5
-tract	5
-trad	4
-trade	5
-trail	5
-train	5
-trait	5
-tram	4
-tramp	5
-trams	5
-trans	5
-trap	4
-traps	5
-trash	5
-trass	5
-trave	5
-trawl	5
-tray	4
-trays	5
-tread	5
-treas	5
-treat	5
-tree	4
-treed	5
-treen	5
-trees	5
-trek	4
-treks	5
-trend	5
-tres	4
-tress	5
-tret	4
-trews	5
-trey	4
-treys	5
-triad	5
-trial	5
-tribe	5
-trice	5
-trick	5
-tried	5
-trier	5
-tries	5
-trig	4
-trike	5
-trill	5
-trim	4
-trims	5
-trine	5
-trio	4
-trios	5
-trip	4
-tripe	5
-trips	5
-trite	5
-troat	5
-trod	4
-troll	5
-tromp	5
-tron	4
-trona	5
-trons	5
-troop	5
-trope	5
-trot	4
-troth	5
-trots	5
-trout	5
-trove	5
-trow	4
-trows	5
-troy	4
-troys	5
-truce	5
-truck	5
-trued	5
-truer	5
-trues	5
-trug	4
-trugs	5
-trull	5
-truly	5
-trump	5
-trunk	5
-truss	5
-trust	5
-truth	5
-try	3
-tryma	5
-tryst	5
-tsp	3
-ttys	4
-tub	3
-tuba	4
-tubal	5
-tubas	5
-tubby	5
-tube	4
-tubed	5
-tuber	5
-tubes	5
-tubs	4
-tuck	4
-tucks	5
-tufa	4
-tuff	4
-tuft	4
-tufts	5
-tufty	5
-tug	3
-tugs	4
-tui	3
-tulip	5
-tulle	5
-tum	3
-tumid	5
-tummy	5
-tumor	5
-tums	4
-tun	3
-tuna	4
-tunas	5
-tune	4
-tuned	5
-tuner	5
-tunes	5
-tunic	5
-tunny	5
-tuns	4
-tuple	5
-tuque	5
-turbo	5
-turd	4
-turds	5
-turf	4
-turfs	5
-turfy	5
-turn	4
-turns	5
-turps	5
-tush	4
-tushy	5
-tusk	4
-tusks	5
-tut	3
-tutor	5
-tuts	4
-tutti	5
-tutty	5
-tutu	4
-tutus	5
-tux	3
-tuxes	5
-twain	5
-twang	5
-twas	4
-twat	4
-twats	5
-tweak	5
-twee	4
-tweed	5
-tween	5
-tweet	5
-twerk	5
-twerp	5
-twice	5
-twig	4
-twigs	5
-twill	5
-twin	4
-twine	5
-twink	5
-twins	5
-twirl	5
-twist	5
-twit	4
-twits	5
-twixt	5
-two	3
-twos	4
-twp	3
-tyg	3
-tying	5
-tyke	4
-tykes	5
-typ	3
-typal	5
-type	4
-typed	5
-types	5
-typo	4
-typos	5
-typw	4
-tyro	4
-tyros	5
-udder	5
-udo	3
-ugh	3
-ugly	4
-uhf	3
-uhlan	5
-ukase	5
-ulcer	5
-ulema	5
-ulna	4
-ulnae	5
-ulnar	5
-ult	3
-ultra	5
-umbel	5
-umber	5
-umbra	5
-umiak	5
-ump	3
-umped	5
-umps	4
-unapt	5
-unarm	5
-unary	5
-unbar	5
-unbid	5
-unbox	5
-uncap	5
-uncle	5
-uncut	5
-under	5
-undid	5
-undo	4
-undue	5
-unfed	5
-unfit	5
-unfix	5
-uni	3
-unify	5
-union	5
-unis	4
-unit	4
-unite	5
-units	5
-unity	5
-univ	4
-unjam	5
-unlay	5
-unlit	5
-unman	5
-unmet	5
-unpeg	5
-unpen	5
-unpin	5
-unrig	5
-unsay	5
-unset	5
-unsex	5
-untie	5
-until	5
-unto	4
-unwed	5
-unwon	5
-unzip	5
-upas	4
-updo	4
-upend	5
-upon	4
-upped	5
-upper	5
-ups	3
-upset	5
-urban	5
-urea	4
-uredo	5
-urge	4
-urged	5
-urger	5
-urges	5
-urial	5
-uric	4
-urine	5
-urn	3
-urns	4
-urus	4
-usage	5
-use	3
-used	4
-user	4
-users	5
-uses	4
-usher	5
-using	5
-usu	3
-usual	5
-usurp	5
-usury	5
-uteri	5
-utile	5
-uts	3
-utter	5
-uvea	4
-uveas	5
-uvula	5
-vac	3
-vacs	4
-vagal	5
-vagi	4
-vague	5
-vagus	5
-vail	4
-vain	4
-vair	4
-val	3
-vale	4
-vales	5
-valet	5
-valid	5
-valor	5
-valse	5
-value	5
-valve	5
-vamp	4
-vamps	5
-vampy	5
-van	3
-vanda	5
-vane	4
-vanes	5
-vang	4
-vans	4
-vape	4
-vaped	5
-vapes	5
-vapid	5
-vapor	5
-var	3
-vara	4
-varas	5
-varia	5
-varix	5
-vars	4
-varus	5
-varve	5
-vary	4
-vas	3
-vasa	4
-vase	4
-vases	5
-vast	4
-vasts	5
-vasty	5
-vat	3
-vatic	5
-vats	4
-vatu	4
-vault	5
-vaunt	5
-vav	3
-veal	4
-vedic	5
-veep	4
-veeps	5
-veer	4
-veers	5
-veery	5
-veg	3
-vegan	5
-veges	5
-vegs	4
-veil	4
-veils	5
-vein	4
-veins	5
-veiny	5
-vel	3
-vela	4
-velar	5
-veld	4
-velds	5
-velum	5
-vena	4
-venae	5
-venal	5
-vend	4
-vends	5
-venge	5
-venin	5
-venom	5
-vent	4
-vents	5
-venue	5
-verb	4
-verbs	5
-verge	5
-versa	5
-verse	5
-verso	5
-verst	5
-vert	4
-vertu	5
-verve	5
-very	4
-vest	4
-vesta	5
-vests	5
-vet	3
-vetch	5
-veter	5
-veto	4
-vets	4
-vex	3
-vexed	5
-vexes	5
-vhf	3
-via	3
-vial	4
-vials	5
-viand	5
-vibe	4
-vibes	5
-vicar	5
-vice	4
-viced	5
-vices	5
-vide	4
-video	5
-vie	3
-vied	4
-vier	4
-vies	4
-view	4
-views	5
-viewy	5
-vigil	5
-vigor	5
-vii	3
-viii	4
-vil	3
-vile	4
-viler	5
-villa	5
-villi	5
-vim	3
-vimen	5
-vina	4
-vine	4
-vines	5
-vinic	5
-vino	4
-vinyl	5
-viol	4
-viola	5
-viols	5
-viper	5
-viral	5
-vireo	5
-virga	5
-virtu	5
-virus	5
-visa	4
-visas	5
-vise	4
-vised	5
-vises	5
-visit	5
-visor	5
-vista	5
-vita	4
-vitae	5
-vital	5
-vitta	5
-viva	4
-vivas	5
-vive	4
-vivid	5
-vixen	5
-viz	3
-vlf	3
-voc	3
-vocab	5
-vocal	5
-vodka	5
-voe	3
-voes	4
-vogue	5
-voice	5
-void	4
-voids	5
-voila	5
-voile	5
-vol	3
-volar	5
-vole	4
-voles	5
-vols	4
-volt	4
-volts	5
-volva	5
-vomer	5
-vomit	5
-vote	4
-voted	5
-voter	5
-votes	5
-vouch	5
-vouge	5
-vow	3
-vowed	5
-vowel	5
-vower	5
-vows	4
-vulg	4
-vulva	5
-vying	5
-wack	4
-wacke	5
-wacko	5
-wacks	5
-wacky	5
-wad	3
-wade	4
-waded	5
-wader	5
-wades	5
-wadge	5
-wadi	4
-wadis	5
-wads	4
-wafer	5
-waft	4
-wafts	5
-wag	3
-wage	4
-waged	5
-wager	5
-wages	5
-wagon	5
-wags	4
-wahoo	5
-waif	4
-waifs	5
-wail	4
-wails	5
-wain	4
-wains	5
-waist	5
-wait	4
-waits	5
-waive	5
-wake	4
-waked	5
-waken	5
-wakes	5
-waldo	5
-wale	4
-waled	5
-wales	5
-walk	4
-walks	5
-wall	4
-walls	5
-wally	5
-waltz	5
-wame	4
-wan	3
-wand	4
-wands	5
-wane	4
-waned	5
-wanes	5
-wank	4
-wanks	5
-wanly	5
-wanna	5
-want	4
-wants	5
-war	3
-ward	4
-wards	5
-ware	4
-wares	5
-warez	5
-warm	4
-warms	5
-warn	4
-warns	5
-warp	4
-warps	5
-wars	4
-wart	4
-warts	5
-warty	5
-wary	4
-was	3
-wash	4
-washy	5
-wasp	4
-wasps	5
-wast	4
-waste	5
-wat	3
-watch	5
-water	5
-watt	4
-watts	5
-wave	4
-waved	5
-waver	5
-waves	5
-wavy	4
-waw	3
-waws	4
-wax	3
-waxed	5
-waxen	5
-waxes	5
-waxy	4
-way	3
-ways	4
-wazoo	5
-weak	4
-weal	4
-weald	5
-weals	5
-wean	4
-weans	5
-wear	4
-wears	5
-weary	5
-weave	5
-web	3
-webby	5
-weber	5
-webs	4
-wed	3
-wedge	5
-weds	4
-wee	3
-weed	4
-weeds	5
-weedy	5
-week	4
-weeks	5
-ween	4
-weens	5
-weeny	5
-weep	4
-weeps	5
-weepy	5
-weer	4
-wees	4
-weest	5
-weft	4
-wefts	5
-weigh	5
-weir	4
-weird	5
-weirs	5
-weka	4
-wekas	5
-weld	4
-welds	5
-well	4
-wells	5
-welly	5
-welsh	5
-welt	4
-welts	5
-wen	3
-wench	5
-wend	4
-wends	5
-wens	4
-went	4
-wept	4
-were	4
-wersh	5
-wert	4
-west	4
-wet	3
-wetly	5
-wets	4
-whack	5
-whale	5
-wham	4
-whams	5
-whap	4
-whaps	5
-wharf	5
-what	4
-whats	5
-wheal	5
-wheat	5
-whee	4
-wheel	5
-wheen	5
-whelk	5
-whelm	5
-whelp	5
-when	4
-whens	5
-where	5
-whet	4
-whets	5
-whew	4
-whey	4
-whf	3
-which	5
-whiff	5
-while	5
-whim	4
-whims	5
-whin	4
-whine	5
-whins	5
-whiny	5
-whip	4
-whips	5
-whipt	5
-whir	4
-whirl	5
-whirs	5
-whish	5
-whisk	5
-whist	5
-whit	4
-white	5
-whits	5
-whity	5
-whiz	4
-whizz	5
-who	3
-whoa	4
-whole	5
-whom	4
-whomp	5
-whoop	5
-whop	4
-whops	5
-whore	5
-whorl	5
-whose	5
-whoso	5
-whsle	5
-whup	4
-whups	5
-why	3
-whys	4
-wick	4
-wicks	5
-wide	4
-widen	5
-wider	5
-wides	5
-widow	5
-width	5
-wield	5
-wife	4
-wig	3
-wight	5
-wigs	4
-wiki	4
-wikis	5
-wild	4
-wilds	5
-wile	4
-wiled	5
-wiles	5
-will	4
-wills	5
-willy	5
-wilt	4
-wilts	5
-wily	4
-wimp	4
-wimps	5
-wimpy	5
-win	3
-wince	5
-winch	5
-wind	4
-winds	5
-windy	5
-wine	4
-wined	5
-wines	5
-wing	4
-wings	5
-wink	4
-winks	5
-wino	4
-winos	5
-wins	4
-winy	4
-winze	5
-wipe	4
-wiped	5
-wiper	5
-wipes	5
-wire	4
-wired	5
-wirer	5
-wires	5
-wirra	5
-wiry	4
-wise	4
-wised	5
-wiser	5
-wises	5
-wish	4
-wisp	4
-wisps	5
-wispy	5
-wist	4
-wit	3
-witch	5
-wite	4
-with	4
-withe	5
-withy	5
-wits	4
-witty	5
-wive	4
-wived	5
-wives	5
-wiz	3
-wizen	5
-wizes	5
-wkly	4
-wmk	3
-woad	4
-woald	5
-wodge	5
-woe	3
-woes	4
-wog	3
-wogs	4
-wok	3
-woke	4
-woken	5
-woks	4
-wold	4
-wolds	5
-wolf	4
-wolfs	5
-woman	5
-womb	4
-wombs	5
-women	5
-won	3
-wonk	4
-wonks	5
-wonky	5
-wont	4
-woo	3
-wood	4
-woods	5
-woody	5
-wooed	5
-wooer	5
-woof	4
-woofs	5
-wool	4
-wools	5
-woops	5
-woos	4
-woozy	5
-wop	3
-wops	4
-word	4
-words	5
-wordy	5
-wore	4
-work	4
-works	5
-world	5
-worm	4
-worms	5
-wormy	5
-worn	4
-worry	5
-worse	5
-worst	5
-wort	4
-worth	5
-wot	3
-would	5
-wound	5
-wove	4
-woven	5
-wow	3
-wowed	5
-wows	4
-wpm	3
-wrack	5
-wrap	4
-wraps	5
-wrath	5
-wreak	5
-wreck	5
-wren	4
-wrens	5
-wrest	5
-wring	5
-wrist	5
-writ	4
-write	5
-writs	5
-wrong	5
-wrote	5
-wroth	5
-wrung	5
-wry	3
-wryer	5
-wryly	5
-wurst	5
-wuss	4
-wussy	5
-wynd	4
-xci	3
-xcii	4
-xciv	4
-xcix	4
-xcvi	4
-xcvii	5
-xebec	5
-xenia	5
-xenon	5
-xeric	5
-xerox	5
-xii	3
-xiii	4
-xis	3
-xiv	3
-xix	3
-xor	3
-xref	4
-xrefs	5
-xterm	5
-xvi	3
-xvii	4
-xviii	5
-xxi	3
-xxii	4
-xxiii	5
-xxiv	4
-xxix	4
-xxv	3
-xxvi	4
-xxvii	5
-xxx	3
-xxxi	4
-xxxii	5
-xxxiv	5
-xxxix	5
-xxxv	4
-xxxvi	5
-xylem	5
-xylol	5
-yacht	5
-yah	3
-yahoo	5
-yak	3
-yakka	5
-yaks	4
-yam	3
-yamen	5
-yams	4
-yang	4
-yank	4
-yanks	5
-yap	3
-yapok	5
-yapon	5
-yappy	5
-yaps	4
-yard	4
-yards	5
-yare	4
-yarn	4
-yarns	5
-yaw	3
-yawed	5
-yawl	4
-yawls	5
-yawn	4
-yawns	5
-yawp	4
-yawps	5
-yaws	4
-yea	3
-yeah	4
-yeahs	5
-yean	4
-yeans	5
-year	4
-yearn	5
-years	5
-yeas	4
-yeast	5
-yegg	4
-yeggs	5
-yeld	4
-yell	4
-yells	5
-yelp	4
-yelps	5
-yen	3
-yens	4
-yenta	5
-yep	3
-yeps	4
-yer	3
-yes	3
-yeses	5
-yest	4
-yet	3
-yeti	4
-yetis	5
-yew	3
-yews	4
-yid	3
-yids	4
-yield	5
-yikes	5
-yin	3
-yip	3
-yipe	4
-yips	4
-ylem	4
-yob	3
-yobbo	5
-yobs	4
-yod	3
-yodel	5
-yodle	5
-yoga	4
-yogh	4
-yogi	4
-yogic	5
-yogis	5
-yoke	4
-yoked	5
-yokel	5
-yokes	5
-yolk	4
-yolks	5
-yon	3
-yoni	4
-yonks	5
-yore	4
-york	4
-you	3
-young	5
-your	4
-yours	5
-yous	4
-youth	5
-yow	3
-yowl	4
-yowls	5
-yrs	3
-yuan	4
-yucca	5
-yuck	4
-yucks	5
-yucky	5
-yuk	3
-yukky	5
-yuks	4
-yulan	5
-yule	4
-yum	3
-yummy	5
-yup	3
-yups	4
-yurt	4
-yurts	5
-ywis	4
-zaire	5
-zamia	5
-zany	4
-zap	3
-zappy	5
-zaps	4
-zarf	4
-zarfs	5
-zayin	5
-zazen	5
-zeal	4
-zebec	5
-zebra	5
-zebu	4
-zebus	5
-zed	3
-zeds	4
-zee	3
-zees	4
-zen	3
-zens	4
-zero	4
-zeros	5
-zest	4
-zests	5
-zesty	5
-zeta	4
-zetas	5
-zibet	5
-zig	3
-zigs	4
-zilch	5
-zinc	4
-zincs	5
-zine	4
-zines	5
-zing	4
-zings	5
-zingy	5
-zip	3
-zippy	5
-zips	4
-zit	3
-ziti	4
-zitis	5
-zits	4
-zloty	5
-zoa	3
-zonal	5
-zone	4
-zoned	5
-zones	5
-zonk	4
-zoo	3
-zooid	5
-zool	4
-zoom	4
-zooms	5
-zoon	4
-zoos	4
-zorch	5
-zoril	5
+aah
+aalii
+aba
+abaca
+aback
+abaft
+abamp
+abas
+abase
+abash
+abate
+abb
+abba
+abbe
+abbes
+abbey
+abbot
+abbr
+abeam
+abed
+abele
+abet
+abets
+abhor
+abide
+abies
+abl
+able
+abler
+ably
+abmho
+abode
+abohm
+abort
+about
+above
+abr
+abri
+abs
+abuse
+abut
+abuts
+abuzz
+aby
+abysm
+abyss
+acari
+acc
+accel
+acct
+ace
+aced
+acerb
+aces
+ache
+ached
+aches
+achoo
+achy
+acid
+acids
+acing
+acini
+acme
+acmes
+acne
+acned
+acorn
+acpt
+acre
+acred
+acres
+acrid
+act
+acted
+actg
+actin
+actor
+acts
+acute
+acyl
+adage
+adapt
+add
+addax
+added
+adder
+addle
+adds
+adept
+adieu
+adios
+adit
+adits
+adj
+adjt
+adman
+admen
+admin
+admit
+admix
+ado
+adobe
+adopt
+adore
+adorn
+adown
+ads
+adult
+adust
+adv
+advt
+adz
+adze
+adzes
+aecia
+aedes
+aegis
+aeon
+aeons
+aerie
+aero
+aeron
+aery
+afar
+affix
+afire
+afoot
+afore
+afoul
+afrit
+aft
+after
+aga
+again
+agama
+agape
+agar
+agate
+agave
+agcy
+age
+aged
+agee
+agent
+ages
+agger
+aggie
+aggro
+agha
+agile
+aging
+agio
+agios
+agist
+agita
+aglet
+agley
+aglow
+agma
+ago
+agog
+agon
+agone
+agony
+agora
+agr
+agree
+agric
+agron
+ague
+aha
+ahead
+ahem
+ahoy
+aid
+aide
+aided
+aider
+aides
+aids
+ail
+ailed
+ails
+aim
+aimed
+aims
+ain
+aioli
+air
+aired
+airs
+airt
+airts
+airy
+ais
+aisle
+ait
+aitch
+ajar
+aka
+akee
+akees
+akene
+akin
+ala
+alack
+alae
+alar
+alarm
+alary
+alas
+alate
+alb
+alba
+albs
+album
+alder
+aldol
+ale
+alee
+aleph
+alert
+ales
+alg
+alga
+algae
+algal
+algid
+algin
+algor
+alias
+alibi
+alien
+align
+alike
+alive
+alk
+alky
+alkyd
+alkyl
+all
+allay
+allee
+alley
+allot
+allow
+alloy
+ally
+allyl
+alms
+aloe
+aloes
+aloft
+aloha
+aloin
+alone
+along
+aloof
+aloud
+alow
+alp
+alpha
+alps
+also
+alt
+altar
+alter
+alto
+altos
+alts
+alula
+alum
+alums
+amah
+amahs
+amain
+amass
+amaze
+amber
+ambit
+amble
+ambo
+ambos
+ambry
+ameba
+amen
+amend
+ament
+ami
+amice
+amid
+amide
+amie
+amigo
+amine
+amino
+amir
+amirs
+amiss
+amity
+ammo
+amnio
+amok
+among
+amour
+amp
+ample
+amply
+amps
+amt
+amu
+amuck
+amuse
+amyl
+ana
+anal
+anas
+anat
+ancon
+and
+ane
+anear
+anele
+anent
+anew
+angel
+anger
+angle
+angry
+angst
+anil
+anile
+anils
+anim
+anima
+anime
+anion
+anis
+anise
+ankh
+ankhs
+ankle
+ankus
+ann
+anna
+annal
+annas
+annex
+annoy
+annul
+anoa
+anoas
+anode
+anole
+anon
+anons
+ans
+ant
+anta
+ante
+anted
+antes
+anti
+antic
+antiq
+antis
+antre
+ants
+antsy
+anus
+anvil
+any
+aorta
+apace
+apart
+ape
+apeak
+aped
+apery
+apes
+apex
+aphid
+aphis
+apian
+aping
+apish
+apnea
+aport
+app
+appel
+apple
+apply
+apps
+apron
+apse
+apses
+apsis
+apt
+apter
+aptly
+aqua
+aquas
+arak
+araks
+arb
+arbor
+arbs
+arc
+arced
+arch
+archt
+arcs
+ardeb
+ardor
+are
+area
+areal
+areas
+areca
+arena
+ares
+arete
+argal
+argil
+argol
+argon
+argot
+argue
+aria
+arias
+arid
+ariel
+aril
+arils
+arise
+ark
+arks
+arm
+armed
+armet
+armor
+arms
+army
+aroid
+aroma
+arose
+arr
+arras
+array
+arris
+arrow
+arsed
+arsis
+arson
+art
+artel
+arts
+artsy
+arty
+arum
+arums
+arvo
+aryl
+asap
+asci
+ascot
+ascus
+asdic
+ash
+ashed
+ashen
+ashes
+ashy
+aside
+ask
+asked
+asker
+askew
+asks
+asp
+aspen
+asper
+aspic
+asps
+ass
+assai
+assay
+asses
+asset
+assn
+assoc
+asst
+aster
+astir
+astr
+ate
+atilt
+atlas
+atm
+atman
+atoll
+atom
+atoms
+atomy
+atone
+atony
+atop
+atria
+atrip
+att
+attar
+attic
+attn
+atty
+aud
+audio
+audit
+aug
+auger
+aught
+augur
+auk
+auks
+aulic
+aulos
+aunt
+aunts
+aura
+aural
+aurar
+auras
+auric
+aurum
+auth
+auto
+autos
+aux
+auxin
+avail
+avast
+avdp
+ave
+avens
+aver
+avers
+avert
+avg
+avian
+avid
+avion
+avn
+avo
+avoid
+avoir
+avos
+avow
+avows
+await
+awake
+award
+aware
+awash
+away
+awe
+awed
+awes
+awful
+awing
+awl
+awls
+awn
+awned
+awns
+awoke
+awol
+awry
+axed
+axes
+axial
+axil
+axils
+axing
+axiom
+axis
+axle
+axles
+axon
+axons
+ayah
+ayahs
+aye
+ayes
+ayin
+ayins
+azan
+azide
+azine
+azo
+azoic
+azole
+azote
+azoth
+azure
+baa
+baaed
+baas
+baba
+babas
+babe
+babel
+babes
+babul
+baby
+baccy
+bach
+back
+backs
+bacon
+bact
+bad
+baddy
+bade
+badge
+badly
+bag
+bagel
+baggy
+bags
+bah
+baht
+bahts
+bail
+bails
+bairn
+bait
+baits
+baiza
+baize
+bake
+baked
+baker
+bakes
+bal
+balas
+bald
+balds
+baldy
+bale
+baled
+baler
+bales
+balk
+balks
+balky
+ball
+balls
+bally
+balm
+balms
+balmy
+balsa
+ban
+banal
+banc
+band
+bands
+bandy
+bane
+banes
+bang
+bangs
+bani
+banjo
+bank
+banks
+banns
+bans
+bant
+bap
+baps
+bar
+barb
+barbs
+bard
+barde
+bards
+bare
+bared
+barer
+bares
+barf
+barfs
+barge
+baric
+barit
+bark
+barks
+barm
+barms
+barmy
+barn
+barns
+baron
+barre
+bars
+barye
+basal
+base
+based
+baser
+bases
+bash
+basic
+basil
+basin
+basis
+bask
+basks
+bass
+basso
+bast
+baste
+bat
+batch
+bate
+bated
+bates
+bath
+bathe
+baths
+batik
+baton
+bats
+batt
+batty
+baud
+bauds
+bawd
+bawds
+bawdy
+bawl
+bawls
+bay
+bayed
+bayou
+bays
+bazar
+bbl
+bdl
+bdrm
+beach
+bead
+beads
+beady
+beak
+beaks
+beam
+beams
+beamy
+bean
+beano
+beans
+bear
+beard
+bears
+beast
+beat
+beats
+beau
+beaus
+beaut
+beaux
+bebop
+beck
+becks
+bed
+bedel
+bedew
+bedim
+beds
+bee
+beech
+beef
+beefs
+beefy
+been
+beep
+beeps
+beer
+beers
+beery
+bees
+beet
+beets
+befit
+befog
+beg
+began
+begat
+beget
+begin
+begot
+begs
+begum
+begun
+beige
+being
+bel
+belay
+belch
+belga
+belie
+bell
+belle
+bells
+belly
+below
+bels
+belt
+belts
+bema
+bemas
+ben
+bench
+bend
+bends
+bendy
+benne
+benny
+bens
+bent
+bents
+beret
+berg
+bergs
+berk
+berks
+berm
+berms
+berry
+berth
+beryl
+beset
+besom
+besot
+best
+bests
+bet
+beta
+betas
+betel
+beth
+beths
+bets
+betta
+bevel
+bevvy
+bevy
+bey
+beys
+bezel
+bhaji
+bhang
+bialy
+bias
+bib
+bibb
+bibl
+bible
+bibs
+bice
+bicep
+bid
+biddy
+bide
+bides
+bidet
+bids
+bield
+bier
+biers
+biff
+biffs
+bifid
+big
+bight
+bigot
+bijou
+bike
+biked
+biker
+bikes
+bilbo
+bile
+bilge
+bilk
+bilks
+bill
+bills
+billy
+bimah
+bimbo
+bin
+binal
+bind
+binds
+bine
+bines
+binge
+bingo
+bins
+bio
+biog
+biol
+biome
+bios
+biota
+biped
+bipod
+birch
+bird
+birds
+birl
+birls
+birr
+birrs
+birth
+bis
+bises
+bisk
+bison
+bit
+bitch
+bite
+biter
+bites
+bits
+bitt
+bitts
+bitty
+biz
+bize
+bkcy
+bkg
+bks
+blab
+blabs
+black
+blade
+blag
+blags
+blah
+blahs
+blain
+blame
+bland
+blank
+blare
+blase
+blast
+blat
+blate
+blats
+blaze
+bldg
+bleak
+blear
+bleat
+bleb
+blebs
+bled
+bleed
+bleep
+blend
+bless
+blew
+blimp
+blind
+bling
+blini
+blink
+blip
+blips
+bliss
+blitz
+blk
+bloat
+blob
+blobs
+bloc
+block
+blocs
+blog
+blogs
+bloke
+blond
+blood
+bloom
+bloop
+blot
+blots
+blow
+blown
+blows
+blowy
+blue
+blued
+bluer
+blues
+bluet
+bluey
+bluff
+blunt
+blur
+blurb
+blurs
+blurt
+blush
+blvd
+boa
+boar
+board
+boars
+boart
+boas
+boast
+boat
+boats
+bob
+bobby
+bobs
+bocce
+bocci
+bock
+bod
+bode
+boded
+bodes
+bodge
+bods
+body
+boffo
+bog
+boga
+bogey
+boggy
+bogie
+bogle
+bogon
+bogs
+bogus
+boil
+boils
+boink
+bola
+bolas
+bold
+bole
+boles
+boll
+bolls
+bolo
+bolos
+bolt
+bolts
+bolus
+bomb
+bombe
+bombs
+bonce
+bond
+bonds
+bone
+boned
+boner
+bones
+bong
+bongo
+bongs
+bonk
+bonks
+bonne
+bonny
+bonus
+bony
+bonze
+boo
+boob
+boobs
+booby
+booed
+book
+books
+boom
+booms
+boon
+boong
+boons
+boor
+boors
+boos
+boost
+boot
+booth
+boots
+booty
+booze
+boozy
+bop
+bops
+bor
+bora
+borak
+borax
+bore
+bored
+borer
+bores
+borg
+boric
+born
+borne
+boron
+bort
+bosh
+bosk
+bosky
+bosom
+boson
+boss
+bossy
+bosun
+bot
+botch
+botel
+both
+bothy
+bots
+bott
+bough
+boule
+bound
+bouse
+bout
+bouts
+bovid
+bow
+bowed
+bowel
+bower
+bowl
+bowls
+bows
+bowse
+box
+boxed
+boxen
+boxer
+boxes
+boxy
+boy
+boyar
+boyla
+boys
+bozo
+bozos
+bpm
+bps
+bra
+brace
+brach
+bract
+brad
+brads
+brae
+braes
+brag
+brags
+braid
+brail
+brain
+brake
+bran
+brand
+brant
+bras
+brash
+brass
+brat
+brats
+brave
+bravo
+braw
+brawl
+brawn
+braxy
+bray
+brays
+braze
+bread
+break
+bream
+bred
+brede
+bree
+breed
+brei
+brent
+breve
+brew
+brews
+briar
+bribe
+brick
+bride
+brie
+brief
+brier
+brig
+brigs
+brill
+brim
+brims
+brine
+bring
+brink
+briny
+brio
+bris
+brisk
+brit
+brits
+bro
+broad
+broch
+brock
+broil
+broke
+bronc
+brood
+brook
+broom
+bros
+brose
+broth
+brow
+brown
+brows
+brr
+bruin
+bruit
+brume
+brunt
+brush
+brut
+brute
+btl
+btry
+bub
+bubal
+bubba
+bubo
+bubs
+buck
+bucko
+bucks
+bud
+buddy
+budge
+buds
+bueno
+buff
+buffo
+buffs
+bug
+buggy
+bugle
+bugs
+buhl
+buhls
+buhr
+build
+built
+bul
+bulb
+bulbs
+bulge
+bulgy
+bulk
+bulks
+bulky
+bull
+bulla
+bulls
+bully
+bum
+bumf
+bump
+bumph
+bumps
+bumpy
+bums
+bun
+bunch
+bunco
+bund
+bung
+bungs
+bunk
+bunko
+bunks
+bunny
+buns
+bunt
+bunts
+buoy
+buoys
+bur
+buran
+burbs
+buret
+burg
+burgh
+burgs
+burin
+burka
+burke
+burl
+burls
+burly
+burn
+burns
+burnt
+burp
+burps
+burr
+burro
+burrs
+burry
+burs
+bursa
+burse
+burst
+bury
+bus
+busby
+bused
+buses
+bush
+bushy
+busk
+busks
+buss
+bust
+busts
+busty
+busy
+but
+butch
+buteo
+buts
+butt
+butte
+butts
+butty
+butut
+butyl
+buxom
+buy
+buyer
+buys
+buzz
+bwana
+bxs
+bye
+byes
+bylaw
+byre
+byres
+byte
+bytes
+byway
+cab
+cabal
+cabby
+caber
+cabin
+cable
+cabob
+cabs
+cacao
+cache
+cacti
+cad
+cade
+cadet
+cadge
+cadi
+cadre
+cads
+cafe
+cafes
+caff
+caffs
+cage
+caged
+cager
+cages
+cagey
+cain
+caird
+cairn
+cake
+caked
+cakes
+caky
+cal
+calf
+calk
+calks
+call
+calla
+calls
+calm
+calms
+calve
+calx
+calyx
+cam
+came
+camel
+cameo
+camp
+campo
+camps
+campy
+cams
+can
+canal
+canc
+candy
+cane
+caned
+caner
+canes
+canna
+canny
+canoe
+canon
+cans
+canso
+canst
+cant
+canto
+cants
+canty
+cap
+cape
+caped
+caper
+capes
+capo
+capon
+capos
+caps
+capt
+caput
+car
+carat
+carbs
+card
+cards
+care
+cared
+carer
+cares
+caret
+cargo
+cark
+carks
+carl
+carny
+carob
+carol
+carom
+carp
+carpi
+carps
+carry
+cars
+carse
+cart
+carte
+carts
+carve
+casa
+case
+cased
+cases
+cash
+cask
+casks
+cast
+caste
+casts
+cat
+catch
+cate
+cater
+cats
+catty
+cauda
+caul
+caulk
+cauls
+caus
+cause
+cave
+caved
+caver
+caves
+cavie
+cavil
+cavy
+caw
+cawed
+caws
+cay
+cays
+cease
+ceca
+cecal
+cecum
+cedar
+cede
+ceded
+ceder
+cedes
+cedi
+cedis
+ceiba
+ceil
+celeb
+cell
+cella
+cello
+cells
+celom
+celt
+cen
+cense
+cent
+cento
+cents
+ceorl
+cere
+cered
+ceres
+ceria
+ceric
+cero
+ceros
+cert
+certs
+cesar
+cess
+cesta
+cha
+chad
+chads
+chafe
+chaff
+chain
+chair
+chalk
+cham
+champ
+chant
+chaos
+chap
+chape
+chaps
+char
+chard
+chare
+charm
+charr
+chars
+chart
+chary
+chase
+chasm
+chat
+chats
+chaw
+chaws
+cheap
+cheat
+check
+cheek
+cheep
+cheer
+chef
+chefs
+chela
+chem
+chemo
+chert
+chess
+chest
+chevy
+chew
+chews
+chewy
+chez
+chg
+chge
+chi
+chiao
+chic
+chick
+chico
+chide
+chief
+child
+chili
+chill
+chimb
+chime
+chimp
+chin
+china
+chine
+ching
+chink
+chino
+chins
+chip
+chips
+chirk
+chirm
+chirp
+chirr
+chis
+chit
+chits
+chive
+chivy
+chm
+choc
+chock
+chocs
+choir
+choke
+choli
+chomp
+chon
+chook
+chop
+chops
+chord
+chore
+chose
+chou
+chow
+chows
+chron
+chs
+chub
+chubs
+chuck
+chufa
+chuff
+chug
+chugs
+chum
+chump
+chums
+chunk
+churl
+churn
+churr
+chute
+chyle
+chyme
+ciao
+ciaos
+cider
+cig
+cigar
+cilia
+cimex
+cinch
+cine
+cion
+cir
+circa
+cire
+cirri
+cis
+cisco
+cist
+cit
+cite
+cited
+cites
+city
+civ
+civet
+civic
+civil
+clack
+clad
+clade
+claim
+clam
+clamp
+clams
+clan
+clang
+clank
+clans
+clap
+claps
+claro
+clary
+clash
+clasp
+class
+clave
+clavi
+claw
+claws
+clay
+clays
+clean
+clear
+cleat
+cleek
+clef
+clefs
+cleft
+clem
+clepe
+clerk
+clew
+clews
+click
+cliff
+clii
+climb
+clime
+cline
+cling
+clink
+clip
+clips
+clit
+clits
+clix
+cloak
+clock
+clod
+clods
+clog
+clogs
+clomb
+clomp
+clone
+clonk
+clop
+clops
+clos
+close
+clot
+cloth
+clots
+cloud
+clout
+clove
+clown
+cloy
+cloys
+club
+clubs
+cluck
+clue
+clued
+clues
+clump
+clung
+clunk
+clvi
+clvii
+clxi
+clxii
+clxiv
+clxix
+clxvi
+cml
+coach
+coact
+coal
+coals
+coaly
+coast
+coat
+coati
+coats
+coax
+cob
+cobia
+coble
+cobra
+cobs
+coca
+cocci
+cock
+cocks
+cocky
+coco
+cocoa
+cocos
+cod
+coda
+codas
+code
+coded
+coder
+codes
+codex
+codon
+cods
+coed
+coeds
+coff
+cog
+cogon
+cogs
+coho
+cohos
+coif
+coifs
+coign
+coil
+coils
+coin
+coins
+coir
+coirs
+coke
+coked
+cokes
+col
+cola
+colas
+cold
+colds
+cole
+coles
+coley
+coli
+colic
+coll
+colly
+colon
+color
+cols
+colt
+colts
+coly
+colza
+com
+coma
+comas
+comb
+combe
+combo
+combs
+comdg
+come
+comer
+comes
+comet
+comfy
+comic
+comm
+comma
+comp
+compo
+comps
+con
+conc
+conch
+condo
+cone
+coned
+cones
+coney
+conf
+cong
+conga
+conic
+conj
+conk
+conks
+conn
+conns
+cons
+cont
+contd
+conte
+conto
+contr
+cony
+coo
+cooed
+cooee
+cook
+cooks
+cooky
+cool
+cools
+coom
+coomb
+coon
+coons
+coop
+coops
+coos
+coot
+coots
+cop
+copal
+copay
+cope
+coped
+coper
+copes
+copra
+cops
+copse
+copy
+cor
+coral
+cord
+cords
+core
+cored
+corer
+cores
+corf
+corgi
+coria
+cork
+corks
+corky
+corm
+corms
+corn
+corns
+cornu
+corny
+corp
+corps
+corr
+corse
+cos
+cosec
+coset
+cosh
+coss
+cost
+costa
+coste
+costs
+cot
+cote
+cotes
+coth
+cots
+cotta
+couch
+cough
+could
+count
+coup
+coupe
+coups
+court
+couth
+cove
+coven
+cover
+coves
+covet
+covey
+covin
+cow
+cowed
+cower
+cowl
+cowls
+cows
+cox
+coxa
+coxae
+coxed
+coxes
+coy
+coyer
+coyly
+coypu
+coz
+coze
+cozen
+cozy
+cpd
+cpl
+cps
+craal
+crab
+crabs
+crack
+craft
+crag
+crags
+crake
+cram
+cramp
+crams
+crane
+crank
+crap
+crape
+craps
+crapy
+crash
+crass
+crate
+crave
+craw
+crawl
+craws
+cray
+crays
+craze
+crazy
+creak
+cream
+cred
+credo
+creed
+creek
+creel
+creep
+creme
+crepe
+crept
+cress
+crest
+crew
+crews
+crib
+cribs
+crick
+cried
+crier
+cries
+crim
+crime
+crimp
+crine
+crisp
+crit
+croak
+crock
+croft
+crone
+cronk
+crony
+crook
+croon
+crop
+crops
+crore
+cross
+croup
+crow
+crowd
+crown
+crows
+croze
+cru
+cruck
+crud
+crude
+cruel
+cruet
+cruft
+crumb
+crump
+crus
+cruse
+crush
+crust
+crux
+crwth
+cry
+crypt
+cryst
+csc
+csch
+ctn
+ctr
+cts
+cub
+cubby
+cube
+cubeb
+cubed
+cuber
+cubes
+cubic
+cubit
+cubs
+cud
+cuddy
+cuds
+cue
+cued
+cues
+cuff
+cuffs
+cuing
+cuke
+cukes
+culch
+culet
+culex
+cull
+culls
+cully
+culm
+culms
+culpa
+cult
+cults
+cum
+cumin
+cums
+cunt
+cunts
+cup
+cupel
+cupid
+cuppa
+cups
+cur
+curb
+curbs
+curch
+curd
+curds
+curdy
+cure
+cured
+curer
+cures
+curet
+curia
+curie
+curio
+curl
+curls
+curly
+curry
+curs
+curse
+curt
+curve
+curvy
+cusec
+cushy
+cusk
+cusks
+cusp
+cusps
+cuss
+cut
+cutch
+cute
+cuter
+cutey
+cutie
+cutin
+cutis
+cuts
+cutty
+cutup
+cwm
+cwms
+cwt
+cyan
+cycad
+cycle
+cyl
+cylix
+cyma
+cymar
+cymas
+cyme
+cymes
+cynic
+cyst
+cysts
+cyton
+czar
+czars
+dab
+dabs
+dace
+daces
+dacha
+dad
+dada
+dadas
+daddy
+dado
+dados
+dads
+daff
+daffy
+daft
+dag
+dago
+dagos
+dags
+dah
+dahl
+dahls
+dahs
+daily
+dairy
+dais
+daisy
+dak
+daks
+dale
+dales
+dally
+dam
+daman
+damar
+dame
+dames
+damn
+damns
+damp
+damps
+dams
+dance
+dandy
+dang
+dangs
+danio
+dank
+dap
+dare
+dared
+darer
+dares
+darg
+daric
+dark
+darky
+darn
+darns
+dart
+darts
+dash
+dat
+data
+date
+dated
+dater
+dates
+dato
+datum
+daub
+daube
+daubs
+daunt
+davit
+daw
+dawn
+dawns
+daws
+day
+days
+daze
+dazed
+dazes
+dbl
+dded
+dding
+dds
+dead
+deaf
+deal
+deals
+dealt
+dean
+deans
+dear
+dears
+deary
+death
+deb
+debag
+debar
+debit
+debs
+debt
+debts
+debug
+debus
+debut
+dec
+decaf
+decal
+decay
+decd
+deck
+decks
+decl
+deco
+decor
+decoy
+decry
+dedal
+deed
+deeds
+deem
+deems
+deep
+deeps
+deer
+def
+defer
+defog
+deft
+defy
+deg
+degas
+deice
+deify
+deign
+deil
+deism
+deist
+deity
+dekko
+del
+delay
+dele
+delft
+deli
+delis
+dell
+dells
+delta
+delve
+deme
+demit
+demo
+demob
+demon
+demos
+demur
+demy
+den
+denar
+dene
+denim
+denom
+dens
+dense
+dent
+dents
+deny
+dep
+depot
+dept
+depth
+der
+derby
+deriv
+derma
+derry
+derv
+desc
+desex
+desk
+desks
+deter
+detox
+deuce
+deva
+devil
+dew
+dewan
+dews
+dewy
+dey
+dhobi
+dhole
+dhoti
+dhow
+dhows
+diag
+dial
+dials
+diam
+diary
+diazo
+dib
+dibs
+dice
+diced
+dicer
+dices
+dicey
+dick
+dicks
+dicky
+dicot
+dict
+dicta
+did
+dido
+didos
+didst
+die
+died
+dies
+diet
+diets
+diff
+diffs
+dig
+dight
+digit
+digs
+dike
+diked
+dikes
+dildo
+dill
+dills
+dilly
+dim
+dime
+dimer
+dimes
+dimly
+dims
+din
+dinar
+dine
+dined
+diner
+dines
+ding
+dinge
+dingo
+dings
+dingy
+dink
+dinky
+dins
+dint
+dints
+diode
+dip
+dipl
+dippy
+dips
+dipso
+dir
+dire
+direr
+dirge
+dirk
+dirks
+dirt
+dirty
+dis
+disc
+disco
+discs
+dish
+dishy
+disk
+disks
+dist
+distr
+dit
+ditch
+dits
+ditsy
+ditto
+ditty
+ditz
+ditzy
+div
+diva
+divan
+divas
+dive
+dived
+diver
+dives
+divot
+divvy
+diwan
+dixie
+dizen
+dizzy
+dkl
+dlr
+dlvy
+dob
+dobby
+dobla
+dobra
+dobro
+dobs
+doc
+dock
+docks
+docs
+dodge
+dodgy
+dodo
+dodos
+doe
+doer
+doers
+does
+doff
+doffs
+dog
+doge
+doges
+doggo
+doggy
+dogie
+dogma
+dogs
+doh
+doily
+doing
+doit
+dol
+dolce
+dole
+doled
+doles
+doll
+dolls
+dolly
+dolor
+dols
+dolt
+dolts
+dom
+dome
+domed
+domes
+don
+dona
+donas
+done
+donee
+dong
+donga
+dongs
+donna
+donne
+donor
+dons
+doom
+dooms
+door
+doors
+doozy
+dopa
+dope
+doped
+doper
+dopes
+dopey
+dor
+dora
+dork
+dorks
+dorky
+dorm
+dorms
+dorp
+dorty
+dory
+dos
+dose
+dosed
+doses
+dosh
+doss
+dost
+dot
+dote
+doted
+doter
+dotes
+doth
+dots
+dotty
+doubt
+douce
+dough
+douma
+dour
+douse
+dove
+doves
+dow
+dowdy
+dowel
+dower
+dowie
+down
+downs
+downy
+dowry
+dowse
+doxy
+doyen
+doz
+doze
+dozed
+dozen
+dozer
+dozes
+dozy
+dpi
+dpt
+drab
+drabs
+draff
+draft
+drag
+drags
+drain
+drake
+dram
+drama
+drams
+drank
+drape
+drat
+draw
+drawl
+drawn
+draws
+dray
+drays
+dread
+dream
+drear
+dree
+dreg
+dregs
+dress
+drew
+dried
+drier
+dries
+drift
+drill
+drily
+drink
+drip
+drips
+drive
+droid
+droit
+droll
+drone
+drool
+droop
+drop
+drops
+dross
+drove
+drown
+drub
+drubs
+drug
+drugs
+druid
+drum
+drums
+drunk
+drupe
+druse
+dry
+dryad
+dryer
+dryly
+drys
+duad
+duads
+dual
+duals
+dub
+dubs
+ducal
+ducat
+duce
+duchy
+duck
+ducks
+ducky
+duct
+ducts
+dud
+dude
+duded
+dudes
+duds
+due
+duel
+duels
+dues
+duet
+duets
+duff
+duffs
+dug
+duh
+duke
+dukes
+dulia
+dull
+dulls
+dully
+dulse
+duly
+duma
+dumb
+dumbo
+dummy
+dump
+dumps
+dumpy
+dun
+dunce
+dune
+dunes
+dung
+dungs
+dunk
+dunks
+dunno
+duns
+dunt
+duo
+duomo
+duos
+dup
+dupe
+duped
+duper
+dupes
+duple
+duppy
+duro
+durra
+durst
+durum
+dusk
+dusky
+dust
+dusts
+dusty
+dutch
+duty
+duvet
+dux
+dwarf
+dweeb
+dwell
+dwelt
+dwt
+dyad
+dyads
+dye
+dyed
+dyer
+dyers
+dyes
+dying
+dyke
+dykes
+dyne
+dynes
+each
+eager
+eagle
+eagre
+ear
+eared
+earl
+earls
+early
+earn
+earns
+ears
+earth
+ease
+eased
+easel
+eases
+east
+easy
+eat
+eaten
+eater
+eats
+eau
+eave
+eaves
+ebb
+ebbed
+ebbs
+ebon
+ebony
+eccl
+echo
+echos
+echt
+eclat
+ecol
+econ
+ecru
+ecu
+ecus
+eddo
+eddy
+edema
+edge
+edged
+edger
+edges
+edgy
+edh
+edict
+edify
+edit
+edits
+eds
+educ
+educe
+educt
+eek
+eel
+eels
+eerie
+eff
+effed
+effs
+eft
+efts
+egad
+egads
+egest
+egg
+egged
+egger
+eggs
+ego
+egos
+egret
+eide
+eider
+eidos
+eight
+eikon
+eject
+eke
+eked
+ekes
+eking
+elan
+eland
+elate
+elbow
+eld
+elder
+elect
+elegy
+elem
+elemi
+elev
+elf
+elfin
+elide
+elite
+elk
+elks
+ell
+ells
+elm
+elms
+elope
+els
+else
+elude
+elute
+elver
+elves
+email
+embay
+embed
+ember
+embow
+embus
+emcee
+emend
+emery
+emf
+emfs
+emir
+emirs
+emit
+emits
+emmer
+emmet
+emo
+emoji
+emos
+emote
+empty
+ems
+emu
+emus
+enact
+enate
+enc
+encl
+ency
+end
+ended
+endow
+ends
+endue
+enema
+enemy
+eng
+engin
+engr
+enjoy
+enl
+ennui
+enol
+enow
+ens
+ensue
+enter
+entry
+enure
+envoi
+envoy
+envy
+eon
+eons
+eosin
+epact
+epee
+epees
+ephah
+ephod
+ephor
+epic
+epics
+epoch
+epode
+epos
+epoxy
+equal
+equip
+equiv
+era
+eras
+erase
+ere
+erect
+erg
+ergo
+ergot
+ergs
+erk
+erne
+ernes
+erode
+erose
+err
+erred
+error
+errs
+ersh
+erst
+ert
+eruct
+erugo
+erupt
+esker
+esp
+espy
+essay
+esse
+est
+ester
+estop
+eta
+etas
+etc
+etch
+ether
+ethic
+ethos
+ethyl
+etna
+etnas
+etude
+etui
+etuis
+euro
+euros
+evade
+eve
+even
+evens
+event
+ever
+evert
+every
+eves
+evict
+evil
+evils
+evite
+evoke
+ewe
+ewer
+ewers
+ewes
+exact
+exalt
+exam
+exams
+exc
+excel
+exch
+excl
+exeat
+exec
+execs
+exert
+exes
+exile
+exine
+exist
+exit
+exits
+exon
+exons
+exp
+expat
+expel
+expo
+expos
+exr
+ext
+extol
+extra
+exude
+exult
+exurb
+eyas
+eye
+eyed
+eyer
+eyes
+eying
+eyot
+eyra
+eyras
+eyre
+eyrir
+fab
+fable
+fac
+face
+faced
+facer
+faces
+facet
+fact
+facts
+fad
+faddy
+fade
+faded
+fader
+fades
+fadge
+fado
+fads
+faena
+faff
+faffs
+fag
+fagot
+fags
+fail
+fails
+fain
+faint
+fair
+fairs
+fairy
+faith
+fake
+faked
+faker
+fakes
+fakir
+fall
+falls
+fam
+fame
+famed
+fan
+fancy
+fane
+fang
+fango
+fangs
+fanny
+fanon
+fans
+faqir
+far
+farad
+farce
+farci
+farcy
+fard
+fare
+fared
+farer
+fares
+farl
+farm
+farms
+faro
+fart
+farts
+fash
+fast
+fasts
+fat
+fatal
+fate
+fated
+fates
+fath
+fatly
+fats
+fatso
+fatty
+fatwa
+faugh
+fault
+faun
+fauna
+fauns
+fauve
+faux
+fave
+faves
+favor
+favus
+fawn
+fawns
+fax
+faxed
+faxes
+fay
+fayer
+fays
+faze
+fazed
+fazes
+feal
+fear
+fears
+feast
+feat
+feats
+fec
+fecal
+feces
+fecit
+feck
+fed
+feds
+fee
+feed
+feeds
+feel
+feels
+feer
+fees
+feet
+feeze
+feign
+feint
+felid
+fell
+fella
+fells
+felly
+felon
+felt
+felts
+fem
+feme
+femme
+femur
+fen
+fence
+fend
+fends
+fenny
+fens
+feoff
+fer
+feral
+feria
+fermi
+fern
+ferns
+ferny
+ferry
+fess
+fest
+fests
+feta
+fetal
+fetch
+fete
+feted
+fetes
+fetid
+fetor
+fetus
+feu
+feuar
+feud
+feuds
+fever
+few
+fewer
+fey
+feyly
+fez
+fiat
+fiats
+fib
+fiber
+fibs
+fiche
+fichu
+fico
+ficus
+fid
+fidge
+fie
+fief
+fiefs
+field
+fiend
+fiery
+fife
+fifer
+fifes
+fifth
+fifty
+fig
+fight
+figs
+fila
+filar
+filch
+file
+filed
+filer
+files
+filet
+fill
+fills
+filly
+film
+films
+filmy
+filo
+fils
+filth
+filum
+fin
+final
+finch
+find
+finds
+fine
+fined
+finer
+fines
+finis
+fink
+finks
+finny
+fino
+fins
+fir
+fire
+fired
+firer
+fires
+firm
+firms
+firn
+firry
+firs
+first
+firth
+fisc
+fiscs
+fish
+fishy
+fist
+fists
+fit
+fitch
+fitly
+fits
+five
+fiver
+fives
+fix
+fixed
+fixer
+fixes
+fizz
+fizzy
+fjeld
+fjord
+flab
+flack
+flag
+flags
+flail
+flair
+flak
+flake
+flaky
+flam
+flame
+flan
+flank
+flans
+flap
+flaps
+flare
+flash
+flask
+flat
+flats
+flaw
+flaws
+flawy
+flax
+flay
+flays
+fld
+flea
+fleam
+fleas
+fleck
+fled
+flee
+fleer
+flees
+fleet
+flesh
+flew
+flews
+flex
+fley
+flick
+flied
+flier
+flies
+fling
+flint
+flip
+flips
+flirt
+flit
+flite
+flits
+float
+floc
+flock
+flocs
+floe
+floes
+flog
+flogs
+flong
+flood
+floor
+flop
+flops
+flor
+flora
+flory
+floss
+flour
+flout
+flow
+flown
+flows
+flt
+flu
+flub
+flubs
+flue
+flues
+fluff
+fluid
+fluke
+fluky
+flume
+flump
+flung
+flunk
+fluor
+flush
+flute
+fluty
+flux
+fly
+flyby
+flyte
+foal
+foals
+foam
+foams
+foamy
+fob
+fobs
+focal
+focus
+foe
+foehn
+foes
+fog
+foggy
+fogs
+fogy
+foil
+foils
+foin
+foist
+fol
+fold
+folds
+folia
+folic
+folie
+folio
+folk
+folks
+foll
+folly
+fond
+font
+fonts
+foo
+food
+foods
+fool
+fools
+foot
+foots
+footy
+fop
+fops
+for
+fora
+foray
+forb
+forby
+force
+ford
+fordo
+fords
+fore
+fores
+forge
+forgo
+fork
+forks
+form
+forme
+forms
+fort
+forte
+forth
+forts
+forty
+forum
+fossa
+fosse
+fou
+foul
+fouls
+found
+fount
+four
+fours
+fovea
+fowl
+fowls
+fox
+foxed
+foxes
+foxy
+foyer
+fps
+frack
+frae
+frag
+frags
+frail
+frame
+franc
+frank
+frap
+fraps
+frat
+frats
+fraud
+fray
+frays
+freak
+free
+freed
+freer
+frees
+fremd
+frena
+freq
+fresh
+fret
+frets
+friar
+fried
+fries
+frig
+frigs
+frill
+frisk
+frit
+frith
+fritz
+frize
+frizz
+fro
+frock
+froe
+frog
+frogs
+from
+frond
+frons
+front
+frore
+frosh
+frost
+froth
+frow
+frown
+froze
+frt
+frug
+fruit
+frump
+fry
+fryer
+fth
+ftp
+ftps
+fubsy
+fuck
+fucks
+fucus
+fudge
+fuel
+fuels
+fug
+fugal
+fuggy
+fugs
+fugue
+full
+fulls
+fully
+fum
+fume
+fumed
+fumes
+fums
+fumy
+fun
+fund
+funds
+fungi
+fungo
+funk
+funks
+funky
+funny
+fur
+furan
+furl
+furls
+furn
+furor
+furry
+furs
+fury
+furze
+furzy
+fuse
+fused
+fusee
+fuses
+fusil
+fuss
+fussy
+fusty
+fut
+futon
+futz
+fuzz
+fuzzy
+fwd
+fwy
+fyke
+fyrd
+gab
+gabby
+gable
+gabs
+gaby
+gad
+gadid
+gads
+gaff
+gaffe
+gaffs
+gag
+gaga
+gags
+gaily
+gain
+gains
+gait
+gaits
+gal
+gala
+galah
+galas
+gale
+galea
+gales
+gall
+galls
+galop
+gals
+gam
+gamb
+gamba
+game
+gamed
+gamer
+games
+gamey
+gamic
+gamin
+gamma
+gammy
+gamp
+gamps
+gamut
+gamy
+gan
+ganef
+gang
+gangs
+ganja
+ganof
+gap
+gape
+gaped
+gapes
+gappy
+gaps
+gar
+garb
+garbs
+gars
+garth
+gas
+gases
+gash
+gasp
+gasps
+gassy
+gat
+gate
+gated
+gater
+gates
+gator
+gats
+gaud
+gauds
+gaudy
+gauge
+gaunt
+gaur
+gaurs
+gauss
+gauze
+gauzy
+gave
+gavel
+gawd
+gawk
+gawks
+gawky
+gawp
+gawps
+gay
+gayer
+gays
+gaz
+gaze
+gazed
+gazer
+gazes
+gds
+gean
+geans
+gear
+gears
+gecko
+gee
+geed
+geek
+geeks
+geeky
+gees
+geese
+geest
+gel
+geld
+gelds
+gelid
+gels
+gem
+gemma
+gemmy
+gemot
+gems
+gen
+gene
+genes
+genet
+genic
+genie
+genii
+genip
+genit
+genoa
+genre
+genro
+gens
+gent
+gents
+genu
+genus
+geod
+geode
+geog
+geoid
+geol
+geom
+ger
+gerah
+germ
+germs
+germy
+gesso
+gest
+get
+gets
+getup
+geum
+gey
+ghat
+ghats
+ghazi
+ghee
+ghees
+ghost
+ghoul
+ghyll
+giant
+gib
+gibe
+gibed
+giber
+gibes
+gid
+giddy
+gie
+gift
+gifts
+gig
+gigot
+gigs
+gigue
+gild
+gilds
+gill
+gills
+gilt
+gilts
+gimel
+gimme
+gimp
+gimps
+gimpy
+gin
+gink
+ginny
+gins
+gipon
+gird
+girds
+girl
+girls
+girly
+giro
+giros
+girt
+girth
+girts
+gist
+git
+gite
+gites
+gits
+give
+given
+giver
+gives
+gizmo
+glace
+glad
+glade
+glads
+glair
+glam
+gland
+glans
+glare
+glary
+glass
+glaze
+gleam
+glean
+glebe
+glede
+glee
+gleet
+glen
+glens
+gley
+glia
+glias
+glib
+glide
+glim
+glint
+glitz
+gloam
+gloat
+glob
+globe
+globs
+glom
+gloms
+gloom
+glop
+glory
+gloss
+glove
+glow
+glows
+gloze
+glt
+glue
+glued
+glues
+gluey
+glum
+glume
+gluon
+glut
+gluts
+glyph
+gnarl
+gnash
+gnat
+gnats
+gnaw
+gnaws
+gnome
+gnu
+gnus
+goa
+goad
+goads
+goal
+goals
+goat
+goats
+gob
+gobo
+gobs
+goby
+god
+godly
+gods
+goer
+goers
+goes
+gofer
+going
+gold
+golds
+golem
+golf
+golfs
+golly
+gonad
+gone
+goner
+gong
+gongs
+gonif
+gonk
+gonks
+gonna
+gonzo
+goo
+good
+goods
+goody
+gooey
+goof
+goofs
+goofy
+gook
+gooks
+goon
+goons
+goop
+goose
+goosy
+gopak
+goral
+gore
+gored
+gores
+gorge
+gorp
+gorps
+gorse
+gory
+gosh
+got
+goth
+goths
+gotta
+gouge
+gourd
+gout
+gouty
+gov
+govt
+gowan
+gowk
+gown
+gowns
+goy
+goyim
+goys
+grab
+grabs
+grace
+grad
+grade
+grads
+graft
+grail
+grain
+gram
+grams
+gran
+grand
+grans
+grant
+grape
+graph
+grasp
+grass
+grate
+grave
+gravy
+gray
+grays
+graze
+great
+grebe
+gree
+greed
+green
+greet
+grep
+greps
+grew
+grid
+gride
+grids
+grief
+grift
+grig
+grill
+grim
+grime
+grimy
+grin
+grind
+grins
+grip
+gripe
+grips
+grist
+grit
+grith
+grits
+gro
+groan
+groat
+grog
+groin
+grok
+groks
+groom
+grope
+gross
+grosz
+grot
+grots
+group
+grout
+grove
+grow
+growl
+grown
+grows
+grub
+grubs
+grue
+gruel
+grues
+gruff
+grum
+grume
+grump
+grunt
+gtd
+guaco
+guan
+guano
+guans
+guar
+guard
+guars
+guava
+guck
+gucks
+guess
+guest
+guff
+guib
+guide
+guild
+guile
+guilt
+guise
+gula
+gulag
+gulas
+gulch
+gules
+gulf
+gulfs
+gull
+gulls
+gully
+gulp
+gulps
+gum
+gumbo
+gumma
+gummy
+gums
+gun
+gunge
+gungy
+gunk
+gunky
+gunny
+guns
+guppy
+gurge
+guru
+gurus
+gush
+gushy
+gussy
+gust
+gusto
+gusts
+gusty
+gut
+guts
+gutsy
+gutta
+gutty
+guv
+guvs
+guy
+guyed
+guyot
+guys
+gym
+gyms
+gyp
+gyps
+gypsy
+gyral
+gyre
+gyres
+gyro
+gyron
+gyros
+gyrus
+gyve
+gyved
+gyves
+haaf
+haar
+habit
+hacek
+hack
+hacks
+had
+hade
+hades
+hadst
+hae
+hafiz
+haft
+hafts
+hag
+hags
+hah
+haik
+haiku
+hail
+hails
+hair
+hairs
+hairy
+haj
+hajes
+hajj
+hajji
+hake
+hakes
+hakim
+haku
+halal
+hale
+haled
+haler
+hales
+half
+hall
+halls
+halm
+halms
+halo
+halon
+halos
+halt
+halts
+halve
+ham
+hamal
+hame
+hames
+hammy
+hams
+hamza
+hance
+hand
+hands
+handy
+hang
+hangs
+hank
+hanks
+hanky
+haole
+hap
+haply
+happy
+hard
+hards
+hardy
+hare
+hared
+harem
+hares
+hark
+harks
+harl
+harm
+harms
+harp
+harps
+harpy
+harry
+harsh
+hart
+harts
+has
+hash
+hasp
+hasps
+hast
+haste
+hasty
+hat
+hatch
+hate
+hated
+hater
+hates
+hath
+hats
+haugh
+haul
+haulm
+hauls
+haunt
+have
+haven
+haver
+haves
+havoc
+haw
+hawed
+hawk
+hawks
+haws
+hawse
+hay
+hayed
+hays
+hazan
+haze
+hazed
+hazel
+hazer
+hazes
+hazy
+hdqrs
+head
+heads
+heady
+heal
+heals
+heap
+heaps
+hear
+heard
+hears
+heart
+heat
+heath
+heats
+heave
+heavy
+heck
+heder
+hedge
+heed
+heeds
+heel
+heels
+heft
+hefts
+hefty
+heir
+heirs
+heist
+held
+helix
+hell
+hello
+hells
+helm
+helms
+helot
+help
+helps
+helve
+hem
+hemal
+heme
+hemic
+hemin
+hemp
+hems
+hen
+hence
+henge
+henna
+henry
+hens
+hent
+hep
+her
+herb
+herbs
+herby
+herd
+herds
+here
+heres
+herl
+herm
+hern
+hero
+heron
+herp
+hers
+hertz
+hes
+hest
+heth
+heths
+hew
+hewed
+hewer
+hews
+hex
+hexad
+hexed
+hexer
+hexes
+hexyl
+hey
+hgt
+hgwy
+hhd
+hic
+hick
+hicks
+hid
+hide
+hided
+hider
+hides
+hie
+hied
+hies
+high
+highs
+hight
+hijab
+hike
+hiked
+hiker
+hikes
+hila
+hill
+hills
+hilly
+hilt
+hilts
+hilum
+him
+hims
+hin
+hind
+hinds
+hing
+hinge
+hings
+hinny
+hins
+hint
+hints
+hip
+hippo
+hippy
+hips
+hire
+hired
+hirer
+hires
+his
+hiss
+hist
+hit
+hitch
+hits
+hive
+hived
+hives
+hiya
+hmm
+hoar
+hoard
+hoars
+hoary
+hoax
+hob
+hobby
+hobo
+hobos
+hobs
+hoc
+hock
+hocks
+hocus
+hod
+hods
+hoe
+hoed
+hoer
+hoers
+hoes
+hog
+hogan
+hogs
+hoick
+hoist
+hoke
+hoked
+hokes
+hokey
+hokku
+hokum
+hold
+holds
+hole
+holed
+holes
+holey
+holly
+holm
+holp
+hols
+holt
+holy
+home
+homed
+homer
+homes
+homey
+homie
+homo
+homos
+hon
+hone
+honed
+honer
+hones
+honey
+hong
+honk
+honks
+honky
+honor
+hons
+hoo
+hooch
+hood
+hoods
+hooey
+hoof
+hoofs
+hook
+hooks
+hooky
+hoop
+hoops
+hoot
+hoots
+hop
+hope
+hoped
+hopes
+hops
+hor
+hora
+horah
+horal
+horas
+horde
+horme
+horn
+horns
+horny
+horol
+horse
+horst
+horsy
+hort
+hos
+hose
+hosed
+hoses
+hosp
+host
+hosta
+hosts
+hot
+hotel
+hotly
+hots
+hough
+hound
+hour
+houri
+hours
+house
+hove
+hovel
+hover
+how
+howdy
+howl
+howls
+hows
+hoy
+hoys
+hrs
+hub
+hubby
+hubs
+hue
+hued
+hues
+huff
+huffs
+huffy
+hug
+huge
+huger
+hugs
+huh
+hula
+hulas
+hulk
+hulks
+hulky
+hull
+hulls
+hum
+human
+humic
+humid
+humor
+hump
+humph
+humps
+humpy
+hums
+humus
+hun
+hunch
+hung
+hunk
+hunks
+hunky
+hunt
+hunts
+hurds
+hurl
+hurls
+hurry
+hurst
+hurt
+hurts
+hush
+husk
+husks
+husky
+hussy
+hut
+hutch
+huts
+huzza
+hwan
+hwy
+hydra
+hydro
+hyena
+hying
+hyla
+hymen
+hymn
+hymns
+hyoid
+hyp
+hype
+hyped
+hyper
+hypes
+hypha
+hypo
+hypos
+hyrax
+hyson
+iamb
+iambi
+iambs
+ibex
+ibid
+ibis
+ice
+iced
+ices
+ichor
+icier
+icily
+icing
+icky
+icon
+icons
+ictus
+icy
+idea
+ideal
+ideas
+idem
+ides
+idiom
+idiot
+idle
+idled
+idler
+idles
+idly
+idol
+idols
+ids
+idyll
+iffy
+ifs
+igloo
+ign
+ihram
+iii
+ilea
+ileac
+ileal
+ileum
+ileus
+ilex
+ilia
+iliac
+ilium
+ilk
+ilks
+ill
+ills
+illus
+image
+imago
+imam
+imams
+imbue
+imide
+imine
+imit
+immix
+imp
+impel
+imper
+impf
+impi
+imply
+imps
+impv
+inane
+inapt
+inbox
+inc
+inced
+inch
+incl
+incr
+incs
+incur
+incus
+ind
+indef
+index
+indic
+indie
+induc
+indue
+inept
+inert
+inf
+infer
+infin
+infix
+info
+infra
+ingle
+ingot
+inion
+init
+ink
+inked
+inkle
+inks
+inky
+inlay
+inlet
+inly
+inn
+inner
+innit
+inns
+inorg
+input
+ins
+inset
+insp
+inst
+instr
+int
+intel
+inter
+inti
+intis
+into
+intr
+intro
+inure
+inurn
+inv
+invt
+ioctl
+iodic
+ion
+ionic
+ions
+iota
+iotas
+irade
+irate
+ire
+iris
+irk
+irked
+irks
+iron
+irons
+irony
+irreg
+isl
+isle
+isles
+islet
+ism
+isms
+issei
+issue
+istle
+ital
+itch
+itchy
+item
+items
+its
+ivied
+ivies
+ivory
+ivy
+iwis
+ixia
+ixtle
+izard
+jab
+jabot
+jabs
+jacal
+jack
+jacks
+jade
+jaded
+jades
+jag
+jaggy
+jags
+jail
+jails
+jakes
+jalap
+jam
+jamb
+jambs
+jammy
+jams
+jane
+japan
+jape
+japed
+japer
+japes
+jar
+jarl
+jars
+jato
+jatos
+jaunt
+java
+jaw
+jawed
+jaws
+jay
+jays
+jazz
+jazzy
+jct
+jean
+jeans
+jebel
+jeep
+jeeps
+jeer
+jeers
+jeez
+jefe
+jehu
+jell
+jello
+jells
+jelly
+jemmy
+jenny
+jerid
+jerk
+jerks
+jerky
+jerry
+jess
+jest
+jests
+jet
+jets
+jetty
+jew
+jewel
+jib
+jibe
+jibed
+jibes
+jibs
+jiff
+jiffs
+jiffy
+jig
+jigs
+jihad
+jill
+jilt
+jilts
+jimmy
+jingo
+jink
+jinks
+jinn
+jinni
+jinns
+jinx
+jiva
+jive
+jived
+jiver
+jives
+jivey
+jivy
+job
+jobs
+jock
+jocko
+jocks
+joey
+joeys
+jog
+jogs
+john
+johns
+join
+joins
+joint
+joist
+joke
+joked
+joker
+jokes
+jokey
+jolly
+jolt
+jolts
+jolty
+jook
+jor
+jorum
+josh
+joss
+jot
+jota
+jots
+joule
+joust
+jowl
+jowls
+jowly
+joy
+joyed
+joys
+juba
+jube
+judge
+judo
+jug
+jugal
+jugs
+jugum
+juice
+juicy
+juju
+jujus
+juke
+julep
+jumbo
+jump
+jumps
+jumpy
+jun
+junco
+junk
+junks
+junky
+junta
+jupon
+jura
+jural
+jurat
+jurel
+juror
+jury
+jus
+just
+jut
+jute
+juts
+jutty
+kab
+kabob
+kadi
+kafir
+kagu
+kaiak
+kaif
+kail
+kails
+kain
+kaka
+kaki
+kakis
+kale
+kali
+kalif
+kalis
+kalpa
+kame
+kami
+kana
+kanji
+kanzu
+kaon
+kaons
+kaph
+kaphs
+kapok
+kappa
+kaput
+karat
+karma
+karst
+kart
+karts
+kasha
+kat
+kauri
+kava
+kavas
+kayak
+kayo
+kayos
+kazoo
+kcal
+kea
+keas
+kebab
+kebob
+keck
+ked
+kedge
+keef
+keek
+keel
+keels
+keen
+keens
+keep
+keeps
+kef
+keg
+kegs
+kelly
+kelp
+kelt
+ken
+kenaf
+kendo
+keno
+kens
+kent
+kente
+kep
+kepi
+kepis
+kept
+kerf
+kern
+kerne
+kero
+ketch
+keto
+kevel
+kex
+key
+keyed
+keys
+khaki
+khan
+khans
+khat
+kheda
+khoum
+kiang
+kibe
+kibes
+kick
+kicks
+kicky
+kid
+kiddo
+kids
+kief
+kier
+kif
+kike
+kikes
+kill
+kills
+kiln
+kilns
+kilo
+kilos
+kilt
+kilts
+kin
+kina
+kinas
+kind
+kinda
+kinds
+kine
+kines
+king
+kings
+kinin
+kink
+kinks
+kinky
+kino
+kinos
+kiosk
+kip
+kips
+kish
+kiss
+kist
+kit
+kite
+kited
+kites
+kith
+kits
+kitty
+kiva
+kiwi
+kiwis
+klong
+kloof
+kluge
+klutz
+knack
+knap
+knaps
+knar
+knave
+knead
+knee
+kneed
+kneel
+knees
+knell
+knelt
+knew
+knife
+knish
+knit
+knits
+knob
+knobs
+knock
+knoll
+knop
+knot
+knots
+knout
+know
+known
+knows
+knur
+knurl
+koa
+koala
+koan
+koans
+kob
+kobo
+kobos
+kobs
+koel
+kohl
+kohls
+koine
+kola
+kolas
+kolo
+kook
+kooks
+kooky
+kop
+kopek
+koph
+kopje
+kor
+korma
+kors
+kos
+koses
+koto
+kotos
+kph
+kraal
+kraft
+krait
+kraut
+krill
+kris
+krona
+krone
+kroon
+kudo
+kudos
+kudu
+kudus
+kudzu
+kukri
+kulak
+kuna
+kurus
+kvass
+kyat
+kyats
+kyle
+kyles
+kylix
+lab
+label
+labia
+labor
+labs
+lac
+lace
+laced
+lacer
+laces
+lack
+lacks
+lacy
+lad
+lade
+laded
+laden
+lades
+ladle
+lads
+lady
+lag
+lagan
+lager
+lags
+laic
+laid
+lain
+lair
+laird
+lairs
+laity
+lake
+laker
+lakes
+lakh
+lakhs
+laky
+lam
+lama
+lamas
+lamb
+lambs
+lame
+lamed
+lamer
+lames
+lamia
+lamp
+lamps
+lams
+lanai
+lance
+land
+lands
+lane
+lanes
+lang
+lank
+lanky
+lap
+lapel
+lapin
+laps
+lapse
+lar
+larch
+lard
+lards
+lardy
+lares
+large
+largo
+lari
+lark
+larks
+larum
+larva
+lase
+lased
+laser
+lases
+lash
+lass
+lasso
+last
+lasts
+lat
+latch
+late
+lated
+later
+latex
+lath
+lathe
+lathi
+laths
+lathy
+lati
+latke
+lats
+latte
+laud
+lauds
+laugh
+lav
+lava
+lavas
+lave
+laved
+laver
+laves
+lavs
+law
+lawn
+lawns
+laws
+lax
+laxer
+laxly
+lay
+layer
+lays
+layup
+lazar
+laze
+lazed
+lazes
+lazy
+lbs
+lbw
+lea
+leach
+lead
+leads
+leaf
+leafs
+leafy
+leak
+leaks
+leaky
+leal
+lean
+leans
+leap
+leaps
+leapt
+learn
+leas
+lease
+leash
+least
+leave
+lech
+lect
+led
+ledge
+lee
+leech
+leek
+leeks
+leer
+leers
+leery
+lees
+leet
+left
+lefts
+lefty
+leg
+legal
+leges
+leggy
+legit
+legs
+lehr
+lei
+leis
+lek
+leks
+leman
+lemma
+lemme
+lemon
+lemur
+lend
+lends
+lenis
+leno
+lens
+lent
+lento
+leone
+leper
+lepta
+less
+lest
+let
+lethe
+lets
+letup
+leu
+lev
+leva
+levee
+level
+lever
+levin
+levy
+lewd
+lewis
+lex
+lexer
+lexis
+ley
+leys
+lgth
+liana
+liar
+liard
+liars
+lib
+libel
+liber
+libra
+lice
+licit
+lick
+licks
+lid
+lido
+lidos
+lids
+lie
+lied
+lief
+liege
+lien
+liens
+lies
+lieu
+life
+lifer
+lift
+lifts
+ligan
+liger
+light
+lii
+like
+liked
+liken
+liker
+likes
+lilac
+lilo
+lilos
+lilt
+lilts
+lily
+limb
+limbo
+limbs
+lime
+limed
+limen
+limes
+limey
+limit
+limn
+limns
+limo
+limos
+limp
+limps
+limy
+lin
+lindy
+line
+lined
+linen
+liner
+lines
+ling
+lingo
+lings
+linin
+link
+links
+linn
+lino
+lint
+lints
+linty
+liny
+lion
+lions
+lip
+lipid
+lippy
+lips
+liq
+lira
+lire
+lis
+lisle
+lisp
+lisps
+list
+lists
+lit
+litas
+lite
+liter
+lith
+lithe
+litho
+live
+lived
+liven
+liver
+lives
+livid
+livre
+lix
+llama
+llano
+loach
+load
+loads
+loaf
+loafs
+loam
+loams
+loamy
+loan
+loans
+loath
+lob
+lobar
+lobby
+lobe
+lobed
+lobes
+lobo
+lobs
+local
+loci
+lock
+locks
+loco
+locos
+locum
+locus
+lode
+loden
+lodes
+lodge
+loess
+loft
+lofts
+lofty
+log
+logan
+loge
+loges
+loggy
+logia
+logic
+login
+logo
+logon
+logos
+logs
+logy
+loin
+loins
+loll
+lolls
+lolly
+lone
+loner
+long
+longe
+longs
+loo
+looby
+look
+looks
+loom
+looms
+loon
+loons
+loony
+loop
+loops
+loopy
+loos
+loose
+loot
+loots
+lop
+lope
+loped
+loper
+lopes
+loppy
+lops
+loq
+loran
+lord
+lords
+lore
+loris
+lorn
+lorry
+lory
+lose
+losel
+loser
+loses
+loss
+lost
+lot
+lota
+lotas
+loti
+lotic
+lots
+lotto
+lotus
+loud
+lough
+louis
+loup
+loupe
+lour
+lours
+louse
+lousy
+lout
+louts
+love
+loved
+lover
+loves
+lovey
+low
+lowed
+lower
+lowly
+lows
+lox
+loyal
+ltd
+luau
+luaus
+lube
+lubed
+lubes
+lubra
+luce
+lucid
+luck
+lucks
+lucky
+lucre
+ludic
+ludo
+lues
+luff
+luffa
+luffs
+lug
+luge
+luged
+luges
+lugs
+lull
+lulls
+lulu
+lulus
+lumen
+lump
+lumps
+lumpy
+lunar
+lunch
+lune
+lung
+lunge
+lungi
+lungs
+lunk
+lupus
+lur
+lurch
+lure
+lured
+lures
+lurex
+lurgy
+lurid
+lurk
+lurks
+lush
+lushy
+lust
+lusts
+lusty
+lute
+lutes
+lux
+luxe
+luxes
+lvi
+lvii
+lwei
+lweis
+lxi
+lxii
+lxiv
+lxix
+lxvi
+lxvii
+lye
+lying
+lymph
+lynch
+lynx
+lyre
+lyres
+lyric
+lyse
+lyses
+lysin
+lysis
+lyssa
+lytic
+lytta
+mac
+macaw
+mace
+maced
+maces
+mach
+macho
+mack
+macks
+macle
+macro
+macs
+mad
+madam
+made
+madly
+mads
+mafia
+mag
+mage
+mages
+magi
+magic
+magma
+mags
+magus
+maid
+maids
+mail
+mails
+maim
+maims
+main
+mains
+maize
+major
+make
+maker
+makes
+mako
+makos
+malar
+male
+males
+mall
+malls
+malm
+malt
+malts
+malty
+mam
+mama
+mamas
+mamba
+mambo
+mamey
+mamma
+mammy
+mams
+man
+mana
+manas
+manat
+mane
+maned
+manes
+manga
+mange
+mango
+mangy
+mania
+manic
+manky
+manly
+manna
+manor
+mans
+manse
+manta
+manuf
+many
+map
+maple
+maps
+mar
+mara
+maras
+marc
+march
+marcs
+mare
+mares
+marg
+marge
+maria
+mark
+marka
+marks
+marl
+marls
+marly
+marry
+mars
+marsh
+mart
+marts
+mas
+masc
+maser
+mash
+mask
+masks
+mason
+mass
+massy
+mast
+masts
+mat
+match
+mate
+mated
+mater
+mates
+matey
+math
+matin
+mats
+matte
+matzo
+maul
+mauls
+maun
+maund
+mauve
+maven
+mavis
+maw
+maws
+max
+maxed
+maxes
+maxi
+maxim
+maxis
+may
+maya
+maybe
+mayo
+mayor
+mayst
+maze
+mazer
+mazes
+mazy
+mdse
+mead
+meal
+meals
+mealy
+mean
+means
+meant
+meany
+meas
+meat
+meats
+meaty
+mecca
+mech
+med
+medal
+media
+medic
+meed
+meek
+meet
+meets
+meg
+mega
+megs
+meh
+meiny
+mel
+meld
+melds
+melee
+melic
+melon
+melt
+melts
+mem
+meme
+memes
+memo
+memos
+mems
+men
+mend
+mends
+mene
+menu
+menus
+meow
+meows
+mercy
+mere
+meres
+merge
+merit
+merle
+merry
+mes
+mesa
+mesas
+mesh
+mesic
+mesne
+meson
+mess
+messy
+met
+meta
+metal
+mete
+meted
+meter
+metes
+meth
+meths
+metic
+metis
+metro
+mew
+mewed
+mewl
+mewls
+mews
+mezzo
+mfd
+mfg
+mfr
+mfrs
+mgr
+mho
+mhos
+mic
+mica
+mice
+mick
+micks
+micro
+mics
+mid
+middy
+midge
+midi
+midis
+midst
+mien
+miens
+miff
+miffs
+miffy
+mig
+might
+mike
+miked
+mikes
+mikva
+mil
+milch
+mild
+mile
+miler
+miles
+milf
+milfs
+milia
+milit
+milk
+milks
+milky
+mill
+mills
+milo
+milos
+mils
+milt
+milts
+mim
+mime
+mimed
+mimer
+mimes
+mimic
+min
+mince
+mind
+minds
+mine
+mined
+miner
+mines
+mingy
+mini
+minim
+minis
+mink
+minke
+minks
+minor
+mint
+mints
+minty
+minus
+minx
+mir
+mire
+mired
+mires
+mirin
+mirk
+mirth
+miry
+mirza
+misc
+misdo
+miser
+miso
+miss
+missy
+mist
+mists
+misty
+mite
+miter
+mites
+mitis
+mitt
+mitts
+mix
+mixed
+mixer
+mixes
+mize
+mkay
+mks
+mkt
+mneme
+moa
+moan
+moans
+moas
+moat
+moats
+mob
+mobs
+mocha
+mock
+mocks
+mod
+modal
+mode
+model
+modem
+modes
+mods
+mog
+moggy
+mogul
+mohur
+moi
+moil
+moils
+moire
+moist
+mojo
+moke
+mokes
+mol
+mola
+molal
+molar
+molas
+mold
+molds
+moldy
+mole
+moles
+moll
+molls
+molly
+mols
+molt
+molts
+moly
+mom
+mommy
+moms
+mon
+monad
+monas
+monde
+money
+mong
+mongo
+monk
+monks
+mono
+monte
+month
+moo
+mooch
+mood
+moods
+moody
+mooed
+moon
+moons
+moony
+moor
+moors
+moos
+moose
+moot
+moots
+mop
+mope
+moped
+moper
+mopes
+mopey
+mops
+mora
+moral
+moray
+more
+morel
+mores
+morn
+morns
+moron
+morph
+morse
+mort
+mos
+mosey
+mosh
+moss
+mossy
+most
+mot
+mote
+motel
+motes
+motet
+moth
+moths
+mothy
+motif
+motor
+mots
+motte
+motto
+moue
+moues
+mound
+mount
+mourn
+mouse
+mousy
+mouth
+move
+moved
+mover
+moves
+movie
+mow
+mowed
+mower
+mows
+moxa
+moxie
+mpg
+mph
+mtg
+mtge
+much
+mucin
+muck
+mucks
+mucky
+mucor
+mucro
+mucus
+mud
+muddy
+mudra
+muff
+muffs
+mufti
+mug
+muggy
+mugs
+mujik
+mulch
+mulct
+mule
+mules
+muley
+mull
+mulla
+mulls
+multi
+mum
+mummy
+mump
+mumps
+mun
+munch
+mung
+mungs
+muon
+muons
+mural
+mure
+murex
+murk
+murks
+murky
+murre
+mus
+muse
+mused
+muser
+muses
+mush
+mushy
+music
+musk
+musky
+muss
+mussy
+must
+musth
+musts
+musty
+mut
+mute
+muted
+muter
+mutes
+muts
+mutt
+mutts
+muzak
+muzz
+muzzy
+myall
+mycol
+myna
+mynah
+mynas
+myrrh
+mys
+myth
+myths
+naan
+naans
+nab
+nabob
+nabs
+nacho
+nacre
+nadir
+nae
+naevi
+naff
+nag
+nags
+nah
+naiad
+naif
+naifs
+nail
+nails
+naira
+naive
+naked
+naker
+nakfa
+name
+named
+namer
+names
+nance
+nancy
+nanny
+naos
+nap
+nape
+napes
+nappe
+nappy
+naps
+narc
+narcs
+nard
+nards
+nares
+naris
+nark
+narky
+nary
+nasal
+nasty
+natal
+natch
+nates
+natl
+natty
+naut
+nav
+naval
+navar
+nave
+navel
+naves
+navig
+navvy
+navy
+nawab
+nay
+nays
+neap
+neaps
+near
+nears
+neat
+neath
+neb
+nebs
+neck
+necks
+nee
+need
+needs
+needy
+neg
+negro
+negus
+neigh
+nelly
+neon
+neper
+neral
+nerd
+nerds
+nerdy
+nerve
+nervy
+ness
+nest
+nests
+net
+nets
+netty
+neume
+neut
+never
+nevi
+nevus
+new
+newel
+newer
+newly
+news
+newsy
+newt
+newts
+next
+nexus
+ngwee
+nib
+nibs
+nice
+nicer
+niche
+nick
+nicks
+nide
+nidus
+niece
+niff
+niffy
+nifty
+nigga
+nigh
+night
+nihil
+nil
+nim
+nimbi
+nimby
+nine
+nines
+ninja
+ninny
+ninon
+ninth
+nip
+nipa
+nipas
+nippy
+nips
+nisei
+nisi
+nisus
+nit
+nite
+niter
+nites
+nitid
+nitro
+nits
+nitty
+nival
+nix
+nixed
+nixes
+nob
+nobby
+noble
+nobly
+nobs
+nock
+nocks
+nod
+nodal
+noddy
+node
+nodes
+nodi
+nods
+nodus
+noel
+noels
+noes
+nog
+nogs
+nohow
+noil
+noise
+noisy
+nolo
+nom
+noma
+nomad
+nomen
+non
+nonce
+none
+nones
+nonet
+nook
+nooks
+nooky
+noon
+noons
+noose
+nope
+nor
+noria
+norm
+norms
+north
+nos
+nose
+nosed
+noses
+nosh
+nosy
+not
+notch
+note
+noted
+notes
+notum
+noun
+nouns
+nous
+nova
+novae
+novas
+novel
+now
+noway
+nowt
+nth
+nub
+nubby
+nubs
+nude
+nuder
+nudes
+nudge
+nuke
+nuked
+nukes
+null
+nulls
+numb
+numbs
+numen
+numis
+nun
+nuns
+nurse
+nus
+nut
+nuts
+nutty
+nyala
+nylon
+nymph
+oaf
+oafs
+oak
+oaken
+oaks
+oakum
+oar
+oared
+oars
+oases
+oasis
+oast
+oasts
+oat
+oaten
+oath
+oaths
+oats
+obb
+obdt
+obeah
+obeli
+obese
+obey
+obeys
+obi
+obis
+obit
+obits
+obj
+objet
+oboe
+oboes
+oboli
+obs
+occas
+occur
+ocean
+och
+ocher
+ocker
+ocrea
+oct
+octad
+octal
+octan
+octet
+oculi
+odd
+odder
+oddly
+odds
+ode
+odea
+odeon
+odes
+odeum
+odium
+odor
+odors
+odyl
+ofay
+off
+offal
+offed
+offer
+offs
+oft
+often
+ogee
+ogeed
+ogham
+ogive
+ogle
+ogled
+ogler
+ogles
+ogre
+ogres
+ohm
+ohmic
+ohms
+oho
+ohs
+oik
+oiks
+oil
+oiled
+oiler
+oils
+oily
+oink
+oinks
+oka
+okapi
+okas
+okay
+okays
+oke
+okra
+okras
+old
+olden
+older
+oldie
+ole
+oleic
+olein
+oleo
+oles
+oleum
+olid
+olio
+olive
+olla
+ollas
+ology
+omasa
+omber
+omega
+omen
+omens
+omer
+omit
+omits
+oms
+once
+one
+ones
+onion
+only
+onset
+ontic
+onto
+onus
+onyx
+oof
+ooh
+oohed
+oohs
+oomph
+oops
+ootid
+ooze
+oozed
+oozes
+oozy
+opah
+opahs
+opal
+opals
+ope
+oped
+open
+opens
+opera
+opes
+opine
+oping
+opium
+opp
+ops
+opt
+opted
+optic
+opts
+opus
+ora
+oral
+orals
+orang
+orate
+orb
+orbit
+orbs
+orc
+orca
+orcas
+orch
+orcs
+ord
+order
+ordn
+ordo
+ore
+oread
+ores
+org
+organ
+orgy
+oriel
+orig
+orle
+orlop
+ornis
+orris
+ort
+orts
+oryx
+orzo
+oses
+osier
+osmic
+other
+otic
+ottar
+otter
+otto
+ouch
+oud
+ought
+oui
+ounce
+ouphe
+our
+ours
+ousel
+oust
+ousts
+out
+outdo
+outed
+outer
+outgo
+outre
+outs
+outta
+ouzel
+ouzo
+ouzos
+ova
+oval
+ovals
+ovary
+ovate
+oven
+ovens
+over
+overs
+overt
+ovine
+ovoid
+ovolo
+ovule
+ovum
+owe
+owed
+owes
+owing
+owl
+owlet
+owls
+own
+owned
+owner
+owns
+oxbow
+oxen
+oxide
+oxime
+oyer
+oyez
+ozone
+pace
+paced
+pacer
+paces
+pacey
+pacha
+pack
+packs
+pact
+pacts
+pacy
+pad
+paddy
+padre
+pads
+paean
+paeon
+pagan
+page
+paged
+pager
+pages
+pah
+paid
+pail
+pails
+pain
+pains
+paint
+pair
+pairs
+paisa
+pal
+pale
+paled
+paleo
+paler
+pales
+pall
+palls
+pally
+palm
+palms
+palmy
+palp
+pals
+palsy
+paly
+pam
+pampa
+pan
+panda
+pane
+paned
+panel
+panes
+pang
+panga
+pangs
+panic
+panne
+pans
+pansy
+pant
+panto
+pants
+panty
+pap
+papa
+papal
+papas
+papaw
+paper
+pappy
+paps
+par
+para
+paras
+parch
+pard
+pare
+pared
+parer
+pares
+pareu
+park
+parka
+parks
+parky
+parol
+parr
+parrs
+parry
+pars
+parse
+part
+parts
+party
+parve
+pas
+pase
+pash
+pasha
+pashm
+pass
+passe
+past
+pasta
+paste
+pasts
+pasty
+pat
+patch
+pate
+paten
+pates
+path
+paths
+patin
+patio
+patly
+pats
+patsy
+patty
+pause
+pavan
+pave
+paved
+paves
+pavid
+pavis
+paw
+pawed
+pawl
+pawls
+pawn
+pawns
+paws
+pax
+paxes
+pay
+payed
+payee
+payer
+pays
+payt
+pct
+pea
+peace
+peach
+peag
+peags
+peak
+peaks
+peaky
+peal
+peals
+pean
+peans
+pear
+pearl
+pears
+peart
+peas
+peat
+peaty
+peba
+pebas
+pec
+pecan
+peck
+pecks
+pecs
+ped
+pedal
+pee
+peed
+peek
+peeks
+peel
+peels
+peen
+peens
+peep
+peeps
+peer
+peers
+pees
+peeve
+peg
+pegs
+pekan
+peke
+pekes
+pekoe
+pelf
+pelt
+pelts
+pen
+penal
+pence
+pend
+pends
+peng
+penis
+penna
+penne
+penni
+penny
+pens
+pent
+peon
+peons
+peony
+pep
+peppy
+peps
+per
+perch
+perdu
+pere
+peri
+peril
+peris
+perk
+perks
+perky
+perm
+perms
+perry
+perse
+pert
+perv
+pervs
+pes
+pesky
+peso
+pesos
+pest
+pesto
+pests
+pesty
+pet
+petal
+peter
+petit
+pets
+petty
+pew
+pewee
+pewit
+pews
+phage
+phase
+phat
+pheon
+phew
+phi
+phial
+phil
+phis
+phish
+phiz
+phlox
+pho
+phon
+phone
+phons
+phony
+phot
+photo
+phots
+phr
+phren
+phyla
+phyle
+phys
+piano
+pic
+pica
+pice
+pick
+picks
+picky
+picot
+pics
+picul
+pie
+piece
+pied
+pier
+piers
+pies
+piet
+pieta
+piety
+pig
+piggy
+pigs
+piing
+pika
+pikas
+pike
+piked
+piker
+pikes
+pilaf
+pilch
+pile
+piled
+pilei
+piles
+pili
+pill
+pills
+pilot
+pily
+pimp
+pimps
+pin
+pinch
+pine
+pined
+pines
+piney
+ping
+pings
+pink
+pinko
+pinks
+pinky
+pinna
+pinny
+pinon
+pins
+pint
+pinta
+pinto
+pints
+pinup
+piny
+pion
+pions
+pious
+pip
+pipe
+piped
+piper
+pipes
+pipit
+pips
+pique
+pirn
+pirog
+pis
+pish
+piso
+piss
+piste
+pit
+pita
+pitas
+pitch
+pith
+piths
+pithy
+piton
+pits
+pitta
+pity
+pivot
+pix
+pixel
+pixie
+pizz
+pizza
+pkg
+pkt
+pkwy
+place
+plage
+plaid
+plain
+plait
+plan
+plane
+plank
+plans
+plant
+plash
+plasm
+plat
+plate
+plats
+platy
+play
+playa
+plays
+plaza
+plea
+plead
+pleas
+pleat
+pleb
+plebe
+plebs
+plena
+plica
+plied
+plier
+plies
+ploce
+plod
+plods
+plonk
+plop
+plops
+plot
+plots
+plow
+plows
+ploy
+ploys
+pluck
+plug
+plugs
+plum
+plumb
+plume
+plump
+plums
+plumy
+plunk
+plur
+plus
+plush
+ply
+poach
+pock
+pocks
+pocky
+poco
+pod
+poddy
+pods
+poem
+poems
+poesy
+poet
+poets
+pogey
+pogge
+pogo
+pogy
+poi
+poilu
+point
+poise
+poke
+poked
+poker
+pokes
+pokey
+poky
+pol
+polar
+pole
+poled
+poler
+poles
+polio
+polis
+polit
+polka
+poll
+polls
+polo
+pols
+poly
+polyp
+polys
+pom
+pome
+pomes
+pommy
+pomp
+poms
+ponce
+poncy
+pond
+ponds
+pone
+pones
+pong
+pongs
+pons
+pony
+poo
+pooch
+pood
+poods
+pooed
+poof
+poofs
+pooh
+poohs
+pooka
+pool
+pools
+poon
+poons
+poop
+poops
+poor
+poos
+pop
+pope
+popes
+poppa
+poppy
+pops
+popup
+porch
+pore
+pored
+porer
+pores
+porgy
+pork
+porky
+porn
+porno
+port
+ports
+pos
+pose
+posed
+poser
+poses
+posh
+posit
+poss
+posse
+post
+posts
+posy
+pot
+pots
+potto
+potty
+pouch
+pouf
+poufs
+poult
+pound
+pour
+pours
+pout
+pouts
+pouty
+pow
+power
+pox
+poxes
+ppd
+ppm
+ppr
+pram
+prams
+prana
+prang
+prank
+prase
+prat
+prate
+prats
+prau
+prawn
+pray
+prays
+pred
+preen
+pref
+prem
+prep
+preps
+pres
+presa
+press
+pret
+prexy
+prey
+preys
+price
+prick
+pride
+pried
+prier
+pries
+prig
+prigs
+prim
+prime
+primo
+primp
+prink
+print
+prion
+prior
+prism
+priv
+privy
+prize
+pro
+proa
+prob
+probe
+proc
+prod
+prods
+proem
+prof
+profs
+prog
+prole
+prom
+promo
+proms
+pron
+prone
+prong
+proof
+prop
+propr
+props
+pros
+prose
+prosy
+proud
+prov
+prove
+prow
+prowl
+prows
+prox
+proxy
+prs
+prude
+prune
+pry
+psalm
+pseud
+psf
+pshaw
+psi
+psia
+psid
+psis
+psoas
+psst
+psych
+ptg
+pts
+pub
+pubes
+pubic
+pubis
+publ
+pubs
+puca
+puce
+puck
+pucka
+pucks
+pud
+pudgy
+puds
+puff
+puffs
+puffy
+pug
+pugs
+puke
+puked
+pukes
+pukka
+pul
+pula
+pulas
+pule
+puled
+puler
+pules
+puli
+pull
+pulls
+pulp
+pulps
+pulpy
+puls
+pulse
+puma
+pumas
+pump
+pumps
+pun
+punch
+pung
+pungs
+pungy
+punk
+punks
+puns
+punt
+punts
+puny
+pup
+pupa
+pupae
+pupal
+pupil
+puppy
+pups
+pure
+puree
+purer
+purge
+purl
+purls
+purr
+purrs
+purse
+pursy
+pus
+push
+pushy
+puss
+pussy
+put
+puts
+putt
+putto
+putts
+putty
+putz
+pvt
+pwn
+pwned
+pwns
+pwt
+pya
+pyas
+pye
+pygmy
+pylon
+pyoid
+pyre
+pyres
+pyx
+pyxes
+pyxie
+pzazz
+qadi
+qibla
+qoph
+qophs
+qto
+qts
+qty
+qua
+quack
+quad
+quads
+quaff
+quag
+quai
+quail
+quake
+quaky
+quale
+qualm
+quant
+quark
+quart
+quash
+quasi
+quass
+quay
+quays
+quean
+queen
+queer
+quell
+quern
+query
+ques
+quest
+queue
+quick
+quid
+quids
+quiet
+quiff
+quill
+quilt
+quin
+quine
+quins
+quint
+quip
+quips
+quipu
+quire
+quirk
+quirt
+quit
+quite
+quits
+quiz
+quo
+quod
+quoin
+quoit
+quot
+quota
+quote
+quoth
+rabbi
+rabid
+race
+raced
+racer
+races
+rack
+racks
+racon
+racy
+rad
+radar
+radii
+radio
+radix
+radon
+rads
+raff
+raft
+rafts
+rag
+raga
+ragas
+rage
+raged
+rages
+ragga
+ragi
+ragis
+rags
+rah
+raid
+raids
+rail
+rails
+rain
+rains
+rainy
+raise
+raj
+raja
+rajah
+rajas
+rajes
+rake
+raked
+raker
+rakes
+raki
+rale
+rales
+rall
+rally
+ram
+ramen
+ramie
+ramp
+ramps
+rams
+ran
+rance
+ranch
+rand
+randy
+ranee
+rang
+range
+rangy
+rani
+ranis
+rank
+ranks
+rant
+rants
+rap
+rape
+raped
+raper
+rapes
+rapid
+raps
+rapt
+rare
+rared
+rarer
+rares
+rash
+rasp
+rasps
+raspy
+rat
+rata
+ratal
+ratan
+rate
+rated
+ratel
+rater
+rates
+rath
+rathe
+ratio
+rats
+ratty
+rave
+raved
+ravel
+raven
+raver
+raves
+ravin
+raw
+rawer
+ray
+rayon
+rays
+raze
+razed
+razee
+razes
+razor
+razz
+rcd
+rcpt
+reach
+react
+read
+reads
+ready
+real
+realm
+reals
+ream
+reams
+reap
+reaps
+rear
+rearm
+rears
+reata
+reave
+rebec
+rebel
+rebid
+rebus
+rebut
+rec
+recap
+recce
+recd
+reck
+recon
+rect
+recti
+recto
+recur
+recut
+red
+redan
+redd
+rede
+redid
+redly
+redo
+reds
+redux
+redye
+reed
+reeds
+reedy
+reef
+reefs
+reek
+reeks
+reeky
+reel
+reels
+reest
+reeve
+ref
+refer
+refit
+refix
+refl
+refry
+refs
+reft
+reg
+regal
+regex
+rehab
+rehi
+reify
+reign
+rein
+reins
+reive
+rejig
+rel
+relax
+relay
+relic
+rely
+rem
+remap
+remex
+remit
+remix
+rems
+renal
+rend
+rends
+renew
+renin
+rent
+rents
+reorg
+rep
+repay
+repel
+reply
+repp
+repps
+repro
+reps
+rept
+req
+reran
+rerun
+res
+resat
+reset
+resew
+resin
+resit
+resow
+resp
+rest
+rests
+retch
+retd
+rete
+retie
+retro
+retry
+rets
+reuse
+rev
+revel
+revet
+revs
+revue
+rewed
+rhea
+rheas
+rheo
+rhet
+rheum
+rhino
+rho
+rhomb
+rhos
+rhumb
+rhyme
+ria
+rial
+rials
+riant
+riata
+rib
+ribs
+rice
+riced
+ricer
+rices
+rich
+rick
+ricks
+rid
+ride
+rider
+rides
+ridge
+ridgy
+rids
+riel
+riels
+rife
+rifer
+riff
+riffs
+rifle
+rift
+rifts
+rig
+right
+rigid
+rigor
+rigs
+rile
+riled
+riles
+rill
+rille
+rills
+rim
+rime
+rimed
+rimes
+rims
+rimy
+rind
+rinds
+ring
+rings
+rink
+rinks
+rinse
+riot
+riots
+rip
+ripe
+ripen
+riper
+rips
+rise
+risen
+riser
+rises
+rishi
+risk
+risks
+risky
+rit
+rite
+rites
+ritzy
+riv
+rival
+rive
+rived
+riven
+river
+rives
+rivet
+riyal
+rms
+roach
+road
+roads
+roam
+roams
+roan
+roans
+roar
+roars
+roast
+rob
+robe
+robed
+robes
+robin
+roble
+robot
+robs
+roc
+rock
+rocks
+rocky
+rocs
+rod
+rode
+rodeo
+rods
+roe
+roes
+roger
+rogue
+roil
+roils
+roily
+role
+roles
+roll
+rolls
+rom
+roman
+romeo
+romp
+romps
+ronde
+rondo
+roo
+rood
+roods
+roof
+roofs
+rook
+rooks
+rooky
+room
+rooms
+roomy
+roose
+roost
+root
+roots
+rope
+roped
+roper
+ropes
+ropy
+roque
+rose
+roses
+rosin
+rosy
+rot
+rota
+rotas
+rote
+rotl
+rotls
+rotor
+rots
+roue
+roues
+rouge
+rough
+round
+roup
+rouse
+roust
+rout
+route
+routs
+roux
+rove
+roved
+rover
+roves
+row
+rowan
+rowdy
+rowed
+rowel
+rower
+rows
+royal
+rpm
+rps
+rpt
+rte
+rub
+rube
+rubel
+rubes
+ruble
+rubs
+ruby
+ruche
+ruck
+rucks
+rudd
+rudds
+ruddy
+rude
+ruder
+rue
+rued
+rues
+ruff
+ruffs
+rug
+rugby
+rugs
+ruin
+ruing
+ruins
+rule
+ruled
+ruler
+rules
+rum
+rumal
+rumba
+rumen
+rummy
+rumor
+rump
+rumps
+rums
+run
+rune
+runes
+rung
+rungs
+runic
+runny
+runs
+runt
+runts
+runty
+rupee
+rural
+ruse
+ruses
+rush
+rushy
+rusk
+rusks
+rust
+rusts
+rusty
+rut
+ruth
+ruths
+ruts
+rutty
+rya
+ryas
+rye
+saber
+sabin
+sable
+sabot
+sabra
+sabre
+sac
+sack
+sacks
+sacra
+sacs
+sad
+sades
+sadhu
+sadly
+safe
+safer
+safes
+sag
+saga
+sagas
+sage
+sager
+sages
+saggy
+sago
+sags
+sahib
+said
+saiga
+sail
+sails
+sain
+saint
+saith
+sake
+saker
+sakes
+saki
+sakis
+sal
+salad
+sale
+salep
+sales
+sally
+salmi
+salol
+salon
+salpa
+salsa
+salt
+salts
+salty
+salve
+salvo
+samba
+sambo
+same
+sames
+samey
+sand
+sands
+sandy
+sane
+saner
+sang
+sangs
+sank
+sans
+sap
+sapid
+sapor
+sappy
+saps
+saran
+sard
+sards
+sarge
+sari
+saris
+sarky
+saros
+sash
+sasin
+sass
+sassy
+sat
+satay
+sate
+sated
+satem
+sates
+sati
+satin
+satyr
+sauce
+saucy
+sauna
+saury
+saute
+save
+saved
+saver
+saves
+savor
+savoy
+savvy
+saw
+sawed
+sawer
+saws
+sax
+saxes
+say
+sayer
+says
+scab
+scabs
+scad
+scads
+scag
+scags
+scald
+scale
+scalp
+scaly
+scam
+scamp
+scams
+scan
+scans
+scant
+scape
+scar
+scare
+scarf
+scarp
+scars
+scary
+scat
+scats
+scend
+scene
+scent
+sch
+schmo
+schwa
+sci
+scion
+scoff
+scold
+scone
+scoop
+scoot
+scop
+scope
+score
+scorn
+scot
+scour
+scout
+scow
+scowl
+scows
+scr
+scrag
+scram
+scrap
+scree
+screw
+scrim
+scrip
+scrod
+scrog
+scrub
+scrum
+scuba
+scud
+scudo
+scuds
+scuff
+scull
+sculp
+scum
+scums
+scup
+scups
+scurf
+scut
+scuta
+scute
+scuts
+sea
+seal
+seals
+seam
+seams
+seamy
+sear
+sears
+seas
+seat
+seats
+sebum
+sec
+secco
+sech
+secs
+sect
+sects
+secy
+sedan
+sedge
+sedgy
+sedum
+see
+seed
+seeds
+seedy
+seek
+seeks
+seel
+seels
+seem
+seems
+seen
+seep
+seeps
+seer
+seers
+sees
+segno
+segue
+seine
+seise
+seism
+seize
+selah
+self
+sell
+sells
+sem
+semen
+semi
+semis
+sen
+send
+sends
+sene
+senna
+senor
+sens
+sense
+sent
+sente
+sepal
+sepia
+sepoy
+sept
+septa
+septs
+seq
+seqq
+ser
+serai
+sere
+serer
+serf
+serfs
+serge
+serif
+serin
+serow
+serum
+serve
+servo
+set
+seta
+setae
+sets
+sett
+setts
+setup
+seven
+sever
+sew
+sewan
+sewed
+sewer
+sewn
+sews
+sex
+sexed
+sexes
+sext
+sexts
+sexy
+sgd
+shack
+shad
+shade
+shads
+shady
+shaft
+shag
+shags
+shah
+shahs
+shake
+shako
+shaky
+shale
+shall
+shalt
+sham
+shame
+shams
+shank
+shape
+shard
+share
+shark
+sharp
+shat
+shave
+shaw
+shawl
+shawm
+shay
+shays
+she
+sheaf
+shear
+shed
+sheds
+sheen
+sheep
+sheer
+sheet
+sheik
+shelf
+shell
+shend
+sher
+sherd
+shes
+shew
+shewn
+shews
+shh
+shied
+shier
+shies
+shift
+shill
+shim
+shims
+shin
+shine
+shins
+shiny
+ship
+ships
+shire
+shirk
+shirr
+shirt
+shit
+shits
+shiv
+shiva
+shive
+shivs
+shmo
+shoal
+shoat
+shock
+shod
+shoe
+shoes
+shone
+shoo
+shook
+shool
+shoos
+shoot
+shop
+shops
+shore
+short
+shot
+shote
+shots
+shout
+shove
+show
+shown
+shows
+showy
+shpt
+shr
+shred
+shrew
+shrub
+shrug
+shtg
+shuck
+shul
+shun
+shuns
+shunt
+shush
+shut
+shuts
+shy
+shyer
+shyly
+sib
+sibs
+sibyl
+sic
+sick
+sicko
+sicks
+sics
+side
+sided
+sides
+sidle
+siege
+sieve
+sift
+sifts
+sig
+sigh
+sighs
+sight
+sigil
+sigma
+sign
+signs
+sika
+sikas
+sike
+sild
+silds
+silk
+silks
+silky
+sill
+sills
+silly
+silo
+silos
+silt
+silts
+silty
+silva
+sim
+sima
+simar
+simba
+simp
+sims
+sin
+since
+sine
+sines
+sinew
+sing
+singe
+sings
+sinh
+sink
+sinks
+sins
+sinus
+sip
+sips
+sir
+sire
+sired
+siree
+siren
+sires
+sirs
+sis
+sisal
+sises
+sissy
+sit
+sitar
+site
+sited
+sites
+sits
+situ
+situs
+six
+sixes
+sixth
+sixty
+sizar
+size
+sized
+sizer
+sizes
+ska
+skald
+skat
+skate
+skean
+skeet
+skeg
+skegs
+skein
+skelp
+skep
+skeps
+skew
+skews
+ski
+skid
+skids
+skied
+skier
+skies
+skiff
+skill
+skim
+skimp
+skims
+skin
+skink
+skins
+skint
+skip
+skips
+skirl
+skirr
+skirt
+skis
+skit
+skite
+skits
+skive
+skoal
+skol
+skosh
+skua
+skuas
+skulk
+skull
+skunk
+sky
+slab
+slabs
+slack
+slag
+slags
+slain
+slake
+slam
+slams
+slang
+slant
+slap
+slaps
+slash
+slat
+slate
+slats
+slaty
+slave
+slaw
+slay
+slays
+sld
+sled
+sleds
+sleek
+sleep
+sleet
+slept
+slew
+slews
+slice
+slick
+slid
+slide
+slier
+slim
+slime
+slims
+slimy
+sling
+slink
+slip
+slips
+slit
+slits
+slob
+slobs
+sloe
+sloes
+slog
+slogs
+sloop
+slop
+slope
+slops
+slosh
+slot
+sloth
+slots
+slow
+slows
+slub
+slubs
+slue
+slued
+slues
+sluff
+slug
+slugs
+slum
+slump
+slums
+slung
+slunk
+slur
+slurp
+slurs
+slush
+slut
+sluts
+sly
+slyer
+slyly
+slype
+smack
+small
+smalt
+smarm
+smart
+smash
+smaze
+smear
+smell
+smelt
+smew
+smews
+smile
+smirk
+smite
+smith
+smock
+smog
+smogs
+smoke
+smoko
+smoky
+smolt
+smote
+smug
+smurf
+smut
+smuts
+snack
+snafu
+snag
+snags
+snail
+snake
+snaky
+snap
+snaps
+snare
+snarf
+snark
+snarl
+snath
+sneak
+sneck
+sneer
+snick
+snide
+sniff
+snip
+snipe
+snips
+snit
+snits
+snob
+snobs
+snog
+snogs
+snood
+snook
+snoop
+snoot
+snore
+snort
+snot
+snots
+snout
+snow
+snows
+snowy
+snub
+snubs
+snuff
+snug
+snugs
+soak
+soaks
+soap
+soaps
+soapy
+soar
+soars
+soave
+sob
+soba
+sober
+sobs
+soc
+sock
+socks
+socle
+sod
+soda
+sodas
+sods
+sofa
+sofar
+sofas
+soft
+softa
+softy
+soggy
+soil
+soils
+soke
+sol
+sola
+solan
+solar
+sold
+soldo
+sole
+soled
+soles
+solid
+solo
+solon
+solos
+sols
+solus
+solve
+som
+soma
+somas
+some
+son
+sonar
+sonde
+sone
+sones
+song
+songs
+sonic
+sonly
+sonny
+sons
+soon
+soot
+sooth
+sooty
+sop
+soph
+sopor
+soppy
+sops
+sora
+sorb
+sorbs
+sore
+sorer
+sores
+sorgo
+sori
+sorn
+sorry
+sort
+sorta
+sorts
+sorus
+sot
+sots
+sou
+sough
+souk
+souks
+soul
+souls
+sound
+soup
+soups
+soupy
+sour
+sours
+sous
+souse
+south
+sow
+sowed
+sower
+sown
+sows
+soy
+spa
+space
+spade
+spae
+spahi
+spake
+spall
+spam
+spams
+span
+spang
+spank
+spans
+spar
+spare
+spark
+spars
+spas
+spasm
+spat
+spate
+spats
+spawn
+spay
+spays
+speak
+spear
+spec
+speck
+specs
+sped
+speed
+spell
+spend
+spent
+speos
+sperm
+spew
+spews
+spic
+spica
+spice
+spics
+spicy
+spied
+spiel
+spier
+spies
+spiff
+spike
+spiky
+spile
+spill
+spin
+spine
+spins
+spiny
+spire
+spiry
+spit
+spite
+spits
+spitz
+spiv
+spivs
+splat
+splay
+split
+spoil
+spoke
+spoof
+spook
+spool
+spoon
+spoor
+spore
+sport
+spot
+spots
+spout
+spp
+sprag
+sprat
+spray
+spree
+sprig
+sprit
+sprog
+sprue
+spry
+spud
+spuds
+spue
+spued
+spues
+spume
+spumy
+spun
+spunk
+spur
+spurn
+spurs
+spurt
+sputa
+spy
+sqq
+squab
+squad
+squat
+squaw
+squib
+squid
+sri
+sruti
+ssh
+stab
+stabs
+stacc
+stack
+staff
+stag
+stage
+stags
+stagy
+staid
+stain
+stair
+stake
+stale
+stalk
+stall
+stamp
+stand
+stane
+stang
+stank
+staph
+star
+stare
+stark
+stars
+start
+stash
+stat
+state
+stats
+stave
+stay
+stays
+std
+stdio
+stead
+steak
+steal
+steam
+steed
+steel
+steep
+steer
+stein
+stela
+stele
+stem
+stems
+steno
+stent
+step
+steps
+ster
+stere
+stern
+stet
+stets
+stew
+stews
+stg
+stge
+stich
+stick
+sties
+stiff
+stile
+still
+stilt
+sting
+stink
+stint
+stipe
+stir
+stirk
+stirs
+stoa
+stoat
+stob
+stock
+stogy
+stoic
+stoke
+stole
+stoma
+stomp
+stone
+stony
+stood
+stook
+stool
+stoop
+stop
+stope
+stops
+stor
+store
+stork
+storm
+story
+stoss
+stoup
+stout
+stove
+stow
+stows
+str
+strap
+straw
+stray
+strep
+strew
+stria
+strip
+strop
+strow
+stroy
+strum
+strut
+stub
+stubs
+stuck
+stud
+studs
+study
+stuff
+stull
+stump
+stun
+stung
+stunk
+stuns
+stunt
+stupa
+stupe
+sty
+stye
+styes
+style
+styli
+suave
+sub
+subj
+subs
+such
+suck
+sucks
+sucre
+sud
+sudd
+sudor
+suds
+sudsy
+sue
+sued
+suede
+suer
+sues
+suet
+suety
+sugar
+suing
+suint
+suit
+suite
+suits
+sulci
+sulfa
+sulk
+sulks
+sulky
+sully
+sum
+sumac
+summa
+sumo
+sump
+sumps
+sums
+sun
+sung
+sunk
+sunn
+sunny
+suns
+sunup
+sup
+super
+supp
+suppl
+supra
+sups
+supt
+sura
+surah
+sural
+suras
+surd
+surds
+sure
+surer
+surf
+surfs
+surg
+surge
+surgy
+surly
+surra
+surv
+sushi
+suss
+sutra
+swab
+swabs
+swag
+swage
+swags
+swain
+swale
+swam
+swami
+swamp
+swan
+swank
+swans
+swap
+swaps
+sward
+swarm
+swart
+swash
+swat
+swath
+swats
+sway
+sways
+swear
+sweat
+swede
+sweep
+sweet
+swell
+swept
+swift
+swig
+swigs
+swill
+swim
+swims
+swine
+swing
+swink
+swipe
+swirl
+swish
+swiz
+swizz
+swoon
+swoop
+sword
+swore
+sworn
+swot
+swots
+swum
+swung
+syce
+sycee
+sylph
+sym
+syn
+sync
+syncs
+synd
+syne
+synod
+synop
+synth
+syrup
+sysop
+syst
+tab
+tabby
+tabes
+tabla
+table
+taboo
+tabor
+tabs
+tace
+tacet
+tach
+tache
+tacit
+tack
+tacks
+tacky
+taco
+tacos
+tact
+tad
+tads
+tael
+taffy
+tafia
+tag
+tags
+tahr
+taiga
+tail
+tails
+tain
+taint
+taka
+takas
+take
+taken
+taker
+takes
+takin
+tala
+talas
+talc
+tale
+taler
+tales
+tali
+talk
+talks
+talky
+tall
+tally
+talon
+taluk
+talus
+tam
+tame
+tamed
+tamer
+tames
+tamis
+tammy
+tamp
+tamps
+tams
+tan
+tana
+tang
+tango
+tangs
+tangy
+tanh
+tank
+tanka
+tanks
+tans
+tansy
+tanto
+tap
+tapas
+tape
+taped
+taper
+tapes
+tapir
+tapis
+taps
+tar
+tardy
+tare
+tared
+tares
+targe
+tarn
+tarns
+taro
+taros
+tarot
+tarp
+tarps
+tarry
+tars
+tarsi
+tart
+tarts
+tarty
+taser
+task
+tasks
+tass
+tasse
+taste
+tasty
+tat
+tater
+tats
+tatty
+tau
+taunt
+taupe
+taus
+taut
+taw
+tawny
+taws
+tax
+taxa
+taxed
+taxer
+taxes
+taxi
+taxis
+taxon
+tayra
+tazza
+tbs
+tbsp
+tea
+teach
+teak
+teaks
+teal
+teals
+team
+teams
+tear
+tears
+teary
+teas
+tease
+teat
+teats
+tech
+techs
+techy
+ted
+teddy
+teds
+tee
+teed
+teem
+teems
+teen
+teens
+teeny
+tees
+teeth
+tel
+teleg
+telex
+telic
+tell
+tells
+telly
+tels
+temp
+tempi
+tempo
+temps
+tempt
+ten
+tench
+tend
+tends
+tenet
+tenge
+tenia
+tenne
+tenno
+tenon
+tenor
+tens
+tense
+tent
+tenth
+tents
+tepee
+tepid
+ter
+terce
+terf
+term
+terms
+tern
+terns
+terr
+terra
+terry
+terse
+tesla
+test
+testa
+tests
+testy
+teth
+teths
+tetra
+text
+texts
+than
+thane
+thank
+thar
+that
+thaw
+thaws
+the
+thebe
+theca
+thee
+thees
+theft
+thegn
+their
+them
+theme
+then
+theol
+there
+therm
+these
+theta
+thew
+thews
+thewy
+they
+thick
+thief
+thigh
+thill
+thin
+thine
+thing
+think
+thins
+thiol
+third
+this
+tho
+thole
+thong
+thorn
+thorp
+those
+thou
+thous
+three
+threw
+throb
+throe
+throw
+thru
+thrum
+thud
+thuds
+thug
+thugs
+thuja
+thumb
+thump
+thunk
+thus
+thuya
+thy
+thyme
+tiara
+tibia
+tic
+tical
+tick
+ticks
+tics
+tidal
+tide
+tided
+tides
+tidy
+tie
+tied
+tier
+tiers
+ties
+tiff
+tiffs
+tiger
+tight
+tigon
+tiki
+til
+tilde
+tile
+tiled
+tiler
+tiles
+till
+tills
+tilt
+tilth
+tilts
+time
+timed
+timer
+times
+timid
+tin
+tinct
+tine
+tinea
+tined
+tines
+ting
+tinge
+tings
+tinny
+tins
+tint
+tints
+tiny
+tip
+tips
+tipsy
+tire
+tired
+tires
+tit
+titan
+titch
+titer
+tithe
+titi
+titis
+title
+tits
+titty
+tizz
+tizzy
+tnpk
+toad
+toads
+toady
+toast
+tod
+today
+toddy
+tody
+toe
+toea
+toeas
+toed
+toes
+toff
+toffs
+toft
+tofu
+tog
+toga
+togas
+togs
+toil
+toile
+toils
+tokay
+toke
+toked
+token
+tokes
+tola
+tolan
+tolar
+told
+tole
+toll
+tolls
+tolly
+tolu
+tolus
+tolyl
+tom
+tomb
+tombs
+tome
+tomes
+toms
+ton
+tonal
+tone
+toned
+toner
+tones
+tong
+tonga
+tongs
+tonic
+tonne
+tons
+tonus
+tony
+too
+took
+tool
+tools
+toot
+tooth
+toots
+top
+topaz
+tope
+toped
+topee
+toper
+topes
+topi
+topic
+topis
+topog
+tops
+toque
+tor
+torah
+torch
+tore
+tori
+torii
+torn
+torr
+torrs
+tors
+torse
+torsk
+torso
+tort
+torte
+torts
+torus
+tosh
+toss
+tot
+total
+tote
+toted
+totem
+toter
+totes
+tots
+touch
+tough
+tour
+tours
+tout
+touts
+tow
+towed
+towel
+tower
+town
+towns
+tows
+tox
+toxic
+toxin
+toy
+toyed
+toys
+trace
+track
+tract
+trad
+trade
+trail
+train
+trait
+tram
+tramp
+trams
+trans
+trap
+traps
+trash
+trass
+trave
+trawl
+tray
+trays
+tread
+treas
+treat
+tree
+treed
+treen
+trees
+trek
+treks
+trend
+tres
+tress
+tret
+trews
+trey
+treys
+triad
+trial
+tribe
+trice
+trick
+tried
+trier
+tries
+trig
+trike
+trill
+trim
+trims
+trine
+trio
+trios
+trip
+tripe
+trips
+trite
+troat
+trod
+troll
+tromp
+tron
+trona
+trons
+troop
+trope
+trot
+troth
+trots
+trout
+trove
+trow
+trows
+troy
+troys
+truce
+truck
+trued
+truer
+trues
+trug
+trugs
+trull
+truly
+trump
+trunk
+truss
+trust
+truth
+try
+tryma
+tryst
+tsp
+ttys
+tub
+tuba
+tubal
+tubas
+tubby
+tube
+tubed
+tuber
+tubes
+tubs
+tuck
+tucks
+tufa
+tuff
+tuft
+tufts
+tufty
+tug
+tugs
+tui
+tulip
+tulle
+tum
+tumid
+tummy
+tumor
+tums
+tun
+tuna
+tunas
+tune
+tuned
+tuner
+tunes
+tunic
+tunny
+tuns
+tuple
+tuque
+turbo
+turd
+turds
+turf
+turfs
+turfy
+turn
+turns
+turps
+tush
+tushy
+tusk
+tusks
+tut
+tutor
+tuts
+tutti
+tutty
+tutu
+tutus
+tux
+tuxes
+twain
+twang
+twas
+twat
+twats
+tweak
+twee
+tweed
+tween
+tweet
+twerk
+twerp
+twice
+twig
+twigs
+twill
+twin
+twine
+twink
+twins
+twirl
+twist
+twit
+twits
+twixt
+two
+twos
+twp
+tyg
+tying
+tyke
+tykes
+typ
+typal
+type
+typed
+types
+typo
+typos
+typw
+tyro
+tyros
+udder
+udo
+ugh
+ugly
+uhf
+uhlan
+ukase
+ulcer
+ulema
+ulna
+ulnae
+ulnar
+ult
+ultra
+umbel
+umber
+umbra
+umiak
+ump
+umped
+umps
+unapt
+unarm
+unary
+unbar
+unbid
+unbox
+uncap
+uncle
+uncut
+under
+undid
+undo
+undue
+unfed
+unfit
+unfix
+uni
+unify
+union
+unis
+unit
+unite
+units
+unity
+univ
+unjam
+unlay
+unlit
+unman
+unmet
+unpeg
+unpen
+unpin
+unrig
+unsay
+unset
+unsex
+untie
+until
+unto
+unwed
+unwon
+unzip
+upas
+updo
+upend
+upon
+upped
+upper
+ups
+upset
+urban
+urea
+uredo
+urge
+urged
+urger
+urges
+urial
+uric
+urine
+urn
+urns
+urus
+usage
+use
+used
+user
+users
+uses
+usher
+using
+usu
+usual
+usurp
+usury
+uteri
+utile
+uts
+utter
+uvea
+uveas
+uvula
+vac
+vacs
+vagal
+vagi
+vague
+vagus
+vail
+vain
+vair
+val
+vale
+vales
+valet
+valid
+valor
+valse
+value
+valve
+vamp
+vamps
+vampy
+van
+vanda
+vane
+vanes
+vang
+vans
+vape
+vaped
+vapes
+vapid
+vapor
+var
+vara
+varas
+varia
+varix
+vars
+varus
+varve
+vary
+vas
+vasa
+vase
+vases
+vast
+vasts
+vasty
+vat
+vatic
+vats
+vatu
+vault
+vaunt
+vav
+veal
+vedic
+veep
+veeps
+veer
+veers
+veery
+veg
+vegan
+veges
+vegs
+veil
+veils
+vein
+veins
+veiny
+vel
+vela
+velar
+veld
+velds
+velum
+vena
+venae
+venal
+vend
+vends
+venge
+venin
+venom
+vent
+vents
+venue
+verb
+verbs
+verge
+versa
+verse
+verso
+verst
+vert
+vertu
+verve
+very
+vest
+vesta
+vests
+vet
+vetch
+veter
+veto
+vets
+vex
+vexed
+vexes
+vhf
+via
+vial
+vials
+viand
+vibe
+vibes
+vicar
+vice
+viced
+vices
+vide
+video
+vie
+vied
+vier
+vies
+view
+views
+viewy
+vigil
+vigor
+vii
+viii
+vil
+vile
+viler
+villa
+villi
+vim
+vimen
+vina
+vine
+vines
+vinic
+vino
+vinyl
+viol
+viola
+viols
+viper
+viral
+vireo
+virga
+virtu
+virus
+visa
+visas
+vise
+vised
+vises
+visit
+visor
+vista
+vita
+vitae
+vital
+vitta
+viva
+vivas
+vive
+vivid
+vixen
+viz
+vlf
+voc
+vocab
+vocal
+vodka
+voe
+voes
+vogue
+voice
+void
+voids
+voila
+voile
+vol
+volar
+vole
+voles
+vols
+volt
+volts
+volva
+vomer
+vomit
+vote
+voted
+voter
+votes
+vouch
+vouge
+vow
+vowed
+vowel
+vower
+vows
+vulg
+vulva
+vying
+wack
+wacke
+wacko
+wacks
+wacky
+wad
+wade
+waded
+wader
+wades
+wadge
+wadi
+wadis
+wads
+wafer
+waft
+wafts
+wag
+wage
+waged
+wager
+wages
+wagon
+wags
+wahoo
+waif
+waifs
+wail
+wails
+wain
+wains
+waist
+wait
+waits
+waive
+wake
+waked
+waken
+wakes
+waldo
+wale
+waled
+wales
+walk
+walks
+wall
+walls
+wally
+waltz
+wame
+wan
+wand
+wands
+wane
+waned
+wanes
+wank
+wanks
+wanly
+wanna
+want
+wants
+war
+ward
+wards
+ware
+wares
+warez
+warm
+warms
+warn
+warns
+warp
+warps
+wars
+wart
+warts
+warty
+wary
+was
+wash
+washy
+wasp
+wasps
+wast
+waste
+wat
+watch
+water
+watt
+watts
+wave
+waved
+waver
+waves
+wavy
+waw
+waws
+wax
+waxed
+waxen
+waxes
+waxy
+way
+ways
+wazoo
+weak
+weal
+weald
+weals
+wean
+weans
+wear
+wears
+weary
+weave
+web
+webby
+weber
+webs
+wed
+wedge
+weds
+wee
+weed
+weeds
+weedy
+week
+weeks
+ween
+weens
+weeny
+weep
+weeps
+weepy
+weer
+wees
+weest
+weft
+wefts
+weigh
+weir
+weird
+weirs
+weka
+wekas
+weld
+welds
+well
+wells
+welly
+welsh
+welt
+welts
+wen
+wench
+wend
+wends
+wens
+went
+wept
+were
+wersh
+wert
+west
+wet
+wetly
+wets
+whack
+whale
+wham
+whams
+whap
+whaps
+wharf
+what
+whats
+wheal
+wheat
+whee
+wheel
+wheen
+whelk
+whelm
+whelp
+when
+whens
+where
+whet
+whets
+whew
+whey
+whf
+which
+whiff
+while
+whim
+whims
+whin
+whine
+whins
+whiny
+whip
+whips
+whipt
+whir
+whirl
+whirs
+whish
+whisk
+whist
+whit
+white
+whits
+whity
+whiz
+whizz
+who
+whoa
+whole
+whom
+whomp
+whoop
+whop
+whops
+whore
+whorl
+whose
+whoso
+whsle
+whup
+whups
+why
+whys
+wick
+wicks
+wide
+widen
+wider
+wides
+widow
+width
+wield
+wife
+wig
+wight
+wigs
+wiki
+wikis
+wild
+wilds
+wile
+wiled
+wiles
+will
+wills
+willy
+wilt
+wilts
+wily
+wimp
+wimps
+wimpy
+win
+wince
+winch
+wind
+winds
+windy
+wine
+wined
+wines
+wing
+wings
+wink
+winks
+wino
+winos
+wins
+winy
+winze
+wipe
+wiped
+wiper
+wipes
+wire
+wired
+wirer
+wires
+wirra
+wiry
+wise
+wised
+wiser
+wises
+wish
+wisp
+wisps
+wispy
+wist
+wit
+witch
+wite
+with
+withe
+withy
+wits
+witty
+wive
+wived
+wives
+wiz
+wizen
+wizes
+wkly
+wmk
+woad
+woald
+wodge
+woe
+woes
+wog
+wogs
+wok
+woke
+woken
+woks
+wold
+wolds
+wolf
+wolfs
+woman
+womb
+wombs
+women
+won
+wonk
+wonks
+wonky
+wont
+woo
+wood
+woods
+woody
+wooed
+wooer
+woof
+woofs
+wool
+wools
+woops
+woos
+woozy
+wop
+wops
+word
+words
+wordy
+wore
+work
+works
+world
+worm
+worms
+wormy
+worn
+worry
+worse
+worst
+wort
+worth
+wot
+would
+wound
+wove
+woven
+wow
+wowed
+wows
+wpm
+wrack
+wrap
+wraps
+wrath
+wreak
+wreck
+wren
+wrens
+wrest
+wring
+wrist
+writ
+write
+writs
+wrong
+wrote
+wroth
+wrung
+wry
+wryer
+wryly
+wurst
+wuss
+wussy
+wynd
+xci
+xcii
+xciv
+xcix
+xcvi
+xcvii
+xebec
+xenia
+xenon
+xeric
+xerox
+xii
+xiii
+xis
+xiv
+xix
+xor
+xref
+xrefs
+xterm
+xvi
+xvii
+xviii
+xxi
+xxii
+xxiii
+xxiv
+xxix
+xxv
+xxvi
+xxvii
+xxx
+xxxi
+xxxii
+xxxiv
+xxxix
+xxxv
+xxxvi
+xylem
+xylol
+yacht
+yah
+yahoo
+yak
+yakka
+yaks
+yam
+yamen
+yams
+yang
+yank
+yanks
+yap
+yapok
+yapon
+yappy
+yaps
+yard
+yards
+yare
+yarn
+yarns
+yaw
+yawed
+yawl
+yawls
+yawn
+yawns
+yawp
+yawps
+yaws
+yea
+yeah
+yeahs
+yean
+yeans
+year
+yearn
+years
+yeas
+yeast
+yegg
+yeggs
+yeld
+yell
+yells
+yelp
+yelps
+yen
+yens
+yenta
+yep
+yeps
+yer
+yes
+yeses
+yest
+yet
+yeti
+yetis
+yew
+yews
+yid
+yids
+yield
+yikes
+yin
+yip
+yipe
+yips
+ylem
+yob
+yobbo
+yobs
+yod
+yodel
+yodle
+yoga
+yogh
+yogi
+yogic
+yogis
+yoke
+yoked
+yokel
+yokes
+yolk
+yolks
+yon
+yoni
+yonks
+yore
+york
+you
+young
+your
+yours
+yous
+youth
+yow
+yowl
+yowls
+yrs
+yuan
+yucca
+yuck
+yucks
+yucky
+yuk
+yukky
+yuks
+yulan
+yule
+yum
+yummy
+yup
+yups
+yurt
+yurts
+ywis
+zaire
+zamia
+zany
+zap
+zappy
+zaps
+zarf
+zarfs
+zayin
+zazen
+zeal
+zebec
+zebra
+zebu
+zebus
+zed
+zeds
+zee
+zees
+zen
+zens
+zero
+zeros
+zest
+zests
+zesty
+zeta
+zetas
+zibet
+zig
+zigs
+zilch
+zinc
+zincs
+zine
+zines
+zing
+zings
+zingy
+zip
+zippy
+zips
+zit
+ziti
+zitis
+zits
+zloty
+zoa
+zonal
+zone
+zoned
+zones
+zonk
+zoo
+zooid
+zool
+zoom
+zooms
+zoon
+zoos
+zorch
+zoril
