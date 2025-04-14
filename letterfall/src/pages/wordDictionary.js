@@ -77,12 +77,17 @@ class WordDictionary {
     this.isLoading = true;
     try {
       const response = await fetch(jsonPath);
-      const wordArray = await response.json();
+      const data = await response.json();
 
-      wordArray.forEach((word) => {
-        if (typeof word === "string") {
-          this.words.add(word.toLowerCase());
-        }
+      // Handle optimized dictionary format
+      Object.values(data).forEach(letterGroups => {
+        Object.values(letterGroups).forEach(words => {
+          words.forEach(word => {
+            if (typeof word === "string") {
+              this.words.add(word.toLowerCase());
+            }
+          });
+        });
       });
 
       this.isLoaded = true;
