@@ -93,17 +93,31 @@ const useGameStore = create((set, get) => ({
   // Get the current active grid based on positions
   getActiveGrid: () => {
     const { letterStrips, letterColumns, rowPositions, colPositions } = get();
+
+    // Step 1: Initialize grid from row positions (as before)
     const grid = Array(5)
       .fill()
       .map(() => Array(5).fill(""));
-
-    // Fill in the grid based on the current row positions
     for (let r = 0; r < 5; r++) {
       for (let c = 0; c < 5; c++) {
-        // For simplicity in this prototype, we'll use the row strips as the primary source
-        // In a more advanced version, we would reconcile row and column positions
         const stripPos = (rowPositions[r] + c) % 10;
         grid[r][c] = letterStrips[r][stripPos];
+      }
+    }
+
+    // Step 2: Apply column shifts
+    for (let c = 0; c < 5; c++) {
+      // Create a temporary array for this column
+      const column = [];
+      for (let r = 0; r < 5; r++) {
+        column.push(grid[r][c]);
+      }
+
+      // Apply shift to this column
+      for (let r = 0; r < 5; r++) {
+        // Calculate the position in the column after shifting
+        const shiftedRow = (r + colPositions[c]) % 5;
+        grid[r][c] = column[shiftedRow];
       }
     }
 
