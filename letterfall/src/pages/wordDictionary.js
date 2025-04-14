@@ -22,6 +22,36 @@ class WordDictionary {
     );
   }
 
+  // Load dictionary from JSON
+  async loadFromJSON(jsonPath) {
+    if (this.isLoading || this.isLoaded) return;
+
+    this.isLoading = true;
+    try {
+      const response = await fetch(jsonPath);
+      const data = await response.json();
+
+      // Handle optimized dictionary format
+      Object.values(data).forEach(letterGroups => {
+        Object.values(letterGroups).forEach(words => {
+          words.forEach(word => {
+            if (typeof word === "string") {
+              this.words.add(word.toLowerCase());
+            }
+          });
+        });
+      });
+
+      this.isLoaded = true;
+      this.isLoading = false;
+      console.log(`Dictionary loaded with ${this.words.size} words`);
+    } catch (error) {
+      console.error("Error loading dictionary:", error);
+      this.isLoading = false;
+      throw error;
+    }
+  }
+
   // Load dictionary from a text file
   async loadFromTxt(txtPath) {
     if (this.isLoading || this.isLoaded) return;
