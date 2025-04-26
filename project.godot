@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Letterfall"
+run/main_scene="uid://g8e4rhn880hw"
 config/features=PackedStringArray("4.4")
 
 [rendering]

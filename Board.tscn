@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://owrkbqrh5h6x"]
+
+[ext_resource type="Script" uid="uid://d06tqhodkohen" path="res://Board.gd" id="1_3ng4l"]
+[ext_resource type="Script" uid="uid://cycuqyer0flex" path="res://Tile.gd" id="2_otxgx"]
+
+[node name="Board" type="Node2D"]
+script = ExtResource("1_3ng4l")
+
+[node name="Tile" type="Node2D" parent="."]
+script = ExtResource("2_otxgx")
+
+[node name="Label" type="Label" parent="Tile"]
+offset_right = 40.0
+offset_bottom = 23.0

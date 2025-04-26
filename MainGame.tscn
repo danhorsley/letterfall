@@ -1,0 +1,26 @@
+[gd_scene load_steps=3 format=3 uid="uid://g8e4rhn880hw"]
+
+[ext_resource type="Script" uid="uid://cecls6x722g38" path="res://MainGame.gd" id="1_e3m3f"]
+[ext_resource type="Script" uid="uid://d06tqhodkohen" path="res://Board.gd" id="2_ws5ob"]
+
+[node name="MainGame" type="Node"]
+script = ExtResource("1_e3m3f")
+
+[node name="UI" type="Node" parent="."]
+
+[node name="ScoreLabel" type="Label" parent="UI"]
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="ChainCounter" type="Label" parent="UI"]
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="Board" type="Node2D" parent="."]
+script = ExtResource("2_ws5ob")
+
+[node name="Tile" type="Node2D" parent="Board"]
+
+[node name="Label" type="Label" parent="Board/Tile"]
+offset_right = 40.0
+offset_bottom = 23.0
